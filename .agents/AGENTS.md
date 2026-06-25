@@ -116,5 +116,16 @@
 - Edge of Darkness -> 黑暗边缘
 - Average Correction -> 均值修正
 - Demon Slaying Judge -> 灭魔审判官
+- Author's Note -> 作者的话
+- Sneak Peek -> 窥视
+- Attribute Detection -> 属性检测
+- Sage's Eye -> 贤者之眼
+- Fourth Wall -> 第四面墙
+- Poison Bomb -> 毒气弹
+- High-Level Poison Bomb -> 高级毒气弹
+- Absolute Throne -> 绝对王座
+- Purest Sword Force / Dedicated Sword Force -> 罡气功
+- Cinema Trip -> 电影之旅
+- Divine Weapon (神機箭) -> 神机箭
 
 </Glossary>
