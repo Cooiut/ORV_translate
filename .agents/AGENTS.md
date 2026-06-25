@@ -127,5 +127,15 @@
 - Purest Sword Force / Dedicated Sword Force -> 罡气功
 - Cinema Trip -> 电影之旅
 - Divine Weapon (神機箭) -> 神机箭
+- Gong Pildu -> 孔弼斗
+- Ye Hyunwoo -> 叶贤宇
+- Bang Cheolsoo -> 方铁洙
+- Seven-star Sword -> 七星剑
+- Inhopa -> 仁浩帮
+- King of gangsters -> 流氓王
+- Heartless Mother -> 冷酷母亲
+- Assassin King -> 暗杀王
+- Provocation Fire Flute -> 挑衅的角笛
+- Breath -> 闭气功
 
 </Glossary>
