@@ -137,5 +137,8 @@
 - Assassin King -> 暗杀王
 - Provocation Fire Flute -> 挑衅的角笛
 - Breath -> 闭气功
+- Classification: Sub -> 分类：支线任务
+- Category: Hidden -> 分类：隐藏任务
+- Category: Main -> 分类：主线任务
 
 </Glossary>
