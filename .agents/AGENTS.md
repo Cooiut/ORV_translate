@@ -242,13 +242,29 @@
 - Specter's Stone -> 亡灵石
 - Self-Defense -> 自我防御
 - Great Hall -> 大礼堂
+- Beast Tamer -> 驯兽师
+- Five Heavenly Emperors -> 五天帝
+- Emotional restraint -> 感情抑制
+- Archangel Jophiel -> 大天使尤菲尔
+- Elliot Haston -> 埃利奥特·哈斯顿
+- Knight of the Lake -> 湖上骑士
+- Lancelot -> 兰斯洛特
+- Griffith -> 格里菲斯
+- Star Ladder -> 星辰梯
+- Washington East -> 东华盛顿
+- Dark Seeker -> 暗黑求道者
+- Dark Sentinel -> 暗黑守护者
+- Kim Dokja’s Fragment / Fragments of Kim Dokja -> 金独子的碎片
+- Earth River Lord -> 地河之主
+- Treasure Storehouse / Treasure Warehouse -> 藏宝库
+- Oath of Existence -> 存在之誓
 </Glossary>
 
 <Memory_Checkpoint>
 ## 记忆快照 (Memory Checkpoint)
 
 ### 1. Plot State
-李鹤翾昏迷45天后在病房中苏醒，与景世仁、李丹数、叶贤宇和暗杀王等同伴重聚。李鹤翾得知自己在此期间失去了《灭活法》的相关技能，且世界已推进至第七个任务“讨伐”，刘众赫在此期间夺取了“绝对王座”。在病房外，李鹤翾与同伴们切磋，并见到了成为善人一方的李雪花医生。李鹤翾呼唤并使用“正午的密会”联系上了“救赎的魔王”（分裂出的第一个金独子灵魂）。为了获得“救赎的魔王”的通关协助，李鹤翾被要求前去在刘众赫后脑勺上拍了一记。刘众赫因搜寻韩秀英留下的异界记忆而饱受回归与疯狂的折磨，发现李鹤翾能用[煽动]将另一条线的幸福记忆植入其脑海后，刘众赫选择留下李鹤翾作为遏制自身失控的“保险栓”，并命令他加入接下来的任务。同时，李鹤翾发现连载小说平台上在自己昏迷的45天内是完全空白的。
+李鹤翾昏迷45天后在病房中苏醒，与景世仁、李丹数、叶贤宇和暗杀王等同伴重聚。李鹤翾得知自己在此期间失去了《灭活法》的相关技能，且世界已推进至第七个任务“讨伐”，刘众赫在此期间夺取了“绝对王座”。在病房外，李鹤翾与同伴们切磋，并见到了成为善人一方的李雪花医生。李鹤翾呼唤并使用“正午的密会”联系上了“救赎的魔王”（分裂出的第一个金独子灵魂）。为了获得“救赎的魔王”的通关协助，李鹤翾被要求前去在刘众赫后脑勺上拍了一记。刘众赫因搜寻韩秀英留下的异界记忆而饱受回归与疯狂的折磨，发现李鹤翾能用[煽动]将另一条线的幸福记忆植入其脑海后，刘众赫选择留下李鹤翾作为遏制自身失控的“保险栓”，并命令他加入接下来的任务。同时，李鹤翾发现连载小说平台上在自己昏迷的45天内是完全空白的。刘众赫与安娜·克罗夫特在华盛顿穹顶合力击退魔物前锋，在探索过程中，克里斯蒂娜向千仁浩（金独子）承认，在第五任务中她们催眠安娜并使用“灾难召唤权”意图召唤“救赎的魔王”作为灾难。金独子则发现其魔王修饰语“救赎的魔王”由于欠费已被系统管理局收回并出售给了一个从“暗黑守护者”逐步吞噬金独子碎片进化为“暗黑求道者”的恶魔。金独子（千仁浩）、安娜与克里斯蒂娜前往华盛顿穹顶，途中提示伪魔王被杀，但任务并未结束。英国代表化身埃利奥特·哈斯顿以及飞鸟莲等各国强者齐聚华盛顿。最终，盘踞在国会大厦穹顶上的黑色巨兽神似刘众赫，新的任务随之降临。
 
 ### 2. Style Consistency
 - **去西化动作描写**：消除英文特有的长从句与翻译腔，使用符合中文网文习惯的生动表达（如将“struck hard”译为“砸了一闷棍”）。
@@ -344,6 +360,22 @@
 - Specter's Stone -> 亡灵石 (Item)
 - Self-Defense -> 自我防御 (Skill)
 - Great Hall -> 大礼堂 (Location)
+- Beast Tamer -> 驯兽师 (Concept)
+- Five Heavenly Emperors -> 五天帝 (Concept)
+- Emotional restraint -> 感情抑制 (System)
+- Archangel Jophiel -> 大天使尤菲尔 (Character)
+- Elliot Haston -> 埃利奥特·哈斯顿 (Character)
+- Knight of the Lake -> 湖上骑士 (Constellation)
+- Lancelot -> 兰斯洛特 (Character)
+- Griffith -> 格里菲斯 (Item)
+- Star Ladder -> 星辰梯 (System)
+- Washington East -> 东华盛顿 (Location)
+- Dark Seeker -> 暗黑求道者 (Monster)
+- Dark Sentinel -> 暗黑守护者 (Monster)
+- Kim Dokja’s Fragment / Fragments of Kim Dokja -> 金独子的碎片 (Item/Concept)
+- Earth River Lord -> 地河之主 (Monster)
+- Treasure Storehouse / Treasure Warehouse -> 藏宝库 (Location)
+- Oath of Existence -> 存在之誓 (System)
 </Memory_Checkpoint>
 
 
