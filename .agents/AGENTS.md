@@ -46,7 +46,7 @@
 
 【核心系统与设定】
 - Star Stream -> 星流
-- Scenario -> 剧本
+- Scenario -> 任务
 - Constellation -> 星座
 - Incarnation -> 化身
 - Sponsor -> 赞助者
@@ -129,7 +129,7 @@
 - Divine Weapon (神機箭) -> 神机箭
 - Gong Pildu -> 孔弼斗
 - Ye Hyunwoo -> 叶贤宇
-- Bang Cheolsoo -> 方铁洙
+- Bang Cheolsoo -> 方哲洙
 - Seven-star Sword -> 七星剑
 - Inhopa -> 仁浩帮
 - King of gangsters -> 流氓王
@@ -140,5 +140,72 @@
 - Classification: Sub -> 分类：支线任务
 - Category: Hidden -> 分类：隐藏任务
 - Category: Main -> 分类：主线任务
+- Record Repairer -> 记录修复师
+- Labyrinth Keeper -> 迷宫守护者
+- Star Labyrinth -> 星辰迷宫
+- Beast Lord -> 兽王
+- Gyeonwon / Gyeonhun -> 甄萱
+- Later Baekje -> 后百济
+- The Dragon King -> 龙王
+- Rookie hunters / Rookie hunter -> 新手猎人
+- Reader comment list -> 读者评论列表
+- The Last Ark -> 最后的方舟
+- Dragon Head Ark -> 龙首舟
+- Wansanju -> 完山州
+- Hannam County Founder -> 完山州开国之祖
+- King's Spirit -> 霸王之气
+- Baekjeong Ganggi / Baekjeonggi -> 百晶罡气
+- Relentless Guts -> 不屈的斗志
+- Enhance Sentence / Sentence Reinforcement -> 强化句子
+- Fiery Sword of the Underworld -> 冥府烈火之剑
+- Pajeon swordsman -> 破天剑圣
+- Time Fault -> 时间夹缝
+- Valkyrie’s Protection / Valkyrie's protection -> 女武神的庇护
+- Valkyrie's remorse -> 女武神的悔恨
+- Valkyrie's relics -> 女武神的遗物
+- Battle Action Mode / combat action mode -> 战斗指令模式
+- kkoma Kim Dokja -> 小金独子
+- Noh Gyeonghwan -> 卢庆焕
+- Silla -> 新罗
+- Seyeon / Lee Seyeon -> 李世妍
+- Kyung Sein -> 景世仁
+- Ye Hyunwoo -> 叶贤宇
+- Goo Seonah -> 具善雅
+- Kang Ilhun -> 姜日勋
 
 </Glossary>
+
+<Memory_Checkpoint>
+## 记忆快照 (Memory Checkpoint)
+
+### 1. Plot State
+李鹤翾（承载千仁浩角色壳）通关第四任务“王者之路”，前往金湖站与方哲洙重逢，拒绝夺取其旗帜并决定见证凡人的故事。随后触发星辰迷宫支线，李鹤翾降服魔物并搜集物资。多名读者（景世仁、叶贤宇等）均已进入地下城。电影院地下城中，具善雅等人因战力不足深陷危机。由于部分化身行动过于激进，第五主线任务“实质之灾”的预兆被鬼怪保罗提前唤醒，并自作主张调整为隐藏任务“聚集则死，分散亦死”，迷宫内的读者与化身均面临生死考验。
+
+### 2. Style Consistency
+- **去西化动作描写**：消除英文特有的长从句与翻译腔，使用符合中文网文习惯的生动表达（如将“struck hard”译为“砸了一闷棍”）。
+- **深刻独白与标点**：使用直角引号「」来界定角色深刻的内心独白或元文本级思考；叹气或无言以对时统一使用“……”（六点省略号）。
+- **动态代词指代消解**：避免满篇“他/她/它”导致阅读疲劳，在不破坏原意的前提下，根据上下文将代词替换为角色名字（“独子”、“众赫”、“秀英”、“鹤翾”、“恩宥”）或物体具体名称。
+- **角色语气拟真**：金独子冷静中带自嘲与淡淡疲惫；刘众赫冷酷命令式且压迫感极强；韩秀英毒舌傲娇语速快。
+
+### 3. Incremental Glossary
+- classification: Sub -> 分类：支线任务 (System)
+- Category: Hidden -> 分类：隐藏任务 (System)
+- Category: Main -> 分类：主线任务 (System)
+- Sneak Peek -> 窥视 (Skill)
+- Attribute Detection -> 属性检测 (Skill)
+- Purest Sword Force / Dedicated Sword Force -> 罡气功 (Skill)
+- Gong Pildu -> 孔弼斗 (Character)
+- Bang Cheolsoo -> 方哲洙 (Character)
+- Goo Seonah -> 具善雅 (Character)
+- Ye Hyunwoo -> 叶贤宇 (Character)
+- Noh Gyeonghwan -> 卢庆焕 (Character)
+- Representative Kim Dokja -> 金独子代表 (Character)
+- Plagiarized Author -> 抄袭作家 (Concept)
+- Star Labyrinth -> 星辰迷宫 (Location)
+- Labyrinth Keeper -> 迷宫守护者 (Monster)
+- Relentless Guts -> 不屈的斗志 (Stigma)
+- Battle Action Mode / combat action mode -> 战斗指令模式 (System)
+- kkoma Kim Dokja -> 小金独子 (Character)
+</Memory_Checkpoint>
+
+
