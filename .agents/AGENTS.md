@@ -16,6 +16,7 @@
 5. **单线程串行翻译**：**禁止并行翻译**。禁止使用多个子智能体或在不同对话中并行翻译多个章节，以避免专有名词不一致或冲突。必须采取单线程/串行方式进行翻译，并在每一章翻译完后及时将新增名词更新到词汇表。
 6. **任务流结算**：文件修改完成后仅回答“完成”，然后更新专有名词表到本文件（AGENTS.md）。
 </Format_Rules>
+7. 工作文件夹限定在orv_sequel\OEBPS，禁止读取其他文件夹
 
 <Stylistic_Rules>
 ## 文体风格与润色指南
@@ -116,6 +117,8 @@
 * Noh Gyeonghwan $\rightarrow$ 卢庆焕
 * Seyeon / Lee Seyeon $\rightarrow$ 李世妍
 * Ye Hyunwoo $\rightarrow$ 叶贤宇
+* Jung Moonho $\rightarrow$ 郑文浩
+* Sergeant Jung Moonho $\rightarrow$ 郑文浩下士
 * Goo Seonah $\rightarrow$ 具善雅
 * Kang Ilhun $\rightarrow$ 姜日勋
 * Min Jiwon $\rightarrow$ 闵智媛
@@ -139,6 +142,7 @@
 * Beast Tamer $\rightarrow$ 驯兽师
 * Rookie hunters / Rookie hunter $\rightarrow$ 新手猎人
 * Literature Girl 64 $\rightarrow$ 文学少女64
+* Killer King $\rightarrow$ 杀戮之王
 * Izumi $\rightarrow$ 泉
 * Kyrgios Roadgrim $\rightarrow$ 奇瓦士·罗德格林
 * Archangel Jophiel $\rightarrow$ 大天使尤菲尔
@@ -146,6 +150,7 @@
 * Misreading Association $\rightarrow$ 误读协会
 * Zarathustra $\rightarrow$ 查拉图斯特拉 / 扎拉图斯特拉
 * Salvation Church $\rightarrow$ 救赎教会
+* Bicheonhori $\rightarrow$ 飞天狐狸
 
 #### 星座修饰语 / 故事印记
 * Great Sage, Heaven’s Equal $\rightarrow$ 齐天大圣
@@ -163,6 +168,15 @@
 * Recorder of Things That Will Disappear $\rightarrow$ 消逝之物的记录者
 * Redemption of Truth / Binding of Truth $\rightarrow$ 真实之救赎
 * Redemption of Life $\rightarrow$ 生命之救赎
+* The One Who Won the Rat $\rightarrow$ 让老鼠获胜的人
+* Tiger That Eats Rice Cake / Tiger Who Eats Rice Cake $\rightarrow$ 吃年糕的虎
+* The Farmer Plowing $\rightarrow$ 耕作的农夫
+* Sigh of the Frozen One $\rightarrow$ 冰冻之人的叹息
+* Scream of a Scorching Flame / Scream of the Scorching Flame $\rightarrow$ 炽热火焰的尖叫
+* The Right Arm of the Sword Master who was Stabbed in the Back by a Colleague $\rightarrow$ 被同伴背后捅刀的穷困潦倒的剑术大师的右臂
+* Nail-Eating Rat $\rightarrow$ 吃指甲的老鼠
+* The Dog That Threw Itself into the Flames $\rightarrow$ 自投烈火的义犬
+* the Pig in the Brick House $\rightarrow$ 砖屋里的猪
 
 #### 技能 / 属性 / 圣痕
 * Attribute Window $\rightarrow$ 属性窗口
@@ -176,6 +190,8 @@
 * Self-Defense $\rightarrow$ 自我防御
 * Emotional restraint $\rightarrow$ 感情抑制
 * Attribute Detection $\rightarrow$ 属性检测
+* Private Property $\rightarrow$ 私有地
+* Armed Zone $\rightarrow$ 武装地带
 * Sneak Peek $\rightarrow$ 窥视
 * Sage's Eye $\rightarrow$ 贤者之眼
 * Fourth Wall $\rightarrow$ 第四面墙
@@ -189,6 +205,7 @@
 * Round Table Council $\rightarrow$ 圆桌议会
 * Round Table Justice $\rightarrow$ 圆桌正义
 * Circulatory Delay / Circulatory Retardation $\rightarrow$ 循环滞缓
+* The Chosen One of Self-defense $\rightarrow$ 自我防御的入选者
 
 #### 任务 / 系统分类
 * Category: Main $\rightarrow$ 分类：主线任务
@@ -203,6 +220,7 @@
 * midday secret meeting $\rightarrow$ 正午的密谈
 * Oath of Existence $\rightarrow$ 存在之誓
 * Hour of Judgement $\rightarrow$ 审判时间
+* The Three Little Pigs $\rightarrow$ 三只小猪
 
 #### 地点 / 场景区域
 * Geumho Station $\rightarrow$ 金湖站
@@ -219,6 +237,7 @@
 * Peace Land $\rightarrow$ 和平之地
 * Washington East $\rightarrow$ 东华盛顿
 * Cannery Factory $\rightarrow$ 小黑屋 / 罐头工厂
+* Void-district $\rightarrow$ 虚无区 / 虚无洞
 
 #### 装备 / 道具 / 星辰遗物
 * star relic $\rightarrow$ 星辰遗物
@@ -245,6 +264,8 @@
 * Elaine Forest Essence $\rightarrow$ 艾莱恩森林的精华
 * Elaine Monkey's Lungs $\rightarrow$ 艾莱恩猴子的肺
 * Thoughts of Almost Everything $\rightarrow$ 近乎一切的思索
+* Shoes of Greed $\rightarrow$ 贪婪之鞋
+* Battle Boots of the Noble One $\rightarrow$ 高贵之人的军靴
 
 #### 怪物 / 灾难 / 世界观符号
 * Dark Keeper / Dark Sentinel $\rightarrow$ 暗黑守护者
