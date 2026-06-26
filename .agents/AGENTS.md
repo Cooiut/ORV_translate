@@ -10,6 +10,7 @@
 3. 纯净流输出：请直接修改 XHTML 文件，并将专有名词回填词汇表，保证后续翻译对于同一名词有固定译名。
 4. 【铁律】：对于修改后的XHTML文件，严禁在修改的文件中包含任何前导解释（如“以下是翻译：”）、严禁使用 Markdown 代码块（如 ```html ）进行包裹、严禁包含任何后置总结。确保输出结果直接写入文件。
 5. 文件修改完成后仅回答“完成”，然后更新专有名词表到本文件（AGENTS.md）。
+6. 禁止并行翻译：禁止使用多个子智能体或在不同对话中并行翻译多个章节，以避免专有名词不一致或冲突。必须采取单线程/串行方式进行翻译，并在每一章翻译完后及时将新增名词更新到词汇表。
 </Format_Rules>
 
 <Stylistic_Rules>
@@ -172,14 +173,82 @@
 - Ye Hyunwoo -> 叶贤宇
 - Goo Seonah -> 具善雅
 - Kang Ilhun -> 姜日勋
-
+- Min Jiwon -> 闵智媛
+- Selena Kim -> 塞莲娜·金
+- Asmodeus -> 阿斯蒙蒂斯
+- Lee Seolhwa -> 李雪花
+- Great Sage, Heaven’s Equal -> 齐天大圣
+- Gingoa -> 紧箍儿
+- Cannery Factory -> 小黑屋 / 罐头工厂
+- Ja Sungwoo -> 贾成宇
+- Ja Yerin -> 贾艺琳
+- Watcher of Light and Darkness -> 光与暗的守护者
+- Oldest Dream -> 最古老的梦
+- rlaehrwk37 -> rlaehrwk37
+- 7942 / 9158 -> 7942 / 9158
+- Stealing the Throne -> 篡夺王座
+- Sylphid's Leaping Boots -> 西尔菲德的跃空靴
+- Black Flame Half Armor -> 黑焰半身甲
+- Fire Dragon Egg -> 火龙蛋
+- Theatre of the Beginning -> 创始剧场
+- Sacrificial Will -> 牺牲意志
+- Munechika Mikazuki -> 三日月宗近
+- Kim Kyungsik -> 金景植
+- Lady Cheolgon -> 铁棍魔女
+- Star Jewel Dungeon -> 星辰宝石副本
+- Acting Human -> 假装人类
+- Yeongmyeon's pocket watch / Pocket Watch of the Immortal Face -> 永眠之怀表
+- Christina Page -> 克里斯蒂娜·佩奇
+- Demagogy Killing -> 煽动杀人
+- Zarathustra -> 查拉图斯特拉
+- Void Curtain / Void Veil -> 虚无之幕
+- founder of the absolute throne -> 绝对王座的创始者
+- Noh Jiyoon -> 卢智允
+- A Persistent Martial Arts Expert -> 顽强的武林高手
+- Lotus Flower Blooming Under the Moonlight -> 月下绽放的莲花
+- Great Hall -> 大礼堂
+- Goryeo’s First Sword -> 高丽第一剑
+- Variant Imoogi Bracky -> 变异蟒怪布拉奇
+- persistent martial arts master -> 不屈的武道大师
+- The One who Hunted the King of Disasters -> 斩杀灾难之王的人
+- Veronica Castle -> 维罗妮卡城堡
+- Yamata no Orochi -> 八岐大蛇
+- Everchanging Stealth Suit -> 百变潜行服
+- Staging -> 舞台搭建
+- Groll -> 格罗尔
+- Earth Python -> 地蟒
+- Heir of the Eternal Name -> 永恒名字的继承者
+- Blade of Faith -> 信念之刃
+- Excalibur -> 王者之剑
+- Arondight -> 无毁的湖光
+- Galatine -> 轮转胜利之剑
+- Killer King -> 杀手王
+- Literature Girl 64 -> 文学少女64
+- Disaster of Floods -> 洪水灾难
+- Disaster of Questions -> 提问灾难
+- Peace Land -> 和平之地
+- Izumi -> 泉
+- Kyrgios Roadgrim -> 奇瓦士·罗德格林
+- midday secret meeting -> 正午的密谈
+- star relic -> 星辰遗物
+- Circulatory Delay / Circulatory Retardation -> 循环滞缓
+- Thoughts of Almost Everything -> 近乎一切的思索
+- Recorder of Things That Will Disappear -> 消逝之物的记录者
+- Tenacious Martial Arts Master -> 顽强的武林高手
+- White Blue Energy -> 白青罡气
+- Weapon Polishing -> 武器淬炼
+- Mental Barrier -> 思想壁垒
+- Zarathustra -> 扎拉图斯特拉
+- Specter's Stone -> 亡灵石
+- Self-Defense -> 自我防御
+- Great Hall -> 大礼堂
 </Glossary>
 
 <Memory_Checkpoint>
 ## 记忆快照 (Memory Checkpoint)
 
 ### 1. Plot State
-李鹤翾（承载千仁浩角色壳）通关第四任务“王者之路”，前往金湖站与方哲洙重逢，拒绝夺取其旗帜并决定见证凡人的故事。随后触发星辰迷宫支线，李鹤翾降服魔物并搜集物资。多名读者（景世仁、叶贤宇等）均已进入地下城。电影院地下城中，具善雅等人因战力不足深陷危机。由于部分化身行动过于激进，第五主线任务“实质之灾”的预兆被鬼怪保罗提前唤醒，并自作主张调整为隐藏任务“聚集则死，分散亦死”，迷宫内的读者与化身均面临生死考验。
+李鹤翾昏迷45天后在病房中苏醒，与景世仁、李丹数、叶贤宇和暗杀王等同伴重聚。李鹤翾得知自己在此期间失去了《灭活法》的相关技能，且世界已推进至第七个任务“讨伐”，刘众赫在此期间夺取了“绝对王座”。在病房外，李鹤翾与同伴们切磋，并见到了成为善人一方的李雪花医生。李鹤翾呼唤并使用“正午的密会”联系上了“救赎的魔王”（分裂出的第一个金独子灵魂）。为了获得“救赎的魔王”的通关协助，李鹤翾被要求前去在刘众赫后脑勺上拍了一记。刘众赫因搜寻韩秀英留下的异界记忆而饱受回归与疯狂的折磨，发现李鹤翾能用[煽动]将另一条线的幸福记忆植入其脑海后，刘众赫选择留下李鹤翾作为遏制自身失控的“保险栓”，并命令他加入接下来的任务。同时，李鹤翾发现连载小说平台上在自己昏迷的45天内是完全空白的。
 
 ### 2. Style Consistency
 - **去西化动作描写**：消除英文特有的长从句与翻译腔，使用符合中文网文习惯的生动表达（如将“struck hard”译为“砸了一闷棍”）。
@@ -206,6 +275,75 @@
 - Relentless Guts -> 不屈的斗志 (Stigma)
 - Battle Action Mode / combat action mode -> 战斗指令模式 (System)
 - kkoma Kim Dokja -> 小金独子 (Character)
+- Min Jiwon -> 闵智媛 (Character)
+- Selena Kim -> 塞莲娜·金 (Character)
+- Asmodeus -> 阿斯蒙蒂斯 (Character)
+- Lee Seolhwa -> 李雪花 (Character)
+- Great Sage, Heaven’s Equal -> 齐天大圣 (Character)
+- Gingoa -> 紧箍儿 (Item)
+- Cannery Factory -> 小黑屋 / 罐头工厂 (Concept)
+- Ja Sungwoo -> 贾成宇 (Character)
+- Ja Yerin -> 贾艺琳 (Character)
+- Watcher of Light and Darkness -> 光与暗的守护者 (Modifier)
+- Oldest Dream -> 最古老的梦 (Concept)
+- rlaehrwk37 -> rlaehrwk37 (Concept)
+- 7942 / 9158 -> 7942 / 9158 (Concept)
+- Stealing the Throne -> 篡夺王座 (Scenario)
+- Sylphid's Leaping Boots -> 西尔菲德的跃空靴 (Item)
+- Black Flame Half Armor -> 黑焰半身甲 (Item)
+- Fire Dragon Egg -> 火龙蛋 (Item)
+- Theatre of the Beginning -> 创始剧场 (Location)
+- Sacrificial Will -> 牺牲意志 (Stigma)
+- Munechika Mikazuki -> 三日月宗近 (Item)
+- Kim Kyungsik -> 金景植 (Character)
+- Lady Cheolgon -> 铁棍魔女 (Character)
+- Star Jewel Dungeon -> 星辰宝石副本 (Location)
+- Acting Human -> 假装人类 (Skill)
+- Yeongmyeon's pocket watch / Pocket Watch of the Immortal Face -> 永眠之怀表 (Item)
+- Christina Page -> 克里斯蒂娜·佩奇 (Character)
+- Demagogy Killing -> 煽动杀人 (Achievement)
+- Zarathustra -> 查拉图斯特拉 (Nebula/Group)
+- Void Curtain / Void Veil -> 虚无之幕 (Concept)
+- founder of the absolute throne -> 绝对王座的创始者 (Character)
+- Noh Jiyoon -> 卢智允 (Character)
+- A Persistent Martial Arts Expert -> 顽强的武林高手 (Modifier)
+- Lotus Flower Blooming Under the Moonlight -> 月下绽放的莲花 (Modifier)
+- Great Hall -> 大礼堂 (Location)
+- Goryeo’s First Sword -> 高丽第一剑 (Constellation)
+- Variant Imoogi Bracky -> 变异蟒怪布拉奇 (Monster)
+- persistent martial arts master -> 不屈的武道大师 (Story)
+- The One who Hunted the King of Disasters -> 斩杀灾难之王的人 (Story)
+- Veronica Castle -> 维罗妮卡城堡 (Location)
+- Yamata no Orochi -> 八岐大蛇 (Monster)
+- Everchanging Stealth Suit -> 百变潜行服 (Item)
+- Staging -> 舞台搭建 (Concept)
+- Groll -> 格罗尔 (Monster)
+- Earth Python -> 地蟒 (Monster)
+- Heir of the Eternal Name -> 永恒名字的继承者 (Story)
+- Blade of Faith -> 信念之刃 (Skill)
+- Excalibur -> 王者之剑 (Item)
+- Arondight -> 无毁的湖光 (Item)
+- Galatine -> 轮转胜利之剑 (Item)
+- Killer King -> 杀手王 (Character)
+- Literature Girl 64 -> 文学少女64 (Character)
+- Disaster of Floods -> 洪水灾难 (System)
+- Disaster of Questions -> 提问灾难 (System)
+- Peace Land -> 和平之地 (Location)
+- Izumi -> 泉 (Character)
+- Kyrgios Roadgrim -> 奇瓦士·罗德格林 (Character)
+- midday secret meeting -> 正午的密谈 (System)
+- star relic -> 星辰遗物 (Item)
+- Circulatory Delay / Circulatory Retardation -> 循环滞缓 (Skill/Trait)
+- Thoughts of Almost Everything -> 近乎一切的思索 (Item)
+- Recorder of Things That Will Disappear -> 消逝之物的记录者 (Story)
+- Tenacious Martial Arts Master -> 顽强的武林高手 (Story)
+- White Blue Energy -> 白青罡气 (Skill)
+- Weapon Polishing -> 武器淬炼 (Skill)
+- Mental Barrier -> 思想壁垒 (Skill)
+- Zarathustra -> 扎拉图斯特拉 (Nebula/Group)
+- Specter's Stone -> 亡灵石 (Item)
+- Self-Defense -> 自我防御 (Skill)
+- Great Hall -> 大礼堂 (Location)
 </Memory_Checkpoint>
 
 
