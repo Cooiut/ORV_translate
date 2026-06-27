@@ -298,6 +298,7 @@
 * Silla $\rightarrow$ 新罗
 * Later Baekje $\rightarrow$ 后百济
 * Wansanju $\rightarrow$ 完山州
+* Asgard $\rightarrow$ 阿斯加德
 * The Dragon King $\rightarrow$ 龙王
 * Rewrite $\rightarrow$ 重写
 * all-chara $\rightarrow$ 全员推
