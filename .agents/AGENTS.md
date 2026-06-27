@@ -317,11 +317,31 @@
 * Ghost Fleet $\rightarrow$ 幽灵舰队
 * Horn of the Horizon $\rightarrow$ 境界之角
 
+#### 怪物 / 灾难 / 世界观符号
+* Dark Keeper / Dark Sentinel $\rightarrow$ 暗黑守护者
+* Dark Seeker $\rightarrow$ 暗黑求道者
+* Kim Dokja’s Fragment / Fragments of Kim Dokja $\rightarrow$ 金独子的碎片
+* Oldest Dream $\rightarrow$ 最古老的梦
+* The World After The End $\rightarrow$ 灭亡后的世界
+* Void Curtain / Void Veil $\rightarrow$ 虚无之幕
+* Great poisonous rhinoceros $\rightarrow$ 大毒犀
+* Labyrinth Keeper $\rightarrow$ 迷宫守护者
+* Beast Lord $\rightarrow$ 兽王
+* Variant Imoogi Bracky $\rightarrow$ 变异蟒怪布拉奇
+* Yamata no Orochi $\rightarrow$ 八岐大蛇
+* Groll $\rightarrow$ 格罗尔
+* Earth Python $\rightarrow$ 地蟒
+* Earth River Lord $\rightarrow$ 地河之主
+* Fire Dragon Egg $\rightarrow$ 火龙蛋
+* The Last Ark $\rightarrow$ 最后的方舟
+* Dragon Head Ark $\rightarrow$ 龙首舟
+* The Hound of the Abyss / Hound $\rightarrow$ 深渊猎犬 / 猎犬
+
 #### 历史线 / 国家政权 / 其他
 * Silla $\rightarrow$ 新罗
 * Later Baekje $\rightarrow$ 后百济
 * Wansanju $\rightarrow$ 完山州
-* Asgard $\rightarrow$ Asgard
+* Asgard $\rightarrow$ 阿斯加德
 * The Dragon King $\rightarrow$ 龙王
 * Rewrite $\rightarrow$ 重写
 * all-chara $\rightarrow$ 全员推
