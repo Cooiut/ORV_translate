@@ -9,7 +9,7 @@
 <Format_Rules>
 ## 文本处理与输出规范
 
-1. **严格的代码护栏**：输入文本是标准的 XHTML/HTML 片段。你**严格禁止**删除、修改或破坏任何 HTML 标签、属性或结构（例如 `<p>`, `<span>`, `<a>`, `<b class="...">` 等）。
+1. **严格的代码护栏**：输入文本是标准的 XHTML/HTML 片段。你**严格禁止**删除、修改 or 破坏任何 HTML 标签、属性 or 结构（例如 `<p>`, `<span>`, `<a>`, `<b class="...">` 等）。
 2. **原地回填**：你必须仅对标签内部包裹的英文文本进行翻译，并将译文原封不动地替换回原标签中。
 3. **纯净流输出**：请直接修改 XHTML 文件，并将专有名词回填词汇表，保证后续翻译对于同一名词有固定译名。
 4. **【铁律】**：对于修改后的 XHTML 文件，**严禁**在修改的文件中包含任何前导解释（如“以下是翻译：”）、**严禁**使用 Markdown 代码块（如 ````html `）进行包裹、**严禁**包含任何后置总结。确保输出结果直接写入文件。
@@ -155,6 +155,16 @@
 * Salvation Church $\rightarrow$ 救赎教会
 * Bicheonhori $\rightarrow$ 飞天狐狸
 * Reiki $\rightarrow$ 雷奇
+* Hermaphroditus / First Hermaphrodite $\rightarrow$ 双性神赫玛佛洛狄忒斯
+* Defense Master $\rightarrow$ 防御之主
+* Archangel Uriel $\rightarrow$ 大天使乌列尔
+* Pure Moonlight Hunter $\rightarrow$ 纯洁月光的猎人
+* Almighty Sun $\rightarrow$ 万能的太阳
+* Spokesperson of Justice and Wisdom $\rightarrow$ 正义与智慧的代言人
+* Cheongae $\rightarrow$ 天盖
+* Arc of the Dragon Head Cheongae / Dragon Head Ark $\rightarrow$ 龙头帮主天盖 / 丐帮龙头
+* Second Kim Dokja $\rightarrow$ 第二位金独子
+* Jung Eunho $\rightarrow$ 郑恩浩
 
 #### 星座修饰语 / 故事印记
 * Great Sage, Heaven’s Equal $\rightarrow$ 齐天大圣
@@ -181,6 +191,15 @@
 * Nail-Eating Rat $\rightarrow$ 吃指甲的老鼠
 * The Dog That Threw Itself into the Flames $\rightarrow$ 自投烈火的义犬
 * the Pig in the Brick House $\rightarrow$ 砖屋里的猪
+* Father of the Rich Night $\rightarrow$ 富裕之夜的父亲
+* Spear that Draws the Boundary of the Seas $\rightarrow$ 画界为海之枪
+* One-eyed Father $\rightarrow$ 独眼之父
+* Master of Skywalk $\rightarrow$ 空行之王
+* Demon-like Judge of Fire $\rightarrow$ 恶魔般的烈火审判者
+* Maritime War God $\rightarrow$ 海上战神
+* Bald General of Justice $\rightarrow$ 秃头正义将军
+* Maegeumjijon $\rightarrow$ 寐锦至尊
+* True God Ouijeolgi $\rightarrow$ 真神外传绝技
 
 #### 技能 / 属性 / 圣痕
 * Attribute Window $\rightarrow$ 属性窗口
@@ -210,8 +229,17 @@
 * Round Table Justice $\rightarrow$ 圆桌正义
 * Circulatory Delay / Circulatory Retardation $\rightarrow$ 循环滞缓
 * The Chosen One of Self-defense $\rightarrow$ 自我防御的入选者
+* Daily Invoice / Daily Corpse $\rightarrow$ 一日尸体
+* Infinite Uroboros $\rightarrow$ 无限衔尾蛇
+* Nakgak Breathing / Nagak Breathing $\rightarrow$ 螺角呼吸法
+* Ghost Walk $\rightarrow$ 鬼步
+* God killing $\rightarrow$ 弑神
+* Instant Kill $\rightarrow$ 瞬杀
+* Breaking the Sky Myeol Hwanggeom $\rightarrow$ 破天灭皇剑
+* Breaking the Sky Ryu Seong-gyeol $\rightarrow$ 破天流星决
+* Cheonjangsa $\rightarrow$ 千丈丝
 
-#### 任务 / 系统分类
+#### 任务 / system分类
 * Category: Main $\rightarrow$ 分类：主线任务
 * Category: Hidden $\rightarrow$ 分类：隐藏任务
 * Classification: Sub $\rightarrow$ 分类：支线任务
@@ -227,6 +255,8 @@
 * The Three Little Pigs $\rightarrow$ 三只小猪
 * Orient Express Wagon / Orient Express Carriage $\rightarrow$ 东方快车马车
 * Zodiac Ball $\rightarrow$ 十二生肖宴会
+* Philia Academy $\rightarrow$ 菲利亚学院
+* Invincible Castle Tech Tree $\rightarrow$ 无敌堡垒加点路线
 
 #### 地点 / 场景区域
 * Geumho Station $\rightarrow$ 金湖站
@@ -245,6 +275,8 @@
 * Cannery Factory $\rightarrow$ 小黑屋 / 罐头工厂
 * Void-district $\rightarrow$ 虚无区 / 虚无洞
 * Edge of the Other World $\rightarrow$ 异界边缘
+* Room of Time $\rightarrow$ 时间之室
+* Story Horizon $\rightarrow$ 故事的境界
 
 #### 装备 / 道具 / 星辰遗物
 * star relic $\rightarrow$ 星辰遗物
@@ -276,32 +308,20 @@
 * Ghost / Ghost Blade $\rightarrow$ 幽灵 / 幽灵刃
 * Shin Jincheol / His Majesty Jeongjeo Shin Jincheol $\rightarrow$ 天河定底神珍铁 / 神珍铁
 * Sea Pendulum $\rightarrow$ 定海神针
-
-#### 怪物 / 灾难 / 世界观符号
-* Dark Keeper / Dark Sentinel $\rightarrow$ 暗黑守护者
-* Dark Seeker $\rightarrow$ 暗黑求道者
-* Kim Dokja’s Fragment / Fragments of Kim Dokja $\rightarrow$ 金独子的碎片
-* Oldest Dream $\rightarrow$ 最古老的梦
-* The World After The End $\rightarrow$ 灭亡后的世界
-* Void Curtain / Void Veil $\rightarrow$ 虚无之幕
-* Great poisonous rhinoceros $\rightarrow$ 大毒犀
-* Labyrinth Keeper $\rightarrow$ 迷宫守护者
-* Beast Lord $\rightarrow$ 兽王
-* Variant Imoogi Bracky $\rightarrow$ 变异蟒怪布拉奇
-* Yamata no Orochi $\rightarrow$ 八岐大蛇
-* Groll $\rightarrow$ 格罗尔
-* Earth Python $\rightarrow$ 地蟒
-* Earth River Lord $\rightarrow$ 地河之主
-* Fire Dragon Egg $\rightarrow$ 火龙蛋
-* The Last Ark $\rightarrow$ 最后的方舟
-* Dragon Head Ark $\rightarrow$ 龙首舟
-* The Hound of the Abyss / Hound $\rightarrow$ 深渊猎犬 / 猎犬
+* Ray Bringer $\rightarrow$ 雷温林格
+* Light Wish $\rightarrow$ 光之夙愿
+* Light Bringer $\rightarrow$ 光之使者
+* Arachne's Web $\rightarrow$ 阿拉克涅之网
+* Flame of Karma $\rightarrow$ 业火
+* Troiana $\rightarrow$ 特里亚伊纳
+* Ghost Fleet $\rightarrow$ 幽灵舰队
+* Horn of the Horizon $\rightarrow$ 境界之角
 
 #### 历史线 / 国家政权 / 其他
 * Silla $\rightarrow$ 新罗
 * Later Baekje $\rightarrow$ 后百济
 * Wansanju $\rightarrow$ 完山州
-* Asgard $\rightarrow$ 阿斯加德
+* Asgard $\rightarrow$ Asgard
 * The Dragon King $\rightarrow$ 龙王
 * Rewrite $\rightarrow$ 重写
 * all-chara $\rightarrow$ 全员推
@@ -332,9 +352,10 @@
 ## 记忆快照 (Memory Checkpoint)
 
 ### 1. 当前剧情状态 (Plot State)
-* **云之路与虚空重逢**：李鹤翾（千仁浩）、池恩宥和贾艺琳搭乘“东方快车马车”在“云之路”疾驰，在“十二生肖赛跑”结束后遭遇作弊的敌对马车夹击。池恩宥使用星辰遗物“幽灵”与“阿拉克涅之网”御敌，但由于敌方动用了“大规模杀伤性魔法弹”导致马车坠毁。在坠落过程中，李鹤翾进入“全知读者视角”第三阶段的钟摆体验，在黑暗深处聆听了某尊散发着绝对零度寒意的“外神”的真言，对方指引他前往“回收站”最顶端以寻找终极故事。随后李鹤翾脱离附身“小金独子”，接住了坠落的池恩宥。
-* **劫车与书签激活**：由于马车被毁面临抹杀惩罚，且“异界边缘”强行撕裂扩张。李鹤翾使用[风之路]带着虚弱昏厥的同伴狂奔，并以“救赎的魔王”的神威威压强行劫持了敌对蛇神派系的马车。为在极限时间内抵达终点要塞，李鹤翾强行激活[书签]一号槽的“无业游民刘众赫”（理解度1%），获得专属特质[职业电竞选手]，看清最优车轨成功加速。
-* **美猴王解封与全知读者视角阵营**：狂飙途中，由于跨境接触“金独子集团”的因果合理性大反噬，大批“深渊猎犬”追杀而来。危急关头，原本收缩在池恩宥怀中酣睡的小美猴王醒来，唤出真名为“天河定底神珍铁”的定海神针，强行解封叙事级神话格位击退猎犬，掩护马车安全停在要塞门前。面对鬼怪门卫雷奇的阻拦与阵营登记盘问，李鹤翾当着同伴们的面将队伍正式命名为“《全知读者视角》”，大门随之敞开，众人成功登入回收站上层建筑区域，随之遭遇了美食协会晚宴主持欧佛洛绪涅聚光灯的照射。
+* **吉永跨界与简易舞台**：李吉永为追寻大哥决定独自跨界前往第41轮生存区大纲副本，与刘众赫（吉众）短暂交锋并继承天丛云剑后动身。与此同时，在回收站最终防线，千仁浩（李鹤翾）在同伴们尽数倒下后融合具善雅托付的碎片，强行超格觉醒魔王状态秒杀奥林匹斯星座。随后李吉永赶到战场，将天丛云剑交予刘众赫。战场上随即降临了当年郑熙媛手刃千仁浩的“简易舞台”杀局。
+* **双剑合璧与魔王神陨**：面对必死的大纲重现，千仁浩将[循环滞缓]、[螺角呼吸法]和白青罡气等技能组合，并借助[书签]和[全知读者视角]强行附身刘众赫。在识海中，他以《灭活法》文字设定重新唤醒了刘众赫被献祭忘却的极境剑技，更是将自己未完结小说《无限教官》中马贤成的圣剑“光之使者”在大纲中重塑重现，与天丛云剑双剑合璧，一举洞穿并斩裂了全盛期“救赎的魔王”的神格。
+* **图书室避难与老幺流放**：战后老幺（李鹤翾）拒绝承接“救赎的魔王”一死换全体通关的因果，借助[第四面墙]暗中构筑出安全的“图书室”，将救赎的魔王神格及所有金独子碎片的灵魂温和吸入墙中规避消灭。这也导致老幺自身被法则判定继承了修饰语成为“救赎的魔王”，并以任务失败为代价强行流放至法外之地[故事的境界]垃圾场。
+* **大洋君王舰队大败波塞冬**：降临在垃圾场的奥林匹斯三巨头波塞冬（画界为海之枪）率领大军围剿已被削去星座格位的老幺，大天使乌列尔分身（恶魔般的烈火审判者）和刘众赫拼死护驾。千钧一发之际，第一千八百六十四轮线里的李智慧通过因果协约威严降临。作为李舜臣继承者和“大洋之主宰”，李智慧召唤出遮天蔽日的[幽灵舰队]，并施展出《灭活法》中未曾记载的原创招式[破天灭皇剑]，一剑重创斩裂了波塞冬的神格，全力为刘众赫带走老幺撤离进行断后。逃亡途中，刘众赫用千丈丝和白布条替老幺封穴疗伤，并坦言虽然极度嫌弃老幺一路上多管闲事乱救人，但这段幼稚的可怜故事，却是他这辈子见过的最精彩的故事。
 
 ### 2. 风格一致性要求 (Style Consistency)
 * **去西化动作描写**：消除英文特有的长从句与翻译腔，使用符合中文网文习惯的生动表达（如将“struck hard”译为“砸了一闷棍”）。
