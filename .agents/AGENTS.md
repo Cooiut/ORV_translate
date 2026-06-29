@@ -187,6 +187,19 @@
 * Dionysus $\rightarrow$ 狄奥尼索斯
 * Zeus $\rightarrow$ 宙斯
 * Argo Expeditionary Force $\rightarrow$ 阿尔戈远征队
+* Jaehwan $\rightarrow$ 宰焕
+* Heo Yeo-geon $\rightarrow$ 许与健
+* Cultivators $\rightarrow$ 耕作者
+* Halong $\rightarrow$ 河龙
+* Holong $\rightarrow$ 湖龙
+* Noksoo $\rightarrow$ 绿水
+* Onsae $\rightarrow$ 温世
+* Haesol $\rightarrow$ 海率
+* Namgung Myung $\rightarrow$ 南宫明
+* Dokkaebi Yeonggi $\rightarrow$ 鬼怪英基
+* tax collector $\rightarrow$ 税务官
+* Flame Demon Emperor Star $\rightarrow$ 炎魔帝星
+* Black Wolf Cavalry $\rightarrow$ 黑狼骑
 
 #### 星座修饰语 / 故事印记
 * Great Sage, Heaven’s Equal $\rightarrow$ 齐天大圣
@@ -224,6 +237,8 @@
 * True God Ouijeolgi $\rightarrow$ 真神外传绝技
 * Paradoxical White-Blue $\rightarrow$ 悖论之白青
 * Seat of Lightning $\rightarrow$ 雷霆神座
+* Wanderer of the Snowfield $\rightarrow$ 雪原的流浪者
+* Master of Fear $\rightarrow$ 恐惧之主
 
 #### 技能 / 属性 / 圣痕
 * Attribute Window $\rightarrow$ 属性窗口
@@ -273,6 +288,11 @@
 * Creation Island $\rightarrow$ 创世刀
 * Heavenly Thunderstorm $\rightarrow$ 天地雷暴
 * Eyes of the Great Demon $\rightarrow$ 大恶魔之眼
+* Advanced Multi-species Interaction $\rightarrow$ 高阶多物种感应
+* Full Electrification $\rightarrow$ 全面电人化
+* Silver Screen Seal $\rightarrow$ 银幕的封印
+* False Demon's Banquet $\rightarrow$ 非真魔的宴会
+* Suspicion and Understanding $\rightarrow$ 怀疑与理解
 
 #### 任务 / system分类
 * Category: Main $\rightarrow$ 分类：主线任务
@@ -319,6 +339,7 @@
 * Story Horizon $\rightarrow$ 故事的境界
 * End-level area $\rightarrow$ 终游区域
 * Troy $\rightarrow$ 特洛伊
+* Breaking the Sky School $\rightarrow$ 破天道场
 
 #### 装备 / 道具 / 星辰遗物
 * star relic $\rightarrow$ 星辰遗物
@@ -359,6 +380,12 @@
 * Ghost Fleet $\rightarrow$ 幽灵舰队
 * Horn of the Horizon $\rightarrow$ 境界之角
 * Vajra $\rightarrow$ 金刚杵
+* Graffiti on the Wall $\rightarrow$ 墙上的涂鸦
+* Subway on the way home from work $\rightarrow$ 下班路上的地铁
+* appraisal scale $\rightarrow$ 鉴定天平
+* Settlement Scale $\rightarrow$ 结算天平
+* Heavenly Iron Cloud Gauntlet $\rightarrow$ 天铁云丝手套
+* Heavenly Silkworm Secret Robe $\rightarrow$ 天蚕宝衣
 
 #### 怪物 / 灾难 / 世界观符号
 * Dark Keeper / Dark Sentinel $\rightarrow$ 暗黑守护者
@@ -381,6 +408,11 @@
 * The Hound of the Abyss / Hound $\rightarrow$ 深渊猎犬 / 猎犬
 * Gyo-a-byeong $\rightarrow$ 齿牙兵
 * Tree of Imaginary $\rightarrow$ 虚无之树
+* Dream Eater $\rightarrow$ 吞噬梦想者
+* Alien Signal Light $\rightarrow$ 异界红绿灯
+* Tooth Fin $\rightarrow$ 牙齿鳍
+* Type 1 End-of-the-Story Fear $\rightarrow$ 第一类终幕之恐惧
+* The Last Dragon of the Apocalypse $\rightarrow$ 默示录的最后之龙
 
 #### 历史线 / 国家政权 / 其他
 * Silla $\rightarrow$ 新罗
@@ -410,6 +442,19 @@
 * rlaehrwk37 $\rightarrow$ rlaehrwk37
 * 7942 / 9158 $\rightarrow$ 7942 / 9158
 * Baekcheong-mun $\rightarrow$ 白青门
+* Big Data System $\rightarrow$ 大数据系统
+* Terrarium Project $\rightarrow$ 温室计划
+* Puppet of the Oldest Dream $\rightarrow$ 最古老的梦的傀儡
+* Echoes of Ferociousness $\rightarrow$ 凶残的回响
+* Liberator of the Apocalypse $\rightarrow$ 默示录的解放者
+* Area Tale Curtain $\rightarrow$ 区域故事幕帘
+* Area Offset Spray $\rightarrow$ 区域抵消喷雾
+* Special Pollution Purification Device $\rightarrow$ 特殊污染净化装置
+* Story Core $\rightarrow$ 故事之核
+* Interplanetization $\rightarrow$ 星域化
+* End Grade $\rightarrow$ 终焉级
+* Probability Appropriate Determination $\rightarrow$ 概率合理性判定
+* Final Wall $\rightarrow$ 最后的墙
 </Glossary>
 
 ---
@@ -418,9 +463,8 @@
 ## 记忆快照 (Memory Checkpoint)
 
 ### 1. 当前剧情状态 (Plot State)
-* **读者同盟异界远征与大礼堂开启**：主角团在千仁浩失踪三个月后，利用属性提升变强。突然，世界范围内的“大礼堂”同时开启，昭示着星流的概率再次运转。与此同时，千仁浩（李鹤翾）在“时间夹缝”中苏醒，面对“血魔”的狂暴追杀，他使出浑身解数保住腰间的刘众赫头颅。关键时刻，被召唤的“流氓王”姜日勋（在第40轮线的“姜日勋”）现身，透露可以通过刘众赫的头颅将其复活。
-* **超越者天神混战与白青门创世奥义**：随着紧急警报响起，方舟外层爆发了惊天混战。高丽第一剑拓俊京使用完美肉身与“一斩破千军”怒斩大批奥林匹斯历史级星座，并迎击阿波罗、赫菲斯托斯、雅典娜及阿耳忒弥斯。随后吠陀星云的雷电之神王因陀罗携“千眼法身”神威降临。二番队队长奇瓦士·罗德格林为掩护李鹤翾进入方舟，不惜以断臂为代价，祭出白青门禁忌神技“创世刀”，重创并正面击落因陀罗。
-* **方舟月台集结与第四面墙抵御宙斯**：安娜·克罗夫特在“大恶魔之眼”与[未来启示]耗尽的绝境下，背负力竭的千仁浩（李鹤翾/金独子）强冲向最终方舟。在酒与狂欢之神狄奥尼索斯的阻拦下，刘众赫及时出手将他们拉上方舟。然而，神话级星座雷霆神座宙斯施展无上神威，企图跨越所有权强行捏碎刘众赫的头骨并剥离探究其神魂背后的世界线重置秘密。在刘众赫灵魂深处的无边雪原上，就在宙斯即将洞悉一切的千钧一发之际，专属技能「第四面墙」强制激活，抵御了宙斯的窥探。
+* **李鹤翾回归新武林，与景世仁重逢**：李鹤翾（老幺）在降临第70号任务区域（新武林区）后遇到南宫明，并随其前往破败的〈■■■集团〉总部（破天道场）。在这里他重逢了景世仁及机械黑狗（破天师尊）。得知杀戮之王等同伴已在神秘人带领下飞升，而景世仁则自愿留守并身患严重的灵魂故事剥离伤。随后鬼怪英基登门催缴十万 D-coin 的公司欠税。
+* **天平鉴定与记录者契约**：为了偿债，老幺在拍卖行的鉴定天平上放下一根因继承“恐惧之王”故事而拥有“终焉级”位格的发丝，成功兑换了一万 D-coin，从而引来吠陀生物科技成员的围攻与流动恶意。老幺暗中施展【煽动】诱导众人拔发鉴定，致使天平狂暴反噬并血洗大厅。此举引来“恐惧的记录者”的概率合理性判定，多位记录者（包括一位极度厌恶回归的记录者）向老幺发出了专属执笔契约的邀请。
 
 ### 2. 风格一致性要求 (Style Consistency)
 * **去西化动作描写**：消除英文特有的长从句与翻译腔，使用符合中文网文习惯的生动表达（如将“struck hard”译为“砸了一闷棍”）。
