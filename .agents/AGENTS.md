@@ -177,6 +177,16 @@
 * Naked Saint $\rightarrow$ 赤裸圣者
 * Silver Binding $\rightarrow$ 银色束缚
 * Awakened $\rightarrow$ 觉醒者
+* Apollo $\rightarrow$ 阿波罗
+* Helios $\rightarrow$ 赫利俄斯
+* Hephaestus $\rightarrow$ 赫菲斯托斯
+* Athena $\rightarrow$ 雅典娜
+* Artemis $\rightarrow$ 阿耳忒弥斯
+* Eight Locapalas / Lokapalas / Lokapala $\rightarrow$ 八大守护神
+* Indra $\rightarrow$ 因陀罗
+* Dionysus $\rightarrow$ 狄奥尼索斯
+* Zeus $\rightarrow$ 宙斯
+* Argo Expeditionary Force $\rightarrow$ 阿尔戈远征队
 
 #### 星座修饰语 / 故事印记
 * Great Sage, Heaven’s Equal $\rightarrow$ 齐天大圣
@@ -212,6 +222,8 @@
 * Bald General of Justice $\rightarrow$ 秃头正义将军
 * Maegeumjijon $\rightarrow$ 寐锦至尊
 * True God Ouijeolgi $\rightarrow$ 真神外传绝技
+* Paradoxical White-Blue $\rightarrow$ 悖论之白青
+* Seat of Lightning $\rightarrow$ 雷霆神座
 
 #### 技能 / 属性 / 圣痕
 * Attribute Window $\rightarrow$ 属性窗口
@@ -255,6 +267,12 @@
 * Mirror Vision $\rightarrow$ 心之镜
 * Hapgongdapbo $\rightarrow$ 合功踏步
 * Daily Free Pass $\rightarrow$ 每日免费券
+* All-in-One $\rightarrow$ 合一
+* Thunderstorm $\rightarrow$ 雷电风暴
+* Pure White Paradox $\rightarrow$ 纯白悖论
+* Creation Island $\rightarrow$ 创世刀
+* Heavenly Thunderstorm $\rightarrow$ 天地雷暴
+* Eyes of the Great Demon $\rightarrow$ 大恶魔之眼
 
 #### 任务 / system分类
 * Category: Main $\rightarrow$ 分类：主线任务
@@ -276,6 +294,9 @@
 * Invincible Castle Tech Tree $\rightarrow$ 无敌堡垒加点路线
 * Fear Expedition / Fear Realm Expedition $\rightarrow$ 恐惧界域远征
 * End-level tow truck $\rightarrow$ 终焉的引路人
+* The Last Dragon $\rightarrow$ 最后的火龙
+* Walls of Troy $\rightarrow$ 特洛伊城墙
+* Perfect Night $\rightarrow$ 完美的夜晚
 
 #### 地点 / 场景区域
 * Geumho Station $\rightarrow$ 金湖站
@@ -297,6 +318,7 @@
 * Room of Time $\rightarrow$ 时间之室
 * Story Horizon $\rightarrow$ 故事的境界
 * End-level area $\rightarrow$ 终游区域
+* Troy $\rightarrow$ 特洛伊
 
 #### 装备 / 道具 / 星辰遗物
 * star relic $\rightarrow$ 星辰遗物
@@ -336,6 +358,7 @@
 * Troiana $\rightarrow$ 特里亚伊纳
 * Ghost Fleet $\rightarrow$ 幽灵舰队
 * Horn of the Horizon $\rightarrow$ 境界之角
+* Vajra $\rightarrow$ 金刚杵
 
 #### 怪物 / 灾难 / 世界观符号
 * Dark Keeper / Dark Sentinel $\rightarrow$ 暗黑守护者
@@ -386,6 +409,7 @@
 * Cinema Trip $\rightarrow$ 电影之旅
 * rlaehrwk37 $\rightarrow$ rlaehrwk37
 * 7942 / 9158 $\rightarrow$ 7942 / 9158
+* Baekcheong-mun $\rightarrow$ 白青门
 </Glossary>
 
 ---
@@ -394,10 +418,10 @@
 ## 记忆快照 (Memory Checkpoint)
 
 ### 1. 当前剧情状态 (Plot State)
-* **诠释“下班地铁”与识破谎言**：在恐惧界域中，李鹤翾与安娜·克罗夫特同乘由最终列车长苏利耶化身的灾难级恐惧“下班地铁”。李鹤翾克服了第40轮“诡辩者”的内心恐惧判定，成功协助安娜通关了这一灾难级试炼，并获得“故事碎片自选券”，界域探索度提升至63%。同时，李鹤翾与金独子联手识破了系统“当前处于入口区域”的谎言——他们一落地其实就被投放在了凶险万分的“中游区域”。
-* **挺进终游区与拜师拓俊京**：李鹤翾背负安娜来到城市焦土废墟，踏入了终游区。面对天灾级恐惧外神“食梦者”，原著中的落败星座们（枪术大师等）欲借“时间夹缝”翻盘却被瞬间秒杀。千钧一发之际，李鹤翾利用故事[永恒名字的继承者]强行同调拓俊京的招式，打出“百斩破千军”与“两仪劈山岳”抵挡攻势。真正的战神拓俊京本体受到“舞台”和白青罡气的吸引降临斩断外神，并强行将李鹤翾收为第一位记名弟子。随后，李鹤翾背着安娜在“红绿灯”恐惧法则的掩护下成功突围至同盟总部“工团”。
-* **邂逅觉醒者同盟与解封“时间夹缝”**：在同盟总部，李鹤翾与安娜重伤接受治疗。期间他结识了来自《灭亡后的世界》的三位觉醒者大能——总队长“绝望之神”仲虚（仲虚）、一番队副队长柳纳德（赤裸圣者）、以及青年队番队长卡尔顿（银色束缚）。在进行恐惧契合度检测时，李鹤翾一字不落地读完了记录着恐惧界域核心秘密的“白纸契合度表”，强行引爆了28天后的终游区崩溃毁灭倒计时，并成功诠释了终焉级恐惧[终焉的引路人]。在此期间，他也发现了“时间夹缝”背后的真相——它们全部连接着刘众赫无数次死亡回归的尸骸余晖。
-* **绝对王座创始者突袭与借身弑神**：就在同盟由于没有高阶战神驻守而无法支援拓俊京陷入天灾级“绝对王座的创始者”围攻的绝境时，李鹤翾挺身而出，要求拓俊京将自己砸昏，以强行激活魔王版[全知读者视角]第三阶段，同调接管了拓俊京的战神法身，并开启“光化门/虚无之幕”的历史重现舞台。为了践行对韩秀英立下的结局誓约，李鹤翾与永恒名字的继承者产生共鸣，手握信念之刃，以战神之躯迎击绝对王座的创始者，展开了弑神对决。
+* **读者同盟异界远征与大礼堂开启**：主角团在千仁浩失踪三个月后，利用属性提升变强。突然，世界范围内的“大礼堂”同时开启，昭示着星流的概率再次运转。与此同时，千仁浩（李鹤翾）在“时间夹缝”中苏醒，面对“血魔”的狂暴追杀，他使出浑身解数保住腰间的刘众赫头颅。关键时刻，被召唤的“流氓王”姜日勋（在第40轮线的“姜日勋”）现身，透露可以通过刘众赫的头颅将其复活。
+* **超越者天神混战与白青门创世奥义**：随着紧急警报响起，方舟外层爆发了惊天混战。高丽第一剑拓俊京使用完美肉身与“一斩破千军”怒斩大批奥林匹斯历史级星座，并迎击阿波罗、赫菲斯托斯、雅典娜及阿耳忒弥斯。随后吠陀星云的雷电之神王因陀罗携“千眼法身”神威降临。二番队队长奇瓦士·罗德格林为掩护李鹤翾进入方舟，不惜以断臂为代价，祭出白青门禁忌神技“创世刀”，重创并正面击落因陀罗。
+* **方舟月台集结与第四面墙抵御宙斯**：安娜·克罗夫特在“大恶魔之眼”与[未来启示]耗尽的绝境下，背负力竭的千仁浩（李鹤翾/金独子）强冲向最终方舟。在酒与狂欢之神狄奥尼索斯的阻拦下，刘众赫及时出手将他们拉上方舟。然而，神话级星座雷霆神座宙斯施展无上神威，企图跨越所有权强行捏碎刘众赫的头骨并剥离探究其神魂背后的世界线重置秘密。在刘众赫灵魂深处的无边雪原上，就在宙斯即将洞悉一切的千钧一发之际，专属技能「第四面墙」强制激活，抵御了宙斯的窥探。
+
 ### 2. 风格一致性要求 (Style Consistency)
 * **去西化动作描写**：消除英文特有的长从句与翻译腔，使用符合中文网文习惯的生动表达（如将“struck hard”译为“砸了一闷棍”）。
 * **深刻独白与标点**：使用直角引号「」来界定角色深刻的内心独白或元文本级思考；叹气或无言以对时统一使用“……”（六点省略号）。
