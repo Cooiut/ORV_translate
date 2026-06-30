@@ -42,7 +42,7 @@
    * **韩秀英**：毒舌、傲娇、语速快、经常带有吐槽性质。
 
 5. **硬币与 Coin 处理规范**
-   * 【铁律】不要将 coin / coins 翻译为“硬币”，直接使用英文原词“coin”。修正任何包含“硬币”的翻译，将其修正回“coin”，且中文统一使用“coin”不带复数，并注意与中文相邻字符 spacing。
+   * 【铁律】不要将 coin / coins 翻译为“硬币”，直接使用英文原词“coin”，中文统一使用“coin”不带复数，并注意与中文相邻字符 spacing。
 </Stylistic_Rules>
 
 <Glossary>
@@ -200,6 +200,10 @@
 * tax collector $\rightarrow$ 税务官
 * Flame Demon Emperor Star $\rightarrow$ 炎魔帝星
 * Black Wolf Cavalry $\rightarrow$ 黑狼骑
+* Hermit $\rightarrow$ 隐者
+* Vali $\rightarrow$ 瓦利
+* Daphne $\rightarrow$ 达芙妮
+* Blood Demon Yeom Baekho $\rightarrow$ 血魔廉百虎
 
 #### 星座修饰语 / 故事印记
 * Great Sage, Heaven’s Equal $\rightarrow$ 齐天大圣
@@ -224,7 +228,7 @@
 * Scream of a Scorching Flame / Scream of the Scorching Flame $\rightarrow$ 炽热火焰的尖叫
 * The Right Arm of the Sword Master who was Stabbed in the Back by a Colleague $\rightarrow$ 被同伴背后捅刀的穷困潦倒的剑术大师的右臂
 * Nail-Eating Rat $\rightarrow$ 吃指甲的老鼠
-* The Dog That Threw Itself into the Flames $\rightarrow$ 自投烈火的义犬
+* The Dog That Threw Itself into the Flames $\rightarrow$ 自投烈火 of 义犬
 * the Pig in the Brick House $\rightarrow$ 砖屋里的猪
 * Father of the Rich Night $\rightarrow$ 富裕之夜的父亲
 * Spear that Draws the Boundary of the Seas $\rightarrow$ 画界为海之枪
@@ -239,6 +243,7 @@
 * Seat of Lightning $\rightarrow$ 雷霆神座
 * Wanderer of the Snowfield $\rightarrow$ 雪原的流浪者
 * Master of Fear $\rightarrow$ 恐惧之主
+* Witness to the Truth of the Stars $\rightarrow$ 见证群星真相之人
 
 #### 技能 / 属性 / 圣痕
 * Attribute Window $\rightarrow$ 属性窗口
@@ -293,6 +298,8 @@
 * Silver Screen Seal $\rightarrow$ 银幕的封印
 * False Demon's Banquet $\rightarrow$ 非真魔的宴会
 * Suspicion and Understanding $\rightarrow$ 怀疑与理解
+* Anti-flame flash $\rightarrow$ 防炎之闪光
+* Abyssal Understanding $\rightarrow$ 深渊级理解
 
 #### 任务 / system分类
 * Category: Main $\rightarrow$ 分类：主线任务
@@ -317,6 +324,9 @@
 * The Last Dragon $\rightarrow$ 最后的火龙
 * Walls of Troy $\rightarrow$ 特洛伊城墙
 * Perfect Night $\rightarrow$ 完美的夜晚
+* Eight-Forked Wandering $\rightarrow$ 八岐流浪者
+* Ascension Ceremony $\rightarrow$ 飞升大典
+* Forest of Stars and Humans $\rightarrow$ 星辰与人类之林
 
 #### 地点 / 场景区域
 * Geumho Station $\rightarrow$ 金湖站
@@ -340,6 +350,10 @@
 * End-level area $\rightarrow$ 终游区域
 * Troy $\rightarrow$ 特洛伊
 * Breaking the Sky School $\rightarrow$ 破天道场
+* Record Archive $\rightarrow$ 记录保管库
+* Orbital Elevator $\rightarrow$ 轨道电梯
+* Ascension Platform $\rightarrow$ 飞升台
+* Delos $\rightarrow$ 提洛岛
 
 #### 装备 / 道具 / 星辰遗物
 * star relic $\rightarrow$ 星辰遗物
@@ -386,6 +400,12 @@
 * Settlement Scale $\rightarrow$ 结算天平
 * Heavenly Iron Cloud Gauntlet $\rightarrow$ 天铁云丝手套
 * Heavenly Silkworm Secret Robe $\rightarrow$ 天蚕宝衣
+* Sacred Oil $\rightarrow$ 圣油
+* Daehwadan $\rightarrow$ 大还丹
+* Sungyu Fruit $\rightarrow$ 圣灵果
+* Wolf Skin of the End $\rightarrow$ 终焉之狼皮
+* Jincheon Sword $\rightarrow$ 震天剑
+* Heukcheon Demon Sword $\rightarrow$ 黑天魔剑
 
 #### 怪物 / 灾难 / 世界观符号
 * Dark Keeper / Dark Sentinel $\rightarrow$ 暗黑守护者
@@ -413,6 +433,7 @@
 * Tooth Fin $\rightarrow$ 牙齿鳍
 * Type 1 End-of-the-Story Fear $\rightarrow$ 第一类终幕之恐惧
 * The Last Dragon of the Apocalypse $\rightarrow$ 默示录的最后之龙
+* Impossible Agreement / Impossible Chivalry $\rightarrow$ 不可能的侠义
 
 #### 历史线 / 国家政权 / 其他
 * Silla $\rightarrow$ 新罗
@@ -455,6 +476,7 @@
 * End Grade $\rightarrow$ 终焉级
 * Probability Appropriate Determination $\rightarrow$ 概率合理性判定
 * Final Wall $\rightarrow$ 最后的墙
+* snowdrops $\rightarrow$ 雪花
 </Glossary>
 
 ---
@@ -463,8 +485,10 @@
 ## 记忆快照 (Memory Checkpoint)
 
 ### 1. 当前剧情状态 (Plot State)
-* **李鹤翾回归新武林，与景世仁重逢**：李鹤翾（老幺）在降临第70号任务区域（新武林区）后遇到南宫明，并随其前往破败的〈■■■集团〉总部（破天道场）。在这里他重逢了景世仁及机械黑狗（破天师尊）。得知杀戮之王等同伴已在神秘人带领下飞升，而景世仁则自愿留守并身患严重的灵魂故事剥离伤。随后鬼怪英基登门催缴十万 D-coin 的公司欠税。
-* **天平鉴定与记录者契约**：为了偿债，老幺在拍卖行的鉴定天平上放下一根因继承“恐惧之王”故事而拥有“终焉级”位格的发丝，成功兑换了一万 D-coin，从而引来吠陀生物科技成员的围攻与流动恶意。老幺暗中施展【煽动】诱导众人拔发鉴定，致使天平狂暴反噬并血洗大厅。此举引来“恐惧的记录者”的概率合理性判定，多位记录者（包括一位极度厌恶回归的记录者）向老幺发出了专属执笔契约的邀请。
+* **世界树的降临与“不可能的侠义”**：破天剑圣为终结徒弟刘众赫的轮回悲剧，自愿化为天灾级恐惧“不可能的侠义”（即世界树），企图在整片森林年轮中施加唯一的“侠”之意志，彻底摧毁星流的全部任务与冲突。
+* **李鹤翾入树，重逢刘众赫与深渊恐惧的觉醒**：李鹤翾主动被世界树吸收，进入其记忆年轮深处。在破天剑圣保存的第二轮历史中，李鹤翾结识了尚未成为霸王的青年刘众赫，并向破天剑圣证明了自己的侠义执念。随后，李鹤翾进入森林核心，利用[第四面墙]与“救赎的魔王”力量唤醒并收服了在恐惧界域破灭中存活下来的古老恐惧（包括牙齿鳍等）。
+* **众神搭建舞台，霸王只身破阵斩落阿波罗**：阿波罗、维达与汉拿等星座勾结“地平线的恶魔”，窃取第二轮“回归者战争”的故事搭建伪舞台。关键时刻，在宰焕的时间夹缝中完成苦修的霸王刘众赫以灵魂化身重塑降临。刘众赫与金独子（李鹤翾）联手在废墟特区破除舞台结界，并斩杀了堕落异化为魔王的阿波罗。
+* **景世仁舍命卡结界，李鹤翾强行跃升神话级**：南海龙王企图强行封印世界树，景世仁燃烧所有 D-coin 强化自身化身，舍命卡住结界夹缝而牺牲。李鹤翾在大恸中彻底释放“恐惧之王”与“救赎的魔王”伟力，率领牙齿鳍等深渊恐惧反噬星座大军，吞噬阿波罗的残存神性与碎片后，其星格在星流中被正式评定为“神话级”。
 
 ### 2. 风格一致性要求 (Style Consistency)
 * **去西化动作描写**：消除英文特有的长从句与翻译腔，使用符合中文网文习惯的生动表达（如将“struck hard”译为“砸了一闷棍”）。
