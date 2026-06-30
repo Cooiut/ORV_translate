@@ -204,6 +204,13 @@
 * Vali $\rightarrow$ 瓦利
 * Daphne $\rightarrow$ 达芙妮
 * Blood Demon Yeom Baekho $\rightarrow$ 血魔廉百虎
+* Odin $\rightarrow$ 奥丁
+* Urd $\rightarrow$ 兀尔德
+* Verdandi $\rightarrow$ 薇儿丹蒂
+* Mitra $\rightarrow$ 弥特拉
+* Ares $\rightarrow$ 阿瑞斯
+* Vakarine $\rightarrow$ 瓦卡里涅
+* Hades $\rightarrow$ 哈迪斯
 
 #### 星座修饰语 / 故事印记
 * Great Sage, Heaven’s Equal $\rightarrow$ 齐天大圣
@@ -244,6 +251,14 @@
 * Wanderer of the Snowfield $\rightarrow$ 雪原的流浪者
 * Master of Fear $\rightarrow$ 恐惧之主
 * Witness to the Truth of the Stars $\rightarrow$ 见证群星真相之人
+* Observer of the Indelible Traces $\rightarrow$ 不灭足迹的观测者
+* Ferocious War God $\rightarrow$ 狂野的战神
+* Mad Sword Emperor $\rightarrow$ 疯狂的剑帝
+* Great Heavenly Star $\rightarrow$ 持国天星
+* Lord of December 25th $\rightarrow$ 12月25日的主宰
+* God of Peace and Relief $\rightarrow$ 和平与救济之神
+* Caregiver of Light and Compassion $\rightarrow$ 光芒与慈悲的抚育者
+* God of Wine and Ecstasy $\rightarrow$ 葡萄酒与狂喜之神
 
 #### 技能 / 属性 / 圣痕
 * Attribute Window $\rightarrow$ 属性窗口
@@ -300,6 +315,10 @@
 * Suspicion and Understanding $\rightarrow$ 怀疑与理解
 * Anti-flame flash $\rightarrow$ 防炎之闪光
 * Abyssal Understanding $\rightarrow$ 深渊级理解
+* Ruler of Entertainment $\rightarrow$ 游戏的主宰
+* Elixir Maker $\rightarrow$ 灵药制作师
+* Sumeru Kill / Steady Kill $\rightarrow$ 须弥杀
+* Samudra Manthan $\rightarrow$ 乳海搅拌
 
 #### 任务 / system分类
 * Category: Main $\rightarrow$ 分类：主线任务
@@ -406,6 +425,7 @@
 * Wolf Skin of the End $\rightarrow$ 终焉之狼皮
 * Jincheon Sword $\rightarrow$ 震天剑
 * Heukcheon Demon Sword $\rightarrow$ 黑天魔剑
+* Robin Hood's Strong Bow $\rightarrow$ 罗宾汉的强弓
 
 #### 怪物 / 灾难 / 世界观符号
 * Dark Keeper / Dark Sentinel $\rightarrow$ 暗黑守护者
@@ -434,6 +454,8 @@
 * Type 1 End-of-the-Story Fear $\rightarrow$ 第一类终幕之恐惧
 * The Last Dragon of the Apocalypse $\rightarrow$ 默示录的最后之龙
 * Impossible Agreement / Impossible Chivalry $\rightarrow$ 不可能的侠义
+* Chaos Bush $\rightarrow$ 混沌草丛
+* Amrita $\rightarrow$ 甘露
 
 #### 历史线 / 国家政权 / 其他
 * Silla $\rightarrow$ 新罗
@@ -477,6 +499,7 @@
 * Probability Appropriate Determination $\rightarrow$ 概率合理性判定
 * Final Wall $\rightarrow$ 最后的墙
 * snowdrops $\rightarrow$ 雪花
+* Slayer Beyond Records $\rightarrow$ 超越记录的屠杀者
 </Glossary>
 
 ---
@@ -485,10 +508,9 @@
 ## 记忆快照 (Memory Checkpoint)
 
 ### 1. 当前剧情状态 (Plot State)
-* **世界树的降临与“不可能的侠义”**：破天剑圣为终结徒弟刘众赫的轮回悲剧，自愿化为天灾级恐惧“不可能的侠义”（即世界树），企图在整片森林年轮中施加唯一的“侠”之意志，彻底摧毁星流的全部任务与冲突。
-* **李鹤翾入树，重逢刘众赫与深渊恐惧的觉醒**：李鹤翾主动被世界树吸收，进入其记忆年轮深处。在破天剑圣保存的第二轮历史中，李鹤翾结识了尚未成为霸王的青年刘众赫，并向破天剑圣证明了自己的侠义执念。随后，李鹤翾进入森林核心，利用[第四面墙]与“救赎的魔王”力量唤醒并收服了在恐惧界域破灭中存活下来的古老恐惧（包括牙齿鳍等）。
-* **众神搭建舞台，霸王只身破阵斩落阿波罗**：阿波罗、维达与汉拿等星座勾结“地平线的恶魔”，窃取第二轮“回归者战争”的故事搭建伪舞台。关键时刻，在宰焕的时间夹缝中完成苦修的霸王刘众赫以灵魂化身重塑降临。刘众赫与金独子（李鹤翾）联手在废墟特区破除舞台结界，并斩杀了堕落异化为魔王的阿波罗。
-* **景世仁舍命卡结界，李鹤翾强行跃升神话级**：南海龙王企图强行封印世界树，景世仁燃烧所有 D-coin 强化自身化身，舍命卡住结界夹缝而牺牲。李鹤翾在大恸中彻底释放“恐惧之王”与“救赎的魔王”伟力，率领牙齿鳍等深渊恐惧反噬星座大军，吞噬阿波罗的残存神性与碎片后，其星格在星流中被正式评定为“神话级”。
+* **瓦尔哈拉前哨战开启与黄金骰子殿堂投注**：李鹤翾（使用金完之名）进入瓦尔哈拉前哨战，结识安娜·克罗夫特与塞莲娜·金。为打破星座对回归者的无尽压榨与围观，李鹤翾在“黄金骰子殿堂”设下惊天赌局，利用“不曾改变之人”提供的情报和极端的“回归忧郁症”刺激安娜重拾求生信念。
+* **神话级力量觉醒与大型战场 matching**：在前哨战对局中，李鹤翾激活“救赎的魔王”模式并拟态出“黑天魔剑”与“罗宾汉的强弓”，通过[书签]和[机制]重现了刘众赫第1864轮线『魔王选拔战』的舞台，斩杀吠陀的迦楼罗与哈奴曼，迫使人类始祖马努败退。随后，李鹤翾以匿名身份在前哨战押下1000万 D-coin 重注，惊动了瓦尔哈拉神殿的主人弥特拉与奥林匹斯十二主神之一的阿瑞斯。
+* **圆桌议会介入与前哨战终幕序曲**：阿瑞斯代表奥林匹斯向李鹤翾发出结盟邀请，并正式承认其为“神话级星座”；晨星女神瓦卡里涅与冥府审判官亦透露“雪原的金独子”（兄长李丹数）已击败弥特拉并晋级，每个星云都必须争夺一个“金独子”。李鹤翾将赢得的投注资金以无息贷款形式返还给战败星座以避免神殿崩塌，交换条件是让弥特拉开启“大型战场”。但在大型战场 matched 的瞬间，圆桌议会强行干预，将李丹数被宣告失踪的“失踪的草丛”事件写为因果，前哨战的终局赛场在废墟焦土中重构诞生。
 
 ### 2. 风格一致性要求 (Style Consistency)
 * **去西化动作描写**：消除英文特有的长从句与翻译腔，使用符合中文网文习惯的生动表达（如将“struck hard”译为“砸了一闷棍”）。
