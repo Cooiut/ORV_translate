@@ -558,6 +558,7 @@
 * Unchanging One / Unchangeable One $\rightarrow$ 不变者
 * Yangjiokjeongbyeong / Yangjiokjeong bottle $\rightarrow$ 羊脂玉净瓶
 * Missing Thicket $\rightarrow$ 遗失灌木丛
+* Unformed Idea $\rightarrow$ 未成形的构想
 </Glossary>
 
 ---
@@ -566,8 +567,7 @@
 ## 记忆快照 (Memory Checkpoint)
 
 ### 1. 当前剧情状态 (Plot State)
-- 对全书所有的 XHTML 章节文件进行了 XML 格式扫描，成功排查出 18 个包含 XML 语法错误的文件（如未闭合的 <p> 标签、<fieldset> 标签包裹不当、实体符号转义错误及 typo 标记等）。
-- 针对这 18 个文件进行了精准的语法修复，经最终脚本验证，全部 485 个文件已 100% 通过 XML/XHTML 严格的语法校验，未引入任何新错。
+- 回滚了此前所有不必要的拆行修改，并重新采用精细化方案对 Batch 1 (第1-99章) 中的行号不一致文件进行修正。针对原文由于 EPUB 扫描换行产生的多行而译文翻译为单行的情况（如 ch17 最后部分），不进行强制拆分，仅对真正的漏译（Genuine Omissions）和系统样式标签进行回填补全。目前已成功修复并校验通过了 ch_12, ch_13, ch_15, ch_19, ch_21, ch_24, ch_25, ch_29, ch_31, ch_32, ch_33, ch_36, ch_39 等文件，确保译文完整且段落结构完美契合。
 
 ### 2. 风格一致性要求 (Style Consistency)
 * **去西化动作描写**：消除英文特有的长从句与翻译腔，使用符合中文网文习惯的生动表达（如将“struck hard”译为“砸了一闷棍”）。
