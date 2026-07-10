@@ -559,6 +559,10 @@
 * Yangjiokjeongbyeong / Yangjiokjeong bottle $\rightarrow$ 羊脂玉净瓶
 * Missing Thicket $\rightarrow$ 遗失灌木丛
 * Unformed Idea $\rightarrow$ 未成形的构想
+* Incite $\rightarrow$ 煽动
+* Ancient Nagak $\rightarrow$ 远古角笛
+* Advanced Multispecies Sympathy $\rightarrow$ 高级多样同感
+* Death Sword $\rightarrow$ 四寅斩邪剑
 </Glossary>
 
 ---
@@ -567,7 +571,7 @@
 ## 记忆快照 (Memory Checkpoint)
 
 ### 1. 当前剧情状态 (Plot State)
-- 已经顺利完成了 Batch 1 (第1至39章) 和 Batch 2 (第40至89章) 的翻译漏译修正与结构标签对齐工作。所有受影响的文件已通过与英文原版的行数对比校验，在确保“原汁原味轻小说风味”及不强制拆分自然合并行的前提下，达到了精确的行数偏差对齐。
+- 已经顺利完成了 Batch 3 (第90至139章) 的翻译漏译修正、结构标签对齐与空段落调整工作。所有受影响的文件已通过与英文原版的行数对比校验，在确保“原汁原味轻小说风味”及不强制拆分自然合并行的前提下，达到了精确的行数偏差对齐。
 
 ### 2. 风格一致性要求 (Style Consistency)
 * **去西化动作描写**：消除英文特有的长从句与翻译腔，使用符合中文网文习惯的生动表达（如将“struck hard”译为“砸了一闷棍”）。
