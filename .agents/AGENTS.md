@@ -583,6 +583,16 @@
 * Understanding of the Unemployed $\rightarrow$ 无业游民的理解
 * Graduation Ceremony $\rightarrow$ 毕业典礼
 * Graduation Exam $\rightarrow$ 毕业考试
+* Tooth Fin $\rightarrow$ 齿鳍
+* Subway on the way home $\rightarrow$ 下班地铁
+* End-level tow truck $\rightarrow$ 终焉的引路人
+* End-level area $\rightarrow$ 终游区域
+* Existence Oath $\rightarrow$ 存在之誓
+* Evil Sophist $\rightarrow$ 诡辩者
+* Demon King of the Cinema $\rightarrow$ 电影院的魔王
+* Dream Eater $\rightarrow$ 食梦者
+* The World After The Fall $\rightarrow$ 灭亡后的世界
+* Baekcheong-mun $\rightarrow$ 白青门
 </Glossary>
 
 ---
@@ -591,7 +601,7 @@
 ## 记忆快照 (Memory Checkpoint)
 
 ### 1. 当前剧情状态 (Plot State)
-- 已经顺利完成了 Batch 5 (第190至239章) 的翻译漏译修正、结构标签对齐、空段落调整与尾注样式补全工作。所有受影响的文件已通过与英文原版的行数对比校验，在确保“原汁原味轻小说风味”及不强制拆分自然合并行的前提下，达到了精确的行数偏差对齐。
+- 已经顺利完成了 Batch 6 (第240至289章) 的翻译漏译修正、结构标签对齐、空段落调整与尾注样式补全工作。所有受影响的文件已通过与英文原版的行数对比校验，在确保“原汁原味轻小说风味”及不强制拆分自然合并行的前提下，达到了精确的行数偏差对齐。
 
 ### 2. 风格一致性要求 (Style Consistency)
 * **去西化动作描写**：消除英文特有的长从句与翻译腔，使用符合中文网文习惯的生动表达（如将“struck hard”译为“砸了一闷棍”）。
