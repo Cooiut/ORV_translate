@@ -351,43 +351,43 @@
     </navPoint>
     <navPoint id="57" playOrder="58">
       <navLabel>
-        <text>610 第12话 □□（1）</text>
+        <text>610 第12话 ■■（1）</text>
       </navLabel>
       <content src="ch_58.xhtml"/>
     </navPoint>
     <navPoint id="58" playOrder="59">
       <navLabel>
-        <text>611 第12话 □□（2）</text>
+        <text>611 第12话 ■■（2）</text>
       </navLabel>
       <content src="ch_59.xhtml"/>
     </navPoint>
     <navPoint id="59" playOrder="60">
       <navLabel>
-        <text>612 第12话 □□（3）</text>
+        <text>612 第12话 ■■（3）</text>
       </navLabel>
       <content src="ch_60.xhtml"/>
     </navPoint>
     <navPoint id="60" playOrder="61">
       <navLabel>
-        <text>613 第12话 □□（4）</text>
+        <text>613 第12话 ■■（4）</text>
       </navLabel>
       <content src="ch_61.xhtml"/>
     </navPoint>
     <navPoint id="61" playOrder="62">
       <navLabel>
-        <text>614 第12话 □□（5）</text>
+        <text>614 第12话 ■■（5）</text>
       </navLabel>
       <content src="ch_62.xhtml"/>
     </navPoint>
     <navPoint id="62" playOrder="63">
       <navLabel>
-        <text>615 第12话 □□（6）</text>
+        <text>615 第12话 ■■（6）</text>
       </navLabel>
       <content src="ch_63.xhtml"/>
     </navPoint>
     <navPoint id="63" playOrder="64">
       <navLabel>
-        <text>616 第12话 □□（7）</text>
+        <text>616 第12话 ■■（7）</text>
       </navLabel>
       <content src="ch_64.xhtml"/>
     </navPoint>
