@@ -1,0 +1,68 @@
+@font-face {
+    font-family: 'LXGW WenKai';
+    src: url('fonts/LXGWWenKai-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Source Han Serif';
+    src: url('fonts/SourceHanSerif-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Smiley Sans';
+    src: url('fonts/SmileySans-Oblique.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'LXGW WenKai', 'Source Han Serif', serif;
+    line-height: 1.6;
+    margin: 5% 5% 5% 5%;
+}
+
+p {
+    text-indent: 2em;
+    margin: 0.5em 0;
+    text-align: justify;
+}
+
+/* Override indentation for non-paragraph flow elements or special notes */
+a[epub|type="noteref"] + p, 
+.no-indent {
+    text-indent: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Source Han Serif', serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 1.5em;
+    margin-bottom: 0.8em;
+}
+
+/* System prompts, scenarios, attributes */
+fieldset {
+    font-family: 'Smiley Sans', sans-serif;
+    border: 2px solid #555;
+    padding: 12px;
+    margin: 1.5em 0;
+    border-radius: 6px;
+    background-color: rgba(128, 128, 128, 0.05);
+}
+
+fieldset p {
+    text-indent: 0;
+    text-align: center;
+    margin: 0.3em 0;
+}
+
+fieldset h1, fieldset h2, fieldset h3, fieldset h4 {
+    font-family: 'Smiley Sans', sans-serif;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
