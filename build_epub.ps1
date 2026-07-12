@@ -27,7 +27,7 @@ Write-Host "`n===============================================" -ForegroundColor 
 Write-Host "           STEP 5: EPUBCheck Validation          " -ForegroundColor Yellow
 Write-Host "===============================================" -ForegroundColor Cyan
 $env:PATH += ";C:\Program Files\Java\jre1.8.0_491\bin"
-& .\venv\Scripts\epubcheck books\全知读者视角-外传.epub
+& .\venv\Scripts\epubcheck books\全知读者视角-外传.epub 2>&1
 
 Write-Host "`n>>> All steps completed successfully! Your final EPUB is in the books/ folder. <<<" -ForegroundColor Green
 

@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
-<package xmlns="http://www.idpf.org/2007/opf" version="2.0">
-  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-    <dc:title>全知读者视角 [外传]</dc:title>
-    <dc:creator opf:role="aut">sing N song</dc:creator> 
-    <dc:contributor opf:role="trl">Cooiut</dc:contributor> 
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid">
+      <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="title">全知读者视角 [外传]</dc:title>
+    <meta refines="#title" property="file-as">全知读者视角 [外传]</meta> 
+    <dc:creator id="creator">sing N song</dc:creator> 
+    <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
+    <meta refines="#creator" property="file-as">singNshong</meta>
+    <dc:contributor id="translator">Cooiut</dc:contributor> 
+    <meta refines="#translator" property="role" scheme="marc:relators">trl</meta>
     <dc:language>zh-CN</dc:language>
     <dc:publisher>ORV-Reader Project</dc:publisher> 
-    <dc:date>06-21-2026</dc:date>
+    <dc:date>2026-06-21</dc:date>
+    <meta property="dcterms:modified">2026-06-21T00:00:00Z</meta>
     <dc:description>故事讲述了来自另一个世界线的《全知读者视角》原作者李鹤翾。他与其他《全知读者视角》的读者们一同穿越到了《在灭亡的世界中存活的三种方法》之中。然而，由于读者们以及金独子集团的介入，导致任务系统彻底陷入了混乱。</dc:description>
     <meta name="cover" content="cover-img"/>
     <dc:subject>Korean Novel</dc:subject>
     <dc:subject>Fantasy</dc:subject>
     <dc:subject>Webnovel</dc:subject>
     <dc:subject>Apocalypse</dc:subject>
-    <meta property="file-as" id="title-sort">全知读者视角 [外传]</meta> 
-    <meta property="file-as" id="author-sort">singNshong</meta>
+    <dc:identifier id="uid">ZJMZQD0TZGYJ</dc:identifier>
   </metadata>
   <manifest>
     <item href="style.css" id="style" media-type="text/css"/>
@@ -22,7 +26,7 @@
     <item href="fonts/SourceHanSerif-Regular.woff2" id="font-sourcehan" media-type="font/woff2"/>
     <item href="fonts/SmileySans-Oblique.woff2" id="font-smiley" media-type="font/woff2"/>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
-    <item href="toc.html" id="toc" media-type="application/xhtml+xml"/>
+    <item href="toc.html" id="toc" media-type="application/xhtml+xml" properties="nav"/>
     <item id="cover-img" href="cover.jpg" media-type="image/jpeg" properties="cover-image"/>
     <item id="stigma" href="stigma.png" media-type="image/png"/>
     <item href="intro.xhtml" id="intro" media-type="application/xhtml+xml"/>
@@ -504,10 +508,10 @@
 <item href="ch_475.xhtml" id="ch_475" media-type="application/xhtml+xml"/>
 <item href="ch_476.xhtml" id="ch_476" media-type="application/xhtml+xml"/>
 <item href="ch_477.xhtml" id="ch_477" media-type="application/xhtml+xml"/>
-<item id="img_0" href="images/795%20-%20Jeahwan%20-%20Monarch%20Slayer%20-%20The%20World%20After%20the%20Fall.png" media-type="image/jpeg"/>
+<item id="img_0" href="images/795%20-%20Jeahwan%20-%20Monarch%20Slayer%20-%20The%20World%20After%20the%20Fall.png" media-type="image/png"/>
 <item id="img_1" href="images/797%20-%20Jeahwan%20-angry%20-%20Monarch%20Slayer%20-%20The%20World%20After%20the%20Fall.jpeg" media-type="image/jpeg"/>
 <item id="img_2" href="images/799%20-%20Jeahwan%20-clothed%20-%20Monarch%20Slayer%20-%20The%20World%20After%20the%20Fall.jpeg" media-type="image/jpeg"/>
-<item id="img_3" href="images/830%20-%20Chunghuh%20-%20God%20of%20Despair%20-%20The%20World%20After%20the%20Fall.png" media-type="image/jpeg"/>
+<item id="img_3" href="images/830%20-%20Chunghuh%20-%20God%20of%20Despair%20-%20The%20World%20After%20the%20Fall.png" media-type="image/png"/>
 <item id="img_4" href="images/830%20-%20Karlton%20-%20Silver%20Binding%20-%20The%20World%20After%20the%20Fall.jpeg" media-type="image/jpeg"/>
 <item id="img_5" href="images/830%20-%20Ryunard%20-%20Naked%20Saint%20-%20The%20World%20After%20the%20Fall.jpeg" media-type="image/jpeg"/>
 <item id="img_6" href="images/844%20-%20Manri%20Shintong%20Heo%20Poong%20-%20Murim%20Dumpling%20Master%20Chief%20-%20The%20World%20After%20the%20Fall.jpg" media-type="image/jpeg"/>
@@ -994,8 +998,5 @@
 <itemref idref="ch_477"/>
 <itemref idref="afterword"/>
 </spine>
-  <guide>
-    <reference href="cover.jpg" title="Cover" type="cover"/>
-    <reference type="toc" href="toc.html" title="Table of Contents"/>
-  </guide>
+  
 </package>
