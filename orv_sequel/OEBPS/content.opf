@@ -18,9 +18,9 @@
   </metadata>
   <manifest>
     <item href="style.css" id="style" media-type="text/css"/>
-    <item href="fonts/LXGWWenKai-Regular.ttf" id="font-lxgw" media-type="application/vnd.ms-opentype"/>
-    <item href="fonts/SourceHanSerif-Regular.ttf" id="font-sourcehan" media-type="application/vnd.ms-opentype"/>
-    <item href="fonts/SmileySans-Oblique.ttf" id="font-smiley" media-type="application/vnd.ms-opentype"/>
+    <item href="fonts/LXGWWenKai-Regular.woff2" id="font-lxgw" media-type="font/woff2"/>
+    <item href="fonts/SourceHanSerif-Regular.woff2" id="font-sourcehan" media-type="font/woff2"/>
+    <item href="fonts/SmileySans-Oblique.woff2" id="font-smiley" media-type="font/woff2"/>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
     <item href="toc.html" id="toc" media-type="application/xhtml+xml"/>
     <item id="cover-img" href="cover.jpg" media-type="image/jpeg" properties="cover-image"/>
