@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <package xmlns="http://www.idpf.org/2007/opf" version="2.0">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-    <dc:title>Omniscient Reader's Viewpoint [Sequel]</dc:title>
-    <dc:creator opf:role="aut">singNshong</dc:creator> 
-    <dc:contributor opf:role="trl">Community Translators</dc:contributor> 
-    <dc:language>en</dc:language>
+    <dc:title>全知读者视角 [外传]</dc:title>
+    <dc:creator opf:role="aut">sing N song</dc:creator> 
+    <dc:contributor opf:role="trl">Cooiut</dc:contributor> 
+    <dc:language>zh-CN</dc:language>
     <dc:publisher>ORV-Reader Project</dc:publisher> 
     <dc:date>06-21-2026</dc:date>
-    <dc:description>The story follows Lee Hakhyun, the author of ORV from another worldline. He transmigrates into "Ways of Survival" with other ORV readers. However, the scenarios have been messed up due to the participation of ORV readers and KimCom.</dc:description>
+    <dc:description>故事讲述了来自另一个世界线的《全知读者视角》原作者李鹤翾。他与其他《全知读者视角》的读者们一同穿越到了《在灭亡的世界中存活的三种方法》之中。然而，由于读者们以及金独子集团的介入，导致任务系统彻底陷入了混乱。</dc:description>
     <meta name="cover" content="cover-img"/>
     <dc:subject>Korean Novel</dc:subject>
     <dc:subject>Fantasy</dc:subject>
     <dc:subject>Webnovel</dc:subject>
     <dc:subject>Apocalypse</dc:subject>
-    <meta property="file-as" id="title-sort">Omniscient Reader's Viewpoint [Sequel]</meta> 
+    <meta property="file-as" id="title-sort">全知读者视角 [外传]</meta> 
     <meta property="file-as" id="author-sort">singNshong</meta>
   </metadata>
   <manifest>
