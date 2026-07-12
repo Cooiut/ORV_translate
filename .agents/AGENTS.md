@@ -604,6 +604,12 @@
 * Dragon Sword Ridill $\rightarrow$ 魔龙之剑里迪尔
 * One Who Rewrites Eternity $\rightarrow$ 重写永恒之人
 * Limited Edition Random Relic Box $\rightarrow$ 限定版随机遗物箱
+* Manu $\rightarrow$ 马努
+* Hou Yi $\rightarrow$ 后羿
+* Ten Fingers of God $\rightarrow$ 神之十指
+* Valhalla Hall $\rightarrow$ 瓦尔哈拉神殿
+* Garuda $\rightarrow$ 迦楼罗
+* Vermilion Divine Treasure $\rightarrow$ 朱雀神宝 / 朱斩天神步
 </Glossary>
 
 ---
@@ -612,7 +618,7 @@
 ## 记忆快照 (Memory Checkpoint)
 
 ### 1. 当前剧情状态 (Plot State)
-- 已经顺利完成了 Batch 8 (第340至389章) 的翻译漏译修正、结构标签对齐、空段落调整与尾注样式补全工作。所有受影响的文件已通过与英文原版的行数对比校验，在确保“原汁原味轻小说风味”及不强制拆分自然合并行的前提下，达到了精确的行数偏差对齐，且已完成所有 XHTML 格式语法校验，无一例语法报错。
+- 已经顺利完成了 Batch 9 (第390至439章) 的翻译漏译修正、结构标签对齐、空段落调整与尾注样式补全工作。所有受影响的文件已通过与英文原版的行数对比校验，在确保“原汁原味轻小说风味”及不强制拆分自然合并行的前提下，达到了精确的行数偏差对齐，且已完成所有 XHTML 格式语法校验，无一例语法报错。
 
 ### 2. 风格一致性要求 (Style Consistency)
 * **去西化动作描写**：消除英文特有的长从句与翻译腔，使用符合中文网文习惯的生动表达（如将“struck hard”译为“砸了一闷棍”）。
