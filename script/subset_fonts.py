@@ -1,7 +1,9 @@
 import os
 import re
-import subprocess
+import sys
 import glob
+import shutil
+import subprocess
 
 # Paths based on the new script location in /script
 script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -25,11 +27,11 @@ for root_path, _, files in os.walk(epub_dir):
                 text = f.read()
                 # Remove HTML tags
                 text_no_tags = re.sub(r'<[^>]+>', '', text)
-                unique_chars.update(list(text_no_tags))
+                unique_chars.update(text_no_tags)
 
 # Add common punctuation and ASCII
-common_chars = " !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~·×—‘’“”【】…、。，：；？！"
-unique_chars.update(list(common_chars))
+common_chars = " !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~·×—''""【】…、。，：；？！"
+unique_chars.update(common_chars)
 
 text_file = os.path.join(script_dir, "unique_chars.txt")
 with open(text_file, 'w', encoding='utf-8') as f:
@@ -38,11 +40,24 @@ with open(text_file, 'w', encoding='utf-8') as f:
 print(f"Total unique characters found: {len(unique_chars)}")
 print("\n2. Subsetting and compressing fonts to WOFF2...")
 
-# We use the python executable from the venv
-python_exe = os.path.join(root_dir, 'venv', 'Scripts', 'python.exe')
-pyftsubset_exe = os.path.join(root_dir, 'venv', 'Scripts', 'pyftsubset.exe')
+# Use the current Python interpreter and find pyftsubset on PATH
+python_exe = sys.executable
+pyftsubset_exe = shutil.which('pyftsubset')
+if not pyftsubset_exe:
+    # Fallback: look next to the current python executable
+    candidate = os.path.join(os.path.dirname(python_exe), 'pyftsubset.exe')
+    if os.path.isfile(candidate):
+        pyftsubset_exe = candidate
+    else:
+        print("ERROR: pyftsubset not found. Install fonttools with: pip install fonttools[woff]")
+        sys.exit(1)
 
 font_files = glob.glob(os.path.join(source_fonts_dir, '*.ttf')) + glob.glob(os.path.join(source_fonts_dir, '*.otf'))
+
+if not font_files:
+    print(f"WARNING: No font files found in {source_fonts_dir}")
+
+has_error = False
 
 for font_path in font_files:
     filename = os.path.basename(font_path)
@@ -58,13 +73,16 @@ for font_path in font_files:
     print(f"\nProcessing {filename}...")
     orig_size = os.path.getsize(font_path)
     
-    # Run pyftsubset with WOFF2 flavor
+    # Run pyftsubset with WOFF2 flavor and optimization flags
     cmd = [
         pyftsubset_exe,
         font_path,
         f"--text-file={text_file}",
         f"--output-file={output_path}",
-        "--flavor=woff2"
+        "--flavor=woff2",
+        "--no-hinting",              # Remove hinting (not needed for e-readers)
+        "--desubroutinize",          # Flatten CFF subroutines for better Brotli compression
+        "--layout-features=*",       # Preserve all OpenType layout features
     ]
     
     try:
@@ -99,11 +117,17 @@ for font_path in font_files:
                 print(f"Compressed size: {new_size / 1024 / 1024:.2f} MB")
             else:
                 print(f"Failed to find the compressed output for {filename}")
+                has_error = True
         except subprocess.CalledProcessError as fallback_e:
             print(f"Fallback compression also failed for {filename}: {fallback_e}")
+            has_error = True
 
 # Clean up
 if os.path.exists(text_file):
     os.remove(text_file)
+
+if has_error:
+    print("\nSome fonts failed to process!")
+    sys.exit(1)
 
 print("\nAll fonts processed successfully!")
