@@ -20,6 +20,11 @@ Write-Host "===============================================" -ForegroundColor Cy
 
 Write-Host "`n>>> All steps completed successfully! Your final EPUB is in the books/ folder. <<<" -ForegroundColor Green
 
+Write-Host "`n===============================================" -ForegroundColor Cyan
+Write-Host "           STEP 4: XML and EPUB Validation       " -ForegroundColor Yellow
+Write-Host "===============================================" -ForegroundColor Cyan
+& .\venv\Scripts\python script\validator.py
+
 # Wait for user keypress before closing
 Write-Host ""
 Pause
