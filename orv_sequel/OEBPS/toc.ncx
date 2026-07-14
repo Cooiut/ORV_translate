@@ -15,13 +15,13 @@
     </navPoint>
     <navPoint id="ncx_1" playOrder="2">
       <navLabel>
-        <text>554 第1话 灭亡后的世界（1）</text>
+        <text>554 第1话 完结后的世界（1）</text>
       </navLabel>
       <content src="ch_2.xhtml"/>
     </navPoint>
     <navPoint id="ncx_2" playOrder="3">
       <navLabel>
-        <text>555 第1话 灭亡后的世界（2）</text>
+        <text>555 第1话 完结后的世界（2）</text>
       </navLabel>
       <content src="ch_3.xhtml"/>
     </navPoint>

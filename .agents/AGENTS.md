@@ -83,7 +83,7 @@
 * Namgung Jincheon $\rightarrow$ 南宫镇川
 
 #### 核心系统与基本设定
-* Star Stream $\rightarrow$ 星流
+* Star Stream $\rightarrow$ 星星直播
 * Scenario $\rightarrow$ 任务
 * Constellation $\rightarrow$ 星座
 * Incarnation $\rightarrow$ 化身
