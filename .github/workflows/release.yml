@@ -1,4 +1,5 @@
 name: Build and Release EPUB
+# tag format: v[start]-[end]-proof[<number>]-[date]
 
 on:
   push:
@@ -30,7 +31,7 @@ jobs:
         run: |
           python -m venv venv
           ./venv/bin/pip install --upgrade pip
-          ./venv/bin/pip install fonttools zopfli
+          ./venv/bin/pip install fonttools zopfli epubcheck
 
       - name: Make build script executable
         run: chmod +x .github/scripts/build_epub_ci.sh
