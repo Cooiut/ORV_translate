@@ -21,10 +21,10 @@ def get_chapter_info(content):
         return actual_num, title_str
     return None, None
 
-def process_for_translation(content):
-    # Add css if not present
-    if '<link rel="stylesheet"' not in content:
-        content = content.replace('</title>', '</title><link rel="stylesheet" href="style.css" type="text/css" />')
+def process_for_translation(content, title_str):
+    # Standardize the head section to match existing files exactly
+    standard_head = f'<head>\n    <link rel="stylesheet" href="style.css" type="text/css" /><title>{title_str}</title></head>'
+    content = re.sub(r'<head[^>]*>.*?</head>', standard_head, content, flags=re.DOTALL)
     
     # Remove the comment link:
     content = re.sub(r'<hr/>\s*<p[^>]*><a[^>]*>\[CLICK TO READ CHAPTER COMMENTS\]</a></p>', '', content, flags=re.IGNORECASE)
@@ -121,7 +121,7 @@ def main():
                 print(f"Copied {epub_f} -> orv_sequel_eng/OEBPS/{new_filename} (Raw)")
                 
                 # Write to orv_sequel (processed)
-                processed_content = process_for_translation(content)
+                processed_content = process_for_translation(content, title)
                 seq_filepath = os.path.join(orv_sequel_dir, 'OEBPS', new_filename)
                 with open(seq_filepath, 'w', encoding='utf-8') as file:
                     file.write(processed_content)
