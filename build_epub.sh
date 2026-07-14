@@ -10,6 +10,7 @@ RED='\033[0;31'
 GREEN='\033[0;32m'
 NC='\033[0m' # 重置颜色
 
+export PATH="$PWD/venv/bin:$PATH"
 export PATH="$PATH:/var/opt/orv_translate/jre17/bin"
 
 # 统一步骤调用函数
@@ -43,6 +44,3 @@ invoke_step 5 "EPUBCheck Validation"          "script/epubcheck_validate.py"
 
 echo -e "\n${GREEN}>>> All steps completed successfully! Your final EPUB is in the books/ folder. <<<${NC}\n"
 
-# 等待用户按键后退出
-read -n 1 -s -r -p "Press any key to close..."
-echo ""
