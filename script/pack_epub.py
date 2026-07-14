@@ -14,7 +14,7 @@ books_dir = os.path.join(root_dir, 'books')
 output_file = os.path.join(books_dir, 'orv_sequel_chn.epub')
 
 # File extensions that are already compressed — store without re-compression
-STORED_EXTENSIONS = {'.woff2', '.woff', '.jpg', '.jpeg', '.png', '.gif', '.webp', '.mp3', '.mp4'}
+STORED_EXTENSIONS = {'ttf','otf','.woff2', '.woff', '.jpg', '.jpeg', '.png', '.gif', '.webp', '.mp3', '.mp4'}
 
 # Ensure books directory exists
 os.makedirs(books_dir, exist_ok=True)
