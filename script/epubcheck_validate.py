@@ -5,7 +5,7 @@ import shutil
 # Resolve paths based on script location
 script_dir = os.path.dirname(os.path.abspath(__file__))
 root_dir = os.path.dirname(script_dir)
-epub_file = os.path.join(root_dir, 'books', '全知读者视角-外传.epub')
+epub_file = os.path.join(root_dir, 'books', 'orv_sequel_chn.epub')
 
 # Check that Java is available
 java_exe = shutil.which('java')

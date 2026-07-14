@@ -15,11 +15,11 @@ sample_codepoints = [ord(c) for c in sample_chars]
 print(f"--- 字体子集化严谨验证 ---")
 print(f"抽样验证字符: {sample_chars}\n")
 
-# Auto-discover all WOFF2 fonts instead of hardcoding
-font_files = sorted(glob.glob(os.path.join(font_dir, '*.woff2')))
+# Auto-discover all fonts instead of hardcoding
+font_files = sorted(glob.glob(os.path.join(font_dir, '*.ttf')) + glob.glob(os.path.join(font_dir, '*.otf')))
 
 if not font_files:
-    print(f"ERROR: No WOFF2 font files found in {font_dir}")
+    print(f"ERROR: No font files found in {font_dir}")
     sys.exit(1)
 
 has_missing = False
@@ -28,7 +28,7 @@ for font_path in font_files:
     font_name = os.path.basename(font_path)
     print(f"--> Verifying: {font_name}...")
 
-    # Load the woff2 font
+    # Load the font
     font = TTFont(font_path)
 
     # Extract all supported unicode codepoints from the cmap tables
@@ -37,7 +37,7 @@ for font_path in font_files:
         if table.isUnicode():
             supported_codepoints.update(table.cmap.keys())
 
-    print(f"  当前 WOFF2 字体内部包含的实际字符总数: {len(supported_codepoints)}")
+    print(f"  当前字体内部包含的实际字符总数: {len(supported_codepoints)}")
 
     # Check for missing characters
     missing = []

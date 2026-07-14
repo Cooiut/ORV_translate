@@ -11,7 +11,7 @@ root_dir = os.path.dirname(script_dir)
 
 epub_dir = os.path.join(root_dir, 'orv_sequel')
 books_dir = os.path.join(root_dir, 'books')
-output_file = os.path.join(books_dir, '全知读者视角-外传.epub')
+output_file = os.path.join(books_dir, 'orv_sequel_chn.epub')
 
 # File extensions that are already compressed — store without re-compression
 STORED_EXTENSIONS = {'.woff2', '.woff', '.jpg', '.jpeg', '.png', '.gif', '.webp', '.mp3', '.mp4'}

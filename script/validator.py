@@ -104,7 +104,7 @@ def check_epub_file(filepath):
 
 if __name__ == '__main__':
     orv_sequel_dir = os.path.join(root_dir, "orv_sequel")
-    epub_file = os.path.join(root_dir, "books", "全知读者视角-外传.epub")
+    epub_file = os.path.join(root_dir, "books", "orv_sequel_chn.epub")
 
     xml_errors = check_orv_sequel(orv_sequel_dir)
     epub_errors = check_epub_file(epub_file)
