@@ -1,0 +1,101 @@
+name: Build and Release EPUB
+
+on:
+  push:
+    tags:
+      - 'v*' # Trigger on any tag matching v* (e.g., v553-1029-draft-20260714)
+
+jobs:
+  build_and_release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required for creating a release
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Set up Java for EPUBCheck
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '17'
+
+      - name: Prepare Python Environment
+        run: |
+          python -m venv venv
+          ./venv/bin/pip install --upgrade pip
+          ./venv/bin/pip install fonttools zopfli
+
+      - name: Make build script executable
+        run: chmod +x .github/scripts/build_epub_ci.sh
+
+      - name: Build EPUB
+        run: ./.github/scripts/build_epub_ci.sh
+
+      - name: Parse tag for release metadata
+        id: parse_tag
+        run: |
+          TAG="${{ github.ref_name }}"
+          # Match v[start]-[end]-[status]-[date]
+          # Example: v553-1029-draft-20260714 or v553-1029-proof7-20260714
+          if [[ $TAG =~ ^v([0-9]+)-([0-9]+)-([a-zA-Z0-9]+)-([0-9]{4})([0-9]{2})([0-9]{2})$ ]]; then
+            START_CH="${BASH_REMATCH[1]}"
+            END_CH="${BASH_REMATCH[2]}"
+            STATUS_RAW="${BASH_REMATCH[3]}"
+            YEAR="${BASH_REMATCH[4]}"
+            MONTH="${BASH_REMATCH[5]}"
+            DAY="${BASH_REMATCH[6]}"
+            
+            COUNT=$((END_CH - START_CH + 1))
+            
+            # Map status
+            if [[ "$STATUS_RAW" == "draft" ]]; then
+              STATUS="未精校版本"
+            elif [[ "$STATUS_RAW" =~ ^proof(read)?([0-9]+)$ ]]; then
+              STATUS="精校至第${BASH_REMATCH[2]}章"
+            else
+              STATUS="$STATUS_RAW"
+            fi
+            
+            DATE="${YEAR}-${MONTH}-${DAY}"
+            RELEASE_TITLE="全知读者视角 外传 第${START_CH}-${END_CH}章 ${STATUS} (${DATE})"
+          else
+            # Fallback for arbitrary tags
+            START_CH="553"
+            END_CH="1029"
+            COUNT="477"
+            STATUS="未精校版本"
+            DATE=$(date +'%Y-%m-%d')
+            RELEASE_TITLE="全知读者视角 外传 第553-1029章 ${TAG} (${DATE})"
+          fi
+
+          echo "RELEASE_TITLE=${RELEASE_TITLE}" >> $GITHUB_ENV
+          echo "START_CH=${START_CH}" >> $GITHUB_ENV
+          echo "END_CH=${END_CH}" >> $GITHUB_ENV
+          echo "COUNT=${COUNT}" >> $GITHUB_ENV
+          echo "STATUS=${STATUS}" >> $GITHUB_ENV
+          echo "DATE=${DATE}" >> $GITHUB_ENV
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: books/orv_sequel_chn.epub
+          name: ${{ env.RELEASE_TITLE }}
+          body: |
+            # 全知读者视角 外传 (Omniscient Reader's Viewpoint [Sequel])
+            
+            本版本为民间翻译/整理版本，仅供同好交流学习与个人阅读，严禁用于商业用途。
+            
+            ## 本版更新信息
+            
+            - **章节进度**：第 ${{ env.START_CH }} 章至第 ${{ env.END_CH }} 章 (共计 ${{ env.COUNT }} 个章节)
+            - **校对状态**：${{ env.STATUS }}
+            - **更新日期**：${{ env.DATE }}
+          draft: false
+          prerelease: false
