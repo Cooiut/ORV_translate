@@ -119,6 +119,7 @@
 ### 二、 动态追加词汇
 
 #### 角色 / 身份 / 阵营
+* Teacher Yang $\rightarrow$ 杨老师
 * kkoma Kim Dokja $\rightarrow$ 小金独子
 * Noh Gyeonghwan $\rightarrow$ 卢庆焕
 * Seyeon / Lee Seyeon $\rightarrow$ 李世妍
@@ -299,6 +300,8 @@
 * Encounter with the Wenny King $\rightarrow$ 与温尼王的相遇
 
 #### 技能 / 属性 / 圣痕
+* Mind Sword $\rightarrow$ 心剑
+* Formless Sword Qi $\rightarrow$ 无形剑气
 * Attribute Window $\rightarrow$ 属性窗口
 * Avatar $\rightarrow$ 分身
 * Purest Sword Force / Dedicated Sword Force $\rightarrow$ 罡气功
@@ -416,6 +419,8 @@
 * ■■■'s Deep Sea $\rightarrow$ ■■■的深海
 
 #### 装备 / 道具 / 星辰遗物
+* Great Return Pill $\rightarrow$ 大还丹
+* Solar energy $\rightarrow$ 太阳之气
 * star relic $\rightarrow$ 星辰遗物
 * Unbroken Faith $\rightarrow$ 不会折断的信念
 * Broken Faith $\rightarrow$ 折断的信念
@@ -471,6 +476,7 @@
 * Mount Wuxing / Mount Five Elements / Five Elements Mountains $\rightarrow$ 五行山
 
 #### 怪物 / 灾难 / 世界观符号
+* Sea Commander $\rightarrow$ 海司令
 * Dark Keeper / Dark Sentinel $\rightarrow$ 暗黑守护者
 * Dark Seeker $\rightarrow$ 暗黑求道者
 * Kim Dokja’s Fragment / Fragments of Kim Dokja $\rightarrow$ 金独子的碎片
@@ -637,14 +643,11 @@
 ## 记忆快照 (Memory Checkpoint)
 
 ### 1. 当前剧情状态 (Plot State)
-- 已成功翻译第 468 至 475 章，并已实现中英文每一章行数 100% 精确对齐。
+- 已成功翻译第 478 至 486 章，并已实现中英文每一章行数 100% 精确对齐。
 - 剧情进展：
-  - 贾成宇（千仁浩壳）在临终前借用伊甸力量战斗，重创之下走向崩溃，金独子现身将其灵魂指引送至拥有“真实金独子”的世界；
-  - 贾艺琳狂怒之下向金独子复仇，被金独子随手放逐到安全的故事外层空间；
-  - 金独子集团众人与金独子重逢，面临身份与归宿的终极疑问；
-  - 大星云联手在任务中篡改诸神黄昏预言，意图让新跃升为神话级星座的海姆达尔与成为地狱之王的书写版金独子同归于尽，并以小金独子碎片作为海姆达尔跃升的祭品；
-  - 金独子展现“最古老的梦”终极权能，宣告“I want to stop reading you”，抹去天际整整一半的星辰与阿斯加德巨型故事，迫使余下群星伏地臣服；
-  - 刘众赫横刀相向，指明只要宇宙存在，金独子便绝无可能彻底放弃阅读，两人随之爆发出终极一战，世界坠入无边黑暗。
+  - 金独子（李鹤翾）在回收站事件后，为寻找并救回昏迷的郑熙媛，与大天使乌列尔一同潜入郑熙媛被[命运]封印的内心世界深处。
+  - 郑熙媛在由[命运]编织的终局悲剧幻影中不断被驱使着去斩杀“金独子”，在此痛苦折磨中，她在第1,864轮线郑熙媛的指导下，疯狂磨砺意志，最终修成超越者的无上境界——“心剑”。
+  - 郑熙媛的心剑能够斩碎[命运]，但前提是她必须亲手斩断对金独子的记忆与羁绊。在最终抉择与崩溃的关头，李鹤翾（金独子）强行突破了汉江底的封印，握住了她的手，两人成功从命运的幻境中脱身，大厅的所有国王于焉集结完毕，准备推开最后的『门』。
 
 ### 2. 风格一致性要求 (Style Consistency)
 * **去西化动作描写**：消除英文特有的长从句与翻译腔，使用符合中文网文习惯的生动表达（如将“struck hard”译为“砸了一闷棍”）。
