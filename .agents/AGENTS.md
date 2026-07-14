@@ -24,7 +24,7 @@
 1. **彻底去西化与网文感润色（De-Anglicization & Polish）**
    * 消除英文特有的长从句与翻译腔，使用符合中文网文习惯的生动表达。
    * *示例*："struck hard on the back of the head" 译为**“在后脑勺砸了一闷棍”**而非“狠狠重击一拳”。
-   * *示例*："storm of probability aftermath" 译为**“概率逆风”**或**“概率风暴余波”**。
+   * *示例*："storm of probability aftermath" 译为**“概然性风暴”。
 
 2. **动态指代消解（Coreference Resolution）**
    * 英文文本中会频繁出现大量的 "he", "she", "it", "they"。在不破坏原意的前提下，你必须根据上下文，灵活地将这些代词替换为具体角色的名字（如“独子”、“众赫”、“秀英”、“恩宥”）或物体名称，防止满篇“他她它”导致阅读疲劳。
@@ -545,7 +545,7 @@
 * Story Core $\rightarrow$ 故事之核
 * Interplanetization $\rightarrow$ 星域化
 * End Grade $\rightarrow$ 终焉级
-* Probability Appropriate Determination $\rightarrow$ 概率合理性判定
+* Probability Appropriate Determination $\rightarrow$ 概然性合理性判定
 * Final Wall $\rightarrow$ 最后的墙
 * snowdrops $\rightarrow$ 雪花
 * Slayer Beyond Records $\rightarrow$ 超越记录的屠杀者
