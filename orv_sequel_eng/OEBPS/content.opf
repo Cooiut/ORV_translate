@@ -509,6 +509,15 @@
 <item id="img_6" href="844%20-%20Manri%20Shintong%20Heo%20Poong%20-%20Murim%20Dumpling%20Master%20Chief%20-%20The%20World%20After%20the%20Fall.jpg" media-type="image/jpeg"/>
 <item id="img_7" href="Cover%20Part%206%20-%20553.jpg" media-type="image/jpeg"/>
 <item id="img_8" href="Cover%20Part%207%20-%20795.jpg" media-type="image/jpeg"/>
+    <item id="ch_478" href="ch_478.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_479" href="ch_479.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_480" href="ch_480.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_481" href="ch_481.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_482" href="ch_482.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_483" href="ch_483.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_484" href="ch_484.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_485" href="ch_485.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_486" href="ch_486.xhtml" media-type="application/xhtml+xml"/>
 </manifest><spine toc="ncx">
 <itemref idref="intro"/><itemref idref="toc"/>
 <itemref idref="1"/>
@@ -989,6 +998,15 @@
 <itemref idref="476"/>
 <itemref idref="477"/>
 <itemref idref="afterword"/>
+    <itemref idref="ch_478"/>
+    <itemref idref="ch_479"/>
+    <itemref idref="ch_480"/>
+    <itemref idref="ch_481"/>
+    <itemref idref="ch_482"/>
+    <itemref idref="ch_483"/>
+    <itemref idref="ch_484"/>
+    <itemref idref="ch_485"/>
+    <itemref idref="ch_486"/>
 </spine>
   <guide>
     <reference href="cover.jpg" title="Cover" type="cover"/>

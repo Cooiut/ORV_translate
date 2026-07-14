@@ -2869,4 +2869,58 @@
       </navLabel>
       <content src="ch_477.xhtml"/>
     </navPoint>
+    <navPoint id="ncx_477" playOrder="478">
+      <navLabel>
+        <text>1030 Episode 63. Ragnarok (4)</text>
+      </navLabel>
+      <content src="ch_478.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx_478" playOrder="479">
+      <navLabel>
+        <text>1031 Episode 63. Ragnarok (5)</text>
+      </navLabel>
+      <content src="ch_479.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx_479" playOrder="480">
+      <navLabel>
+        <text>1032 Episode 63. Ragnarok (6)</text>
+      </navLabel>
+      <content src="ch_480.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx_480" playOrder="481">
+      <navLabel>
+        <text>1033 Episode 63. Ragnarok (7)</text>
+      </navLabel>
+      <content src="ch_481.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx_481" playOrder="482">
+      <navLabel>
+        <text>1034 Episode 63. Ragnarok (8)</text>
+      </navLabel>
+      <content src="ch_482.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx_482" playOrder="483">
+      <navLabel>
+        <text>1035 Episode 63. Ragnarok (9)</text>
+      </navLabel>
+      <content src="ch_483.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx_483" playOrder="484">
+      <navLabel>
+        <text>1036 Episode 63. Ragnarok (10)</text>
+      </navLabel>
+      <content src="ch_484.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx_484" playOrder="485">
+      <navLabel>
+        <text>1037 Episode 63. Ragnarok (11)</text>
+      </navLabel>
+      <content src="ch_485.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx_485" playOrder="486">
+      <navLabel>
+        <text>1038 Episode 63. Ragnarok (12)</text>
+      </navLabel>
+      <content src="ch_486.xhtml"/>
+    </navPoint>
   </navMap></ncx>

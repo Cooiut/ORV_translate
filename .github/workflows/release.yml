@@ -71,9 +71,9 @@ jobs:
             START_CH="553"
             END_CH="1029"
             COUNT="477"
-            STATUS="未精校版本"
+            STATUS="未知"
             DATE=$(date +'%Y-%m-%d')
-            RELEASE_TITLE="全知读者视角 外传 第553-1029章 ${TAG} (${DATE})"
+            RELEASE_TITLE="全知读者视角 外传 ${TAG} (${DATE})"
           fi
 
           echo "RELEASE_TITLE=${RELEASE_TITLE}" >> $GITHUB_ENV
