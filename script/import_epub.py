@@ -29,9 +29,6 @@ def process_for_translation(content, title_str):
     # Remove the comment link:
     content = re.sub(r'<hr/>\s*<p[^>]*><a[^>]*>\[CLICK TO READ CHAPTER COMMENTS\]</a></p>', '', content, flags=re.IGNORECASE)
     
-    # Remove endnotes section:
-    content = re.sub(r'<hr/>\s*<section epub:type=[\'"]endnotes[\'"][^>]*>.*?</section>', '', content, flags=re.IGNORECASE | re.DOTALL)
-    
     return remove_empty_lines(content)
 
 def remove_empty_lines(content):
