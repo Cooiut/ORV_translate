@@ -93,13 +93,13 @@
 * Fable / Story $\rightarrow$ 故事
 * Giant Story $\rightarrow$ 巨型故事
 * Nebula $\rightarrow$ 星云
-* Probability $\rightarrow$ 概率
+* Probability $\rightarrow$ 概然性
 * Dokkaebi $\rightarrow$ 鬼怪
 * Outer God $\rightarrow$ 外神
 * Ways of Survival / Three Ways to Survive in a Ruined World $\rightarrow$ 在灭亡的世界中存活的三种方法（简称“灭活法”）
 * Kim Dokja's Company $\rightarrow$ 金独子集团
 
-#### 星流系统、新势力与专属概念
+#### 星星直播系统、新势力与专属概念
 * Square Circle $\rightarrow$ 方形的圆 *(外传核心组织/阵营)*
 * Successor $\rightarrow$ 继承者
 * Reader-nim / Dear Readers $\rightarrow$ 读者大人
