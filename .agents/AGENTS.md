@@ -139,7 +139,7 @@
 * Christina Page -> 克里斯蒂娜·佩奇
 * Noh Jiyoon -> 卢智允
 * Gong Pildu -> 孔弼斗
-* Bang Cheolsoo -> 方哲洙
+* Bang Cheolsoo -> 方铁洙
 * Elliot Haston -> 埃利奥特·哈斯顿
 * Lancelot -> 兰斯洛特
 * Nirvana Moebius -> 涅槃·莫比乌斯
