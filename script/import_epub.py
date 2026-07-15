@@ -99,12 +99,10 @@ def main():
             print(f"Found {len(new_chapters)} new chapters.")
             
             # Write new chapters
-            current_local_ch = highest_local_ch_num
             added_chapters = [] # list of dicts with info for OPF/NCX
             
             for epub_f, actual, title, content in new_chapters:
-                current_local_ch += 1
-                new_filename = f"ch_{current_local_ch}.xhtml"
+                new_filename = f"ch_{actual}.xhtml"
                 added_chapters.append({
                     'filename': new_filename,
                     'title': title
