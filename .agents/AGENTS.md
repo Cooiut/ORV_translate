@@ -54,587 +54,591 @@
 ### 一、 官方固定规范词汇
 
 #### 核心角色
-* Kim Dokja $\rightarrow$ 金独子
-* Yoo Joonghyuk $\rightarrow$ 刘众赫
-* Han Sooyoung $\rightarrow$ 韩秀英
-* Yoo Sangah $\rightarrow$ 刘尚雅
-* Jung Heewon $\rightarrow$ 郑熙媛
-* Lee Hyunsung $\rightarrow$ 李贤诚
-* Lee Jihye $\rightarrow$ 李智慧
-* Lee Gilyoung $\rightarrow$ 李吉永
-* Shin Yoosung $\rightarrow$ 申流承
-* Bihyung $\rightarrow$ 鼻荆
-* Asuka Ren $\rightarrow$ 飞鸟莲
-* Secretive Plotter $\rightarrow$ 隐密的谋略家
-* Demon King of Salvation $\rightarrow$ 救赎的魔王
-* Supreme King $\rightarrow$ 霸王
+* Kim Dokja -> 金独子
+* Yoo Joonghyuk -> 刘众赫
+* Han Sooyoung -> 韩秀英
+* Yoo Sangah -> 刘尚雅
+* Jung Heewon -> 郑熙媛
+* Lee Hyunsung -> 李贤诚
+* Lee Jihye -> 李智慧
+* Lee Gilyoung -> 李吉永
+* Shin Yoosung -> 申流承
+* Bihyung -> 鼻荆
+* Asuka Ren -> 飞鸟莲
+* Secretive Plotter -> 隐密的谋略家
+* Demon King of Salvation -> 救赎的魔王
+* Supreme King -> 霸王
 
 #### 外传核心现实人物与新角色
-* Lee Hakhyun $\rightarrow$ 李鹤翾 *(外传主角，网络小说作家)*
-* Singshong $\rightarrow$ sing N song *(原作者，外传中作为世界观关键符号)*
-* Jeon Inho $\rightarrow$ 千仁浩 *(外传中作为李鹤翾承载的“角色壳”)*
-* Han Myungoh $\rightarrow$ 韩明武 *(台版译名固定)*
-* Ji Eunyu $\rightarrow$ 池恩宥
-* Representative Kim Dokja $\rightarrow$ 金独子代表
-* Lee Dansu $\rightarrow$ 李丹数
-* Kyung Sein $\rightarrow$ 景世仁
-* Dayoung $\rightarrow$ 多英
-* Namgung $\rightarrow$ 南宫
-* Namgung Jincheon $\rightarrow$ 南宫镇川
+* Lee Hakhyun -> 李鹤翾 *(外传主角，网络小说作家)*
+* Singshong -> sing N song *(原作者，外传中作为世界观关键符号)*
+* Jeon Inho -> 千仁浩 *(外传中作为李鹤翾承载的“角色壳”)*
+* Han Myungoh -> 韩明武 *(台版译名固定)*
+* Ji Eunyu -> 池恩宥
+* Representative Kim Dokja -> 金独子代表
+* Lee Dansu -> 李丹数
+* Kyung Sein -> 景世仁
+* Dayoung -> 多英
+* Namgung -> 南宫
+* Namgung Jincheon -> 南宫镇川
 
 #### 核心系统与基本设定
-* Star Stream $\rightarrow$ 星星直播
-* Scenario $\rightarrow$ 任务
-* Constellation $\rightarrow$ 星座
-* Incarnation $\rightarrow$ 化身
-* Sponsor $\rightarrow$ 赞助者
-* Stigma $\rightarrow$ 圣痕
-* Modifier $\rightarrow$ 修饰语
-* Fable / Story $\rightarrow$ 故事
-* Giant Story $\rightarrow$ 巨型故事
-* Nebula $\rightarrow$ 星云
-* Probability $\rightarrow$ 概然性
-* Dokkaebi $\rightarrow$ 鬼怪
-* Outer God $\rightarrow$ 外神
-* Ways of Survival / Three Ways to Survive in a Ruined World $\rightarrow$ 在灭亡的世界中存活的三种方法（简称“灭活法”）
-* Kim Dokja's Company $\rightarrow$ 金独子集团
+* Star Stream -> 星星直播
+* Scenario -> 任务
+* Constellation -> 星座
+* Incarnation -> 化身
+* Sponsor -> 赞助者
+* Stigma -> 圣痕
+* Modifier -> 修饰语
+* Fable / Story -> 故事
+* Giant Story -> 巨型故事
+* Nebula -> 星云
+* Probability -> 概然性
+* Dokkaebi -> 鬼怪
+* Outer God -> 外神
+* Ways of Survival / Three Ways to Survive in a Ruined World -> 在灭亡的世界中存活的三种方法（简称“灭活法”）
+* Kim Dokja's Company -> 金独子集团
 
 #### 星星直播系统、新势力与专属概念
-* Square Circle $\rightarrow$ 方形的圆 *(外传核心组织/阵营)*
-* Successor $\rightarrow$ 继承者
-* Reader-nim / Dear Readers $\rightarrow$ 读者大人
-* Character $\rightarrow$ 角色
-* Disconnected Film / Disconnected Filmstrip $\rightarrow$ 断开的胶卷
-* Group Regression $\rightarrow$ 集体回归
-* The 41st Round $\rightarrow$ 第41轮线 *(外传核心历史线背景)*
-* Anonymous $\rightarrow$ 匿名者
-* Fragments of the Oldest Dream $\rightarrow$ 最古老的梦的碎片
-* Plagiarized Author $\rightarrow$ 抄袭作家
-* Regression Depression $\rightarrow$ 回归忧郁症
-* View Count $\rightarrow$ 点击率 / 阅读量
-* Sneaking Schemer $\rightarrow$ 阴险的谋略家
+* Square Circle -> 方形的圆 *(外传核心组织/阵营)*
+* Successor -> 继承者
+* Reader-nim / Dear Readers -> 读者大人
+* Character -> 角色
+* Character List -> 登场人物浏览
+* Character Summary -> 人物资讯
+* Disconnected Film / Disconnected Filmstrip -> 断开的胶卷
+* Group Regression -> 集体回归
+* The 41st Round -> 第41轮线 *(外传核心历史线背景)*
+* Anonymous -> 匿名者
+* Fragments of the Oldest Dream -> 最古老的梦的碎片
+* Plagiarized Author -> 抄袭作家
+* Regression Depression -> 回归忧郁症
+* View Count -> 点击率 / 阅读量
+* Sneaking Schemer -> 阴险的谋略家
 
 ---
 
 ### 二、 动态追加词汇
 
 #### 角色 / 身份 / 阵营
-* Teacher Yang $\rightarrow$ 杨老师
-* kkoma Kim Dokja $\rightarrow$ 小金独子
-* Noh Gyeonghwan $\rightarrow$ 卢庆焕
-* Seyeon / Lee Seyeon $\rightarrow$ 李世妍
-* Ye Hyunwoo $\rightarrow$ 叶贤宇
-* Jung Moonho $\rightarrow$ 郑文浩
-* Sergeant Jung Moonho $\rightarrow$ 郑文浩下士
-* Goo Seonah $\rightarrow$ 具善雅
-* Kang Ilhun $\rightarrow$ 姜日勋
-* Min Jiwon $\rightarrow$ 闵智媛
-* Selena Kim $\rightarrow$ 塞莲娜·金
-* Asmodeus $\rightarrow$ 阿斯蒙蒂斯
-* Lee Seolhwa $\rightarrow$ 李雪花
-* Ja Sungwoo $\rightarrow$ 贾成宇
-* Ja Yerin $\rightarrow$ 贾艺琳
-* Christina Page $\rightarrow$ 克里斯蒂娜·佩奇
-* Noh Jiyoon $\rightarrow$ 卢智允
-* Gong Pildu $\rightarrow$ 孔弼斗
-* Bang Cheolsoo $\rightarrow$ 方哲洙
-* Elliot Haston $\rightarrow$ 埃利奥特·哈斯顿
-* Lancelot $\rightarrow$ 兰斯洛特
-* Nirvana Moebius $\rightarrow$ 涅槃·莫比乌斯
-* Gyeonwon / Gyeonhun $\rightarrow$ 甄萱
-* Inhopa $\rightarrow$ 仁浩帮
-* King of gangsters $\rightarrow$ 流氓王
-* Assassin King $\rightarrow$ 暗杀王
-* Record Repairer $\rightarrow$ 记录修复师
-* Beast Tamer $\rightarrow$ 驯兽师
-* Rookie hunters / Rookie hunter $\rightarrow$ 新手猎人
-* Literature Girl 64 $\rightarrow$ 文学少女64
-* Killer King $\rightarrow$ 杀戮之王
-* Izumi $\rightarrow$ 泉
-* Kyrgios Roadgrim $\rightarrow$ 奇瓦士·罗德格林
-* Archangel Jophiel $\rightarrow$ 大天使尤菲尔
-* Seven Apostles $\rightarrow$ 七使徒
-* Misreading Association $\rightarrow$ 误读协会
-* Zarathustra $\rightarrow$ 查拉图斯特拉 / 扎拉图斯特拉
-* Salvation Church $\rightarrow$ 救赎教会
-* Bicheonhori $\rightarrow$ 飞天狐狸
-* Reiki $\rightarrow$ 雷奇
-* Hermaphroditus / First Hermaphrodite $\rightarrow$ 双性神赫玛佛洛狄忒斯
-* Defense Master $\rightarrow$ 防御之主
-* Archangel Uriel $\rightarrow$ 大天使乌列尔
-* Pure Moonlight Hunter $\rightarrow$ 纯洁月光的猎人
-* Almighty Sun $\rightarrow$ 万能的太阳
-* Spokesperson of Justice and Wisdom $\rightarrow$ 正义与智慧的代言人
-* Cheongae $\rightarrow$ 天盖
-* Arc of the Dragon Head Cheongae / Dragon Head Ark $\rightarrow$ 龙头帮主天盖 / 丐帮龙头
-* Second Kim Dokja $\rightarrow$ 第二位金独子
-* Jung Eunho $\rightarrow$ 郑恩浩
-* Recorders of Fear / Recorder of Fear $\rightarrow$ 恐惧的记录者
-* Ilgeomtalhon Cheongada $\rightarrow$ 一剑夺魂千家多
-* Yongcheondo $\rightarrow$ 龙天刀
-* Chunghuh $\rightarrow$ 仲虚
-* Ryunard $\rightarrow$ 柳纳德
-* Karlton $\rightarrow$ 卡尔顿
-* Naked Saint $\rightarrow$ 赤裸圣者
-* Silver Binding $\rightarrow$ 银色束缚
-* Awakened $\rightarrow$ 觉醒者
-* Apollo $\rightarrow$ 阿波罗
-* Helios $\rightarrow$ 赫利俄斯
-* Hephaestus $\rightarrow$ 赫菲斯托斯
-* Athena $\rightarrow$ 雅典娜
-* Artemis $\rightarrow$ 阿耳忒弥斯
-* Eight Locapalas / Lokapalas / Lokapala $\rightarrow$ 八大守护神
-* Indra $\rightarrow$ 因陀罗
-* Dionysus $\rightarrow$ 狄奥尼索斯
-* Zeus $\rightarrow$ 宙斯
-* Argo Expeditionary Force $\rightarrow$ 阿尔戈远征队
-* Jaehwan $\rightarrow$ 宰焕
-* Heo Yeo-geon $\rightarrow$ 许与健
-* Cultivators $\rightarrow$ 耕作者
-* Halong $\rightarrow$ 河龙
-* Holong $\rightarrow$ 湖龙
-* Noksoo $\rightarrow$ 绿水
-* Onsae $\rightarrow$ 温世
-* Haesol $\rightarrow$ 海率
-* Namgung Myung $\rightarrow$ 南宫明
-* Dokkaebi Yeonggi $\rightarrow$ 鬼怪英基
-* tax collector $\rightarrow$ 税务官
-* Flame Demon Emperor Star $\rightarrow$ 炎魔帝星
-* Black Wolf Cavalry $\rightarrow$ 黑狼骑
-* Hermit $\rightarrow$ 隐者
-* Vali $\rightarrow$ 瓦利
-* Daphne $\rightarrow$ 达芙妮
-* Blood Demon Yeom Baekho $\rightarrow$ 血魔廉百虎
-* Odin $\rightarrow$ 奥丁
-* Urd $\rightarrow$ 兀尔德
-* Verdandi $\rightarrow$ 薇儿丹蒂
-* Mitra $\rightarrow$ 弥特拉
-* Ares $\rightarrow$ 阿瑞斯
-* Vakarine $\rightarrow$ 瓦卡里涅
-* Hades $\rightarrow$ 哈迪斯
-* Poseidon $\rightarrow$ 波塞冬
-* Demeter $\rightarrow$ 德墨忒尔
-* Biyoo $\rightarrow$ 比由
-* Biryu $\rightarrow$ 琵流
-* Kim Cheolyang $\rightarrow$ 金哲阳
-* Lee Cheoldu $\rightarrow$ 李哲斗
-* Cheoldu faction $\rightarrow$ 哲斗帮
-* Oh Jintaek $\rightarrow$ 吴真泰
-* Twelve Olympians $\rightarrow$ 奥林匹斯十二主神
-* Wenny King $\rightarrow$ 温尼王
-* Very Giant Baby $\rightarrow$ 极其庞大的婴儿
-* Emperor Ku $\rightarrow$ 帝喾
-* Shennong $\rightarrow$ 神农
-* Shakyamuni $\rightarrow$ 释迦牟尼
-* Sha Wujing $\rightarrow$ 沙悟净
-* Thor $\rightarrow$ 托尔
-* Freya $\rightarrow$ 芙蕾雅
-* Bragi $\rightarrow$ 布拉基
-* Tyr $\rightarrow$ 提尔
-* Osiris $\rightarrow$ 奥西里斯
-* Ra $\rightarrow$ 拉
-* Anubis $\rightarrow$ 阿努比斯
-* Geb $\rightarrow$ 盖布
-* Sekhmet $\rightarrow$ 塞赫麦特
-* Nephthys $\rightarrow$ 奈芙蒂斯
+* Teacher Yang -> 杨老师
+* kkoma Kim Dokja -> 小金独子
+* Noh Gyeonghwan -> 卢庆焕
+* Seyeon / Lee Seyeon -> 李世妍
+* Ye Hyunwoo -> 叶贤宇
+* Jung Moonho -> 郑文浩
+* Sergeant Jung Moonho -> 郑文浩下士
+* Goo Seonah -> 具善雅
+* Kang Ilhun -> 姜日勋
+* Min Jiwon -> 闵智媛
+* Selena Kim -> 塞莲娜·金
+* Asmodeus -> 阿斯蒙蒂斯
+* Lee Seolhwa -> 李雪花
+* Ja Sungwoo -> 贾成宇
+* Ja Yerin -> 贾艺琳
+* Christina Page -> 克里斯蒂娜·佩奇
+* Noh Jiyoon -> 卢智允
+* Gong Pildu -> 孔弼斗
+* Bang Cheolsoo -> 方哲洙
+* Elliot Haston -> 埃利奥特·哈斯顿
+* Lancelot -> 兰斯洛特
+* Nirvana Moebius -> 涅槃·莫比乌斯
+* Gyeonwon / Gyeonhun -> 甄萱
+* Inhopa -> 仁浩帮
+* King of gangsters -> 流氓王
+* Assassin King -> 暗杀王
+* Record Repairer -> 记录修复师
+* Beast Tamer -> 驯兽师
+* Rookie hunters / Rookie hunter -> 新手猎人
+* Literature Girl 64 -> 文学少女64
+* Killer King -> 杀戮之王
+* Izumi -> 泉
+* Kyrgios Roadgrim -> 奇瓦士·罗德格林
+* Archangel Jophiel -> 大天使尤菲尔
+* Seven Apostles -> 七使徒
+* Misreading Association -> 误读协会
+* Zarathustra -> 查拉图斯特拉 / 扎拉图斯特拉
+* Salvation Church -> 救赎教会
+* Bicheonhori -> 飞天狐狸
+* Reiki -> 雷奇
+* Hermaphroditus / First Hermaphrodite -> 双性神赫玛佛洛狄忒斯
+* Defense Master -> 防御之主
+* Archangel Uriel -> 大天使乌列尔
+* Pure Moonlight Hunter -> 纯洁月光的猎人
+* Almighty Sun -> 万能的太阳
+* Spokesperson of Justice and Wisdom -> 正义与智慧的代言人
+* Cheongae -> 天盖
+* Arc of the Dragon Head Cheongae / Dragon Head Ark -> 龙头帮主天盖 / 丐帮龙头
+* Second Kim Dokja -> 第二位金独子
+* Jung Eunho -> 郑恩浩
+* Recorders of Fear / Recorder of Fear -> 恐惧的记录者
+* Ilgeomtalhon Cheongada -> 一剑夺魂千家多
+* Yongcheondo -> 龙天刀
+* Chunghuh -> 仲虚
+* Ryunard -> 柳纳德
+* Karlton -> 卡尔顿
+* Naked Saint -> 赤裸圣者
+* Silver Binding -> 银色束缚
+* Awakened -> 觉醒者
+* Apollo -> 阿波罗
+* Helios -> 赫利俄斯
+* Hephaestus -> 赫菲斯托斯
+* Athena -> 雅典娜
+* Artemis -> 阿耳忒弥斯
+* Eight Locapalas / Lokapalas / Lokapala -> 八大守护神
+* Indra -> 因陀罗
+* Dionysus -> 狄奥尼索斯
+* Zeus -> 宙斯
+* Argo Expeditionary Force -> 阿尔戈远征队
+* Jaehwan -> 宰焕
+* Heo Yeo-geon -> 许与健
+* Cultivators -> 耕作者
+* Halong -> 河龙
+* Holong -> 湖龙
+* Noksoo -> 绿水
+* Onsae -> 温世
+* Haesol -> 海率
+* Namgung Myung -> 南宫明
+* Dokkaebi Yeonggi -> 鬼怪英基
+* tax collector -> 税务官
+* Flame Demon Emperor Star -> 炎魔帝星
+* Black Wolf Cavalry -> 黑狼骑
+* Hermit -> 隐者
+* Vali -> 瓦利
+* Daphne -> 达芙妮
+* Blood Demon Yeom Baekho -> 血魔廉百虎
+* Odin -> 奥丁
+* Urd -> 兀尔德
+* Verdandi -> 薇儿丹蒂
+* Mitra -> 弥特拉
+* Ares -> 阿瑞斯
+* Vakarine -> 瓦卡里涅
+* Hades -> 哈迪斯
+* Poseidon -> 波塞冬
+* Demeter -> 德墨忒尔
+* Biyoo -> 比由
+* Biryu -> 琵流
+* Kim Cheolyang -> 金哲阳
+* Lee Cheoldu -> 李哲斗
+* Cheoldu faction -> 哲斗帮
+* Oh Jintaek -> 吴真泰
+* Twelve Olympians -> 奥林匹斯十二主神
+* Wenny King -> 温尼王
+* Very Giant Baby -> 极其庞大的婴儿
+* Emperor Ku -> 帝喾
+* Shennong -> 神农
+* Shakyamuni -> 释迦牟尼
+* Sha Wujing -> 沙悟净
+* Thor -> 托尔
+* Freya -> 芙蕾雅
+* Bragi -> 布拉基
+* Tyr -> 提尔
+* Osiris -> 奥西里斯
+* Ra -> 拉
+* Anubis -> 阿努比斯
+* Geb -> 盖布
+* Sekhmet -> 塞赫麦特
+* Nephthys -> 奈芙蒂斯
 
 #### 星座修饰语 / 故事印记
-* Great Sage, Heaven’s Equal $\rightarrow$ 齐天大圣
-* Watcher of Light and Darkness $\rightarrow$ 光与暗的守护者
-* Goryeo’s First Sword $\rightarrow$ 高丽第一剑
-* Knight of the Lake $\rightarrow$ 湖上骑士
-* Monarch of the Small Fries $\rightarrow$ 弱小民草的君主
-* A Persistent Martial Arts Expert / Tenacious Martial Arts Master $\rightarrow$ 顽强的武林高手
-* Lotus Flower Blooming Under the Moonlight $\rightarrow$ 月下绽放的莲花
-* persistent martial arts master $\rightarrow$ 不屈的武道大师
-* Hannam County Founder $\rightarrow$ 完山州开国之祖
-* founder of the absolute throne $\rightarrow$ 绝对王座的创始者
-* The One who Hunted the King of Disasters $\rightarrow$ 斩杀灾难之王的人
-* Heir of the Eternal Name $\rightarrow$ 永恒名字的继承者
-* Recorder of Things That Will Disappear $\rightarrow$ 消逝之物的记录者
-* Redemption of Truth / Binding of Truth $\rightarrow$ 真实之救赎
-* Redemption of Life $\rightarrow$ 生命之救赎
-* The One Who Won the Rat $\rightarrow$ 让老鼠获胜的人
-* Tiger That Eats Rice Cake / Tiger Who Eats Rice Cake $\rightarrow$ 吃年糕的虎
-* The Farmer Plowing $\rightarrow$ 耕作的农夫
-* Sigh of the Frozen One $\rightarrow$ 冰冻之人的叹息
-* Scream of a Scorching Flame / Scream of the Scorching Flame $\rightarrow$ 炽热火焰的尖叫
-* The Right Arm of the Sword Master who was Stabbed in the Back by a Colleague $\rightarrow$ 被同伴背后捅刀的穷困潦倒的剑术大师的右臂
-* Nail-Eating Rat $\rightarrow$ 吃指甲的老鼠
-* The Dog That Threw Itself into the Flames $\rightarrow$ 自投烈火 of 义犬
-* the Pig in the Brick House $\rightarrow$ 砖屋里的猪
-* Father of the Rich Night $\rightarrow$ 富裕之夜的父亲
-* Spear that Draws the Boundary of the Seas $\rightarrow$ 画界为海之枪
-* One-eyed Father $\rightarrow$ 独眼之父
-* Master of Skywalk $\rightarrow$ 空行之王
-* Demon-like Judge of Fire $\rightarrow$ 恶魔般的烈火审判者
-* Maritime War God $\rightarrow$ 海上战神
-* Bald General of Justice $\rightarrow$ 秃头正义将军
-* Maegeumjijon $\rightarrow$ 寐锦至尊
-* True God Ouijeolgi $\rightarrow$ 真神外传绝技
-* Paradoxical White-Blue $\rightarrow$ 悖论之白青
-* Seat of Lightning $\rightarrow$ 雷霆神座
-* Wanderer of the Snowfield $\rightarrow$ 雪原的流浪者
-* Master of Fear $\rightarrow$ 恐惧之主
-* Witness to the Truth of the Stars $\rightarrow$ 见证群星真相之人
-* Observer of the Indelible Traces $\rightarrow$ 不灭足迹的观测者
-* Ferocious War God $\rightarrow$ 狂野的战神
-* Mad Sword Emperor $\rightarrow$ 疯狂的剑帝
-* Great Heavenly Star $\rightarrow$ 持国天星
-* Lord of December 25th $\rightarrow$ 12月25日的主宰
-* God of Peace and Relief $\rightarrow$ 和平与救济之神
-* Caregiver of Light and Compassion $\rightarrow$ 光芒与慈悲的铺育者
-* God of Wine and Ecstasy $\rightarrow$ 葡萄酒与狂喜之神
-* King of Mihu $\rightarrow$ 美猴王
-* Bimawen $\rightarrow$ 弼马温
-* Victorious Fighting Buddha $\rightarrow$ 斗战胜佛
-* Golden Arhat $\rightarrow$ 金身罗汉
-* Pure Lion $\rightarrow$ 净坛使者
-* Memories of the Big House $\rightarrow$ 大房子的记忆
-* Oldest Liberator $\rightarrow$ 最古老的解放者
-* Kim Dokja's Brother $\rightarrow$ 金独子的哥哥
-* Kim Dokja's Star $\rightarrow$ 金独子的星辰
-* Time to Brush Teeth $\rightarrow$ 刷牙的时间
-* Memory of a Failed Omurice $\rightarrow$ 失败的蛋包饭记忆
-* Special Push-up Training $\rightarrow$ 俯卧撑特别训练
-* Encounter with the Wenny King $\rightarrow$ 与温尼王的相遇
+* Great Sage, Heaven’s Equal -> 齐天大圣
+* Watcher of Light and Darkness -> 光与暗的守护者
+* Goryeo’s First Sword -> 高丽第一剑
+* Knight of the Lake -> 湖上骑士
+* Monarch of the Small Fries -> 弱小民草的君主
+* A Persistent Martial Arts Expert / Tenacious Martial Arts Master -> 顽强的武林高手
+* Lotus Flower Blooming Under the Moonlight -> 月下绽放的莲花
+* persistent martial arts master -> 不屈的武道大师
+* Hannam County Founder -> 完山州开国之祖
+* founder of the absolute throne -> 绝对王座的创始者
+* The One who Hunted the King of Disasters -> 斩杀灾难之王的人
+* Heir of the Eternal Name -> 永恒名字的继承者
+* Recorder of Things That Will Disappear -> 消逝之物的记录者
+* Redemption of Truth / Binding of Truth -> 真实之救赎
+* Redemption of Life -> 生命之救赎
+* The One Who Won the Rat -> 让老鼠获胜的人
+* Tiger That Eats Rice Cake / Tiger Who Eats Rice Cake -> 吃年糕的虎
+* The Farmer Plowing -> 耕作的农夫
+* Sigh of the Frozen One -> 冰冻之人的叹息
+* Scream of a Scorching Flame / Scream of the Scorching Flame -> 炽热火焰的尖叫
+* The Right Arm of the Sword Master who was Stabbed in the Back by a Colleague -> 被同伴背后捅刀的穷困潦倒的剑术大师的右臂
+* Nail-Eating Rat -> 吃指甲的老鼠
+* The Dog That Threw Itself into the Flames -> 自投烈火 of 义犬
+* the Pig in the Brick House -> 砖屋里的猪
+* Father of the Rich Night -> 富裕之夜的父亲
+* Spear that Draws the Boundary of the Seas -> 画界为海之枪
+* One-eyed Father -> 独眼之父
+* Master of Skywalk -> 空行之王
+* Demon-like Judge of Fire -> 恶魔般的烈火审判者
+* Maritime War God -> 海上战神
+* Bald General of Justice -> 秃头正义将军
+* Maegeumjijon -> 寐锦至尊
+* True God Ouijeolgi -> 真神外传绝技
+* Paradoxical White-Blue -> 悖论之白青
+* Seat of Lightning -> 雷霆神座
+* Wanderer of the Snowfield -> 雪原的流浪者
+* Master of Fear -> 恐惧之主
+* Witness to the Truth of the Stars -> 见证群星真相之人
+* Observer of the Indelible Traces -> 不灭足迹的观测者
+* Ferocious War God -> 狂野的战神
+* Mad Sword Emperor -> 疯狂的剑帝
+* Great Heavenly Star -> 持国天星
+* Lord of December 25th -> 12月25日的主宰
+* God of Peace and Relief -> 和平与救济之神
+* Caregiver of Light and Compassion -> 光芒与慈悲的铺育者
+* God of Wine and Ecstasy -> 葡萄酒与狂喜之神
+* King of Mihu -> 美猴王
+* Bimawen -> 弼马温
+* Victorious Fighting Buddha -> 斗战胜佛
+* Golden Arhat -> 金身罗汉
+* Pure Lion -> 净坛使者
+* Memories of the Big House -> 大房子的记忆
+* Oldest Liberator -> 最古老的解放者
+* Kim Dokja's Brother -> 金独子的哥哥
+* Kim Dokja's Star -> 金独子的星辰
+* Time to Brush Teeth -> 刷牙的时间
+* Memory of a Failed Omurice -> 失败的蛋包饭记忆
+* Special Push-up Training -> 俯卧撑特别训练
+* Encounter with the Wenny King -> 与温尼王的相遇
 
 #### 技能 / 属性 / 圣痕
-* Mind Sword $\rightarrow$ 心剑
-* Formless Sword Qi $\rightarrow$ 无形剑气
-* Attribute Window $\rightarrow$ 属性窗口
-* Avatar $\rightarrow$ 分身
-* Purest Sword Force / Dedicated Sword Force $\rightarrow$ 罡气功
-* White Blue Energy $\rightarrow$ 白青罡气
-* Baekjeong Ganggi / Baekjeonggi $\rightarrow$ 百晶罡气
-* Breath $\rightarrow$ 闭气功
-* Weapon Polishing $\rightarrow$ 武器淬炼
-* Mental Barrier $\rightarrow$ 思想壁垒
-* Self-Defense $\rightarrow$ 自我防御
-* Emotional restraint $\rightarrow$ 感情抑制
-* Attribute Detection $\rightarrow$ 属性检测
-* Private Property $\rightarrow$ 私有地
-* Armed Zone $\rightarrow$ 武装地带
-* Sneak Peek $\rightarrow$ 窥视
-* Sage's Eye $\rightarrow$ 贤者之眼
-* Fourth Wall $\rightarrow$ 第四面墙
-* Acting Human $\rightarrow$ 假装人类
-* Demagogy Killing $\rightarrow$ 煽动杀人
-* Staging $\rightarrow$ 舞台搭建
-* Enhance Sentence / Sentence Reinforcement $\rightarrow$ 强化句子
-* King's Spirit $\rightarrow$ 霸王之气
-* Relentless Guts $\rightarrow$ 不屈的斗志
-* Sacrificial Will $\rightarrow$ 牺牲意志
-* Round Table Council $\rightarrow$ 圆桌议会
-* Round Table Justice $\rightarrow$ 圆桌正义
-* Circulatory Delay / Circulatory Retardation $\rightarrow$ 循环滞缓
-* The Chosen One of Self-defense $\rightarrow$ 自我防御的入选者
-* Daily Invoice / Daily Corpse $\rightarrow$ 一日尸体
-* Infinite Uroboros $\rightarrow$ 无限衔尾蛇
-* Nakgak Breathing / Nagak Breathing $\rightarrow$ 螺角呼吸法
-* Ghost Walk $\rightarrow$ 鬼步
-* God killing $\rightarrow$ 弑神
-* Instant Kill $\rightarrow$ 瞬杀
-* Breaking the Sky Myeol Hwanggeom $\rightarrow$ 破天灭皇剑
-* Breaking the Sky Ryu Seong-gyeol $\rightarrow$ 破天流星决
-* Cheonjangsa $\rightarrow$ 千丈丝
-* Fictionalization $\rightarrow$ 小说化
-* Lie Detection $\rightarrow$ 谎言检测
-* Mirror Vision $\rightarrow$ 心之镜
-* Hapgongdapbo $\rightarrow$ 合功踏步
-* Daily Free Pass $\rightarrow$ 每日免费券
-* All-in-One $\rightarrow$ 合一
-* Thunderstorm $\rightarrow$ 雷电风暴
-* Pure White Paradox $\rightarrow$ 纯白悖论
-* Creation Island $\rightarrow$ 创世刀
-* Heavenly Thunderstorm $\rightarrow$ 天地雷暴
-* Eyes of the Great Demon $\rightarrow$ 大恶魔之眼
-* Advanced Multi-species Interaction $\rightarrow$ 高阶多物种感应
-* Full Electrification $\rightarrow$ 全面电人化
-* Silver Screen Seal $\rightarrow$ 银幕的封印
-* False Demon's Banquet $\rightarrow$ 非真魔的宴会
-* Suspicion and Understanding $\rightarrow$ 怀疑与理解
-* Anti-flame flash $\rightarrow$ 防炎之闪光
-* Abyssal Understanding $\rightarrow$ 深渊级理解
-* Ruler of Entertainment $\rightarrow$ 游戏的主宰
-* Elixir Maker $\rightarrow$ 灵药制作师
-* Sumeru Kill / Steady Kill $\rightarrow$ 须弥杀
-* Samudra Manthan $\rightarrow$ 乳海搅拌
-* broken film theory $\rightarrow$ 断开的胶卷理论
+* Mind Sword -> 心剑
+* Formless Sword Qi -> 无形剑气
+* Exclusive Skill -> 专用技能
+* Exclusive Attribute -> 专用特性
+* Attribute Window -> 特性视窗
+* Avatar -> 分身
+* Purest Sword Force / Dedicated Sword Force -> 罡气功
+* White Blue Energy -> 白青罡气
+* Baekjeong Ganggi / Baekjeonggi -> 百晶罡气
+* Breath -> 闭气功
+* Weapon Polishing -> 武器淬炼
+* Mental Barrier -> 思想壁垒
+* Self-Defense -> 自我防御
+* Emotional restraint -> 感情抑制
+* Attribute Detection -> 属性检测
+* Private Property -> 私有地
+* Armed Zone -> 武装地带
+* Sneak Peek -> 窥视
+* Sage's Eye -> 贤者之眼
+* Fourth Wall -> 第四面墙
+* Acting Human -> 假装人类
+* Demagogy Killing -> 煽动杀人
+* Staging -> 舞台搭建
+* Enhance Sentence / Sentence Reinforcement -> 强化句子
+* King's Spirit -> 霸王之气
+* Relentless Guts -> 不屈的斗志
+* Sacrificial Will -> 牺牲意志
+* Round Table Council -> 圆桌议会
+* Round Table Justice -> 圆桌正义
+* Circulatory Delay / Circulatory Retardation -> 循环滞缓
+* The Chosen One of Self-defense -> 自我防御的入选者
+* Daily Invoice / Daily Corpse -> 一日尸体
+* Infinite Uroboros -> 无限衔尾蛇
+* Nakgak Breathing / Nagak Breathing -> 螺角呼吸法
+* Ghost Walk -> 鬼步
+* God killing -> 弑神
+* Instant Kill -> 瞬杀
+* Breaking the Sky Myeol Hwanggeom -> 破天灭皇剑
+* Breaking the Sky Ryu Seong-gyeol -> 破天流星决
+* Cheonjangsa -> 千丈丝
+* Fictionalization -> 小说化
+* Lie Detection -> 谎言检测
+* Mirror Vision -> 心之镜
+* Hapgongdapbo -> 合功踏步
+* Daily Free Pass -> 每日免费券
+* All-in-One -> 合一
+* Thunderstorm -> 雷电风暴
+* Pure White Paradox -> 纯白悖论
+* Creation Island -> 创世刀
+* Heavenly Thunderstorm -> 天地雷暴
+* Eyes of the Great Demon -> 大恶魔之眼
+* Advanced Multi-species Interaction -> 高阶多物种感应
+* Full Electrification -> 全面电人化
+* Silver Screen Seal -> 银幕的封印
+* False Demon's Banquet -> 非真魔的宴会
+* Suspicion and Understanding -> 怀疑与理解
+* Anti-flame flash -> 防炎之闪光
+* Abyssal Understanding -> 深渊级理解
+* Ruler of Entertainment -> 游戏的主宰
+* Elixir Maker -> 灵药制作师
+* Sumeru Kill / Steady Kill -> 须弥杀
+* Samudra Manthan -> 乳海搅拌
+* broken film theory -> 断开的胶卷理论
 
 #### 任务 / system分类
-* Category: Main $\rightarrow$ 分类：主线任务
-* Category: Hidden $\rightarrow$ 分类：隐藏任务
-* Classification: Sub $\rightarrow$ 分类：支线任务
-* Stealing the Throne $\rightarrow$ 篡夺王座
-* Beast Hunting $\rightarrow$ 巨兽猎杀
-* Disaster of Floods $\rightarrow$ 洪水灾难
-* Disaster of Questions $\rightarrow$ 提问灾难
-* Battle Action Mode / combat action mode $\rightarrow$ 战斗指令模式
-* Star Ladder $\rightarrow$ 星辰梯
-* midday secret meeting $\rightarrow$ 正午的密谈
-* Oath of Existence $\rightarrow$ 存在之誓
-* Hour of Judgement $\rightarrow$ 审判时间
-* The Three Little Pigs $\rightarrow$ 三只小猪
-* Orient Express Wagon / Orient Express Carriage $\rightarrow$ 东方快车马车
-* Zodiac Ball $\rightarrow$ 十二生肖宴会
-* Philia Academy $\rightarrow$ 菲利亚学院
-* Invincible Castle Tech Tree $\rightarrow$ 无敌堡垒加点路线
-* Fear Expedition / Fear Realm Expedition $\rightarrow$ 恐惧界域远征
-* End-level tow truck $\rightarrow$ 终焉的引路人
-* The Last Dragon $\rightarrow$ 最后的火龙
-* Walls of Troy $\rightarrow$ 特洛伊城墙
-* Perfect Night $\rightarrow$ 完美的夜晚
-* Eight-Forked Wandering $\rightarrow$ 八岐流浪者
-* Ascension Ceremony $\rightarrow$ 飞升大典
-* Forest of Stars and Humans $\rightarrow$ 星辰与人类之林
+* Category: Main -> 分类：主线任务
+* Category: Hidden -> 分类：隐藏任务
+* Classification: Sub -> 分类：支线任务
+* Stealing the Throne -> 篡夺王座
+* Beast Hunting -> 巨兽猎杀
+* Disaster of Floods -> 洪水灾难
+* Disaster of Questions -> 提问灾难
+* Battle Action Mode / combat action mode -> 战斗指令模式
+* Star Ladder -> 星辰梯
+* midday secret meeting -> 正午的密谈
+* Oath of Existence -> 存在之誓
+* Hour of Judgement -> 审判时间
+* The Three Little Pigs -> 三只小猪
+* Orient Express Wagon / Orient Express Carriage -> 东方快车马车
+* Zodiac Ball -> 十二生肖宴会
+* Philia Academy -> 菲利亚学院
+* Invincible Castle Tech Tree -> 无敌堡垒加点路线
+* Fear Expedition / Fear Realm Expedition -> 恐惧界域远征
+* End-level tow truck -> 终焉的引路人
+* The Last Dragon -> 最后的火龙
+* Walls of Troy -> 特洛伊城墙
+* Perfect Night -> 完美的夜晚
+* Eight-Forked Wandering -> 八岐流浪者
+* Ascension Ceremony -> 飞升大典
+* Forest of Stars and Humans -> 星辰与人类之林
 
 #### 地点 / 场景区域
-* Geumho Station $\rightarrow$ 金湖站
-* Even Bridge $\rightarrow$ 双数桥
-* Snowfield $\rightarrow$ 雪原
-* Philosophy Hall $\rightarrow$ 哲学馆
-* Great Hall $\rightarrow$ 大礼堂
-* Star Labyrinth $\rightarrow$ 星辰迷宫
-* Ground Rat's Treasure Trove $\rightarrow$ 地鼠的藏宝库
-* Treasure Storehouse / Treasure Warehouse $\rightarrow$ 藏宝库
-* Star Jewel Dungeon $\rightarrow$ 星辰宝石副本
-* Theatre of the Beginning $\rightarrow$ 创始剧场
-* Veronica Castle $\rightarrow$ 维罗妮卡城堡
-* Peace Land $\rightarrow$ 和平之地
-* Washington East $\rightarrow$ 东华盛顿
-* Cannery Factory $\rightarrow$ 小黑屋 / 罐头工厂
-* Void-district $\rightarrow$ 虚无区 / 虚无洞
-* Edge of the Other World $\rightarrow$ 异界边缘
-* Room of Time $\rightarrow$ 时间之室
-* Story Horizon $\rightarrow$ 故事的境界
-* End-level area $\rightarrow$ 终游区域
-* Troy $\rightarrow$ 特洛伊
-* Breaking the Sky School $\rightarrow$ 破天道场
-* Record Archive $\rightarrow$ 记录保管库
-* Orbital Elevator $\rightarrow$ 轨道电梯
-* Ascension Platform $\rightarrow$ 飞升台
-* Delos $\rightarrow$ 提洛岛
-* Water Curtain Cave $\rightarrow$ 水帘洞
-* ■■■'s Deep Sea $\rightarrow$ ■■■的深海
+* Geumho Station -> 金湖站
+* Even Bridge -> 双数桥
+* Snowfield -> 雪原
+* Philosophy Hall -> 哲学馆
+* Great Hall -> 大礼堂
+* Star Labyrinth -> 星辰迷宫
+* Ground Rat's Treasure Trove -> 地鼠的藏宝库
+* Treasure Storehouse / Treasure Warehouse -> 藏宝库
+* Star Jewel Dungeon -> 星辰宝石副本
+* Theatre of the Beginning -> 创始剧场
+* Veronica Castle -> 维罗妮卡城堡
+* Peace Land -> 和平之地
+* Washington East -> 东华盛顿
+* Cannery Factory -> 小黑屋 / 罐头工厂
+* Void-district -> 虚无区 / 虚无洞
+* Edge of the Other World -> 异界边缘
+* Room of Time -> 时间之室
+* Story Horizon -> 故事的境界
+* End-level area -> 终游区域
+* Troy -> 特洛伊
+* Breaking the Sky School -> 破天道场
+* Record Archive -> 记录保管库
+* Orbital Elevator -> 轨道电梯
+* Ascension Platform -> 飞升台
+* Delos -> 提洛岛
+* Water Curtain Cave -> 水帘洞
+* ■■■'s Deep Sea -> ■■■的深海
 
 #### 装备 / 道具 / 星辰遗物
-* Great Return Pill $\rightarrow$ 大还丹
-* Solar energy $\rightarrow$ 太阳之气
-* star relic $\rightarrow$ 星辰遗物
-* Unbroken Faith $\rightarrow$ 不会折断的信念
-* Broken Faith $\rightarrow$ 折断的信念
-* Blade of Faith $\rightarrow$ 信念之刃
-* Excalibur $\rightarrow$ 王者之剑
-* Arondight $\rightarrow$ 无毁的湖光
-* Galatine $\rightarrow$ 轮转胜利之剑
-* Seven-star Sword $\rightarrow$ 七星剑
-* Fiery Sword of the Underworld $\rightarrow$ 冥府烈火之剑
-* Munechika Mikazuki $\rightarrow$ 三日月宗近
-* Divine Weapon (神機箭) $\rightarrow$ 神机箭
-* Shield of Aegis $\rightarrow$ 埃癸斯之盾
-* Griffith $\rightarrow$ 格里菲斯
-* Sylphid's Leaping Boots $\rightarrow$ 西尔菲德的跃空靴
-* Black Flame Half Armor $\rightarrow$ 黑焰半身甲
-* Everchanging Stealth Suit $\rightarrow$ 百变潜行服
-* Yeongmyeon's pocket watch / Pocket Watch of the Immortal Face $\rightarrow$ 永眠之怀表
-* Provocation Fire Flute $\rightarrow$ 挑衅的角笛
-* Poison Bomb $\rightarrow$ 毒气弹
-* High-Level Poison Bomb $\rightarrow$ 高级毒气弹
-* Specter's Stone $\rightarrow$ 亡灵石
-* Elaine Forest Essence $\rightarrow$ 艾莱恩森林的精华
-* Elaine Monkey's Lungs $\rightarrow$ 艾莱恩猴子的肺
-* Thoughts of Almost Everything $\rightarrow$ 近乎一切的思索
-* Shoes of Greed $\rightarrow$ 贪婪之鞋
-* Battle Boots of the Noble One $\rightarrow$ 高贵之人的军靴
-* Ghost / Ghost Blade $\rightarrow$ 幽灵 / 幽灵刃
-* Shin Jincheol / His Majesty Jeongjeo Shin Jincheol $\rightarrow$ 天河定底神珍铁 / 神珍铁
-* Sea Pendulum $\rightarrow$ 定海神针
-* Ray Bringer $\rightarrow$ 雷温林格
-* Light Wish $\rightarrow$ 光之夙愿
-* Light Bringer $\rightarrow$ 光之使者
-* Arachne's Web $\rightarrow$ 阿拉克涅之网
-* Flame of Karma $\rightarrow$ 业火
-* Troiana $\rightarrow$ 特里亚伊纳
-* Ghost Fleet $\rightarrow$ 幽灵舰队
-* Horn of the Horizon $\rightarrow$ 境界之角
-* Vajra $\rightarrow$ 金刚杵
-* Graffiti on the Wall $\rightarrow$ 墙上的涂鸦
-* Subway on the way home from work $\rightarrow$ 下班路上的地铁
-* appraisal scale $\rightarrow$ 鉴定天平
-* Settlement Scale $\rightarrow$ 结算天平
-* Heavenly Iron Cloud Gauntlet $\rightarrow$ 天铁云丝手套
-* Heavenly Silkworm Secret Robe $\rightarrow$ 天蚕宝衣
-* Sacred Oil $\rightarrow$ 圣油
-* Daehwadan $\rightarrow$ 大还丹
-* Sungyu Fruit $\rightarrow$ 圣灵果
-* Wolf Skin of the End $\rightarrow$ 终焉之狼皮
-* Jincheon Sword $\rightarrow$ 震天剑
-* Heukcheon Demon Sword $\rightarrow$ 黑天魔剑
-* Robin Hood's Strong Bow $\rightarrow$ 罗宾汉的强弓
-* Zijin Honghuo / Golden Red Gourd $\rightarrow$ 紫金红葫芦
-* Mount Wuxing / Mount Five Elements / Five Elements Mountains $\rightarrow$ 五行山
+* Great Return Pill -> 大还丹
+* Solar energy -> 太阳之气
+* star relic -> 星辰遗物
+* Unbroken Faith -> 不会折断的信念
+* Broken Faith -> 折断的信念
+* Blade of Faith -> 信念之刃
+* Excalibur -> 王者之剑
+* Arondight -> 无毁的湖光
+* Galatine -> 轮转胜利之剑
+* Seven-star Sword -> 七星剑
+* Fiery Sword of the Underworld -> 冥府烈火之剑
+* Munechika Mikazuki -> 三日月宗近
+* Divine Weapon (神機箭) -> 神机箭
+* Shield of Aegis -> 埃癸斯之盾
+* Griffith -> 格里菲斯
+* Sylphid's Leaping Boots -> 西尔菲德的跃空靴
+* Black Flame Half Armor -> 黑焰半身甲
+* Everchanging Stealth Suit -> 百变潜行服
+* Yeongmyeon's pocket watch / Pocket Watch of the Immortal Face -> 永眠之怀表
+* Provocation Fire Flute -> 挑衅的角笛
+* Poison Bomb -> 毒气弹
+* High-Level Poison Bomb -> 高级毒气弹
+* Specter's Stone -> 亡灵石
+* Elaine Forest Essence -> 艾莱恩森林的精华
+* Elaine Monkey's Lungs -> 艾莱恩猴子的肺
+* Thoughts of Almost Everything -> 近乎一切的思索
+* Shoes of Greed -> 贪婪之鞋
+* Battle Boots of the Noble One -> 高贵之人的军靴
+* Ghost / Ghost Blade -> 幽灵 / 幽灵刃
+* Shin Jincheol / His Majesty Jeongjeo Shin Jincheol -> 天河定底神珍铁 / 神珍铁
+* Sea Pendulum -> 定海神针
+* Ray Bringer -> 雷温林格
+* Light Wish -> 光之夙愿
+* Light Bringer -> 光之使者
+* Arachne's Web -> 阿拉克涅之网
+* Flame of Karma -> 业火
+* Troiana -> 特里亚伊纳
+* Ghost Fleet -> 幽灵舰队
+* Horn of the Horizon -> 境界之角
+* Vajra -> 金刚杵
+* Graffiti on the Wall -> 墙上的涂鸦
+* Subway on the way home from work -> 下班路上的地铁
+* appraisal scale -> 鉴定天平
+* Settlement Scale -> 结算天平
+* Heavenly Iron Cloud Gauntlet -> 天铁云丝手套
+* Heavenly Silkworm Secret Robe -> 天蚕宝衣
+* Sacred Oil -> 圣油
+* Daehwadan -> 大还丹
+* Sungyu Fruit -> 圣灵果
+* Wolf Skin of the End -> 终焉之狼皮
+* Jincheon Sword -> 震天剑
+* Heukcheon Demon Sword -> 黑天魔剑
+* Robin Hood's Strong Bow -> 罗宾汉的强弓
+* Zijin Honghuo / Golden Red Gourd -> 紫金红葫芦
+* Mount Wuxing / Mount Five Elements / Five Elements Mountains -> 五行山
 
 #### 怪物 / 灾难 / 世界观符号
-* Sea Commander $\rightarrow$ 海司令
-* Dark Keeper / Dark Sentinel $\rightarrow$ 暗黑守护者
-* Dark Seeker $\rightarrow$ 暗黑求道者
-* Kim Dokja’s Fragment / Fragments of Kim Dokja $\rightarrow$ 金独子的碎片
-* Oldest Dream $\rightarrow$ 最古老的梦
-* The World After The End $\rightarrow$ 灭亡后的世界
-* Void Curtain / Void Veil $\rightarrow$ 虚无之幕
-* Great poisonous rhinoceros $\rightarrow$ 大毒犀
-* Labyrinth Keeper $\rightarrow$ 迷宫守护者
-* Beast Lord $\rightarrow$ 兽王
-* Variant Imoogi Bracky $\rightarrow$ 变异蟒怪布拉奇
-* Yamata no Orochi $\rightarrow$ 八岐大蛇
-* Groll $\rightarrow$ 格罗尔
-* Earth Python $\rightarrow$ 地蟒
-* Earth River Lord $\rightarrow$ 地河之主
-* Fire Dragon Egg $\rightarrow$ 火龙蛋
-* The Last Ark $\rightarrow$ 最后的方舟
-* Dragon Head Ark $\rightarrow$ 龙首舟
-* The Hound of the Abyss / Hound $\rightarrow$ 深渊猎犬 / 猎犬
-* Gyo-a-byeong $\rightarrow$ 齿牙兵
-* Tree of Imaginary $\rightarrow$ 虚无之树
-* Dream Eater $\rightarrow$ 吞噬梦想者
-* Alien Signal Light $\rightarrow$ 异界红绿灯
-* Tooth Fin $\rightarrow$ 牙齿鳍
-* Type 1 End-of-the-Story Fear $\rightarrow$ 第一类终幕之恐惧
-* The Last Dragon of the Apocalypse $\rightarrow$ 默示录的最后之龙
-* Impossible Agreement / Impossible Chivalry $\rightarrow$ 不可能的侠义
-* Chaos Bush $\rightarrow$ 混沌草丛
-* Amrita $\rightarrow$ 甘露
+* Sea Commander -> 海司令
+* Dark Keeper / Dark Sentinel -> 暗黑守护者
+* Dark Seeker -> 暗黑求道者
+* Kim Dokja’s Fragment / Fragments of Kim Dokja -> 金独子的碎片
+* Oldest Dream -> 最古老的梦
+* The World After The End -> 灭亡后的世界
+* Void Curtain / Void Veil -> 虚无之幕
+* Great poisonous rhinoceros -> 大毒犀
+* Labyrinth Keeper -> 迷宫守护者
+* Beast Lord -> 兽王
+* Variant Imoogi Bracky -> 变异蟒怪布拉奇
+* Yamata no Orochi -> 八岐大蛇
+* Groll -> 格罗尔
+* Earth Python -> 地蟒
+* Earth River Lord -> 地河之主
+* Fire Dragon Egg -> 火龙蛋
+* The Last Ark -> 最后的方舟
+* Dragon Head Ark -> 龙首舟
+* The Hound of the Abyss / Hound -> 深渊猎犬 / 猎犬
+* Gyo-a-byeong -> 齿牙兵
+* Tree of Imaginary -> 虚无之树
+* Dream Eater -> 吞噬梦想者
+* Alien Signal Light -> 异界红绿灯
+* Tooth Fin -> 牙齿鳍
+* Type 1 End-of-the-Story Fear -> 第一类终幕之恐惧
+* The Last Dragon of the Apocalypse -> 默示录的最后之龙
+* Impossible Agreement / Impossible Chivalry -> 不可能的侠义
+* Chaos Bush -> 混沌草丛
+* Amrita -> 甘露
 
 #### 历史线 / 国家政权 / 其他
-* Silla $\rightarrow$ 新罗
-* Later Baekje $\rightarrow$ 后百济
-* Wansanju $\rightarrow$ 完山州
-* Asgard $\rightarrow$ 阿斯加德
-* The Dragon King $\rightarrow$ 龙王
-* Rewrite $\rightarrow$ 重写
-* all-chara $\rightarrow$ 全员推
-* Peach Garden Oath $\rightarrow$ 桃园结义
-* Absolute Throne $\rightarrow$ 绝对王座
-* Pajeon swordsman $\rightarrow$ 破天剑圣
-* Time Fault $\rightarrow$ 时间夹缝
-* Valkyrie’s Protection / Valkyrie's protection $\rightarrow$ 女武神的庇护
-* Valkyrie's remorse $\rightarrow$ 女武神的悔恨
-* Valkyrie's relics $\rightarrow$ 女武神的遗物
-* Reader comment list $\rightarrow$ 读者评论列表
-* Author's Note $\rightarrow$ 作者的话
-* Kim Kyungsik $\rightarrow$ 金景植
-* Lady Cheolgon $\rightarrow$ 铁棍魔女
-* Heartless Mother $\rightarrow$ 冷酷母亲
-* Judge of Destruction $\rightarrow$ 毁灭审判者
-* Demon Slaying Judge $\rightarrow$ 灭魔审判官
-* Edge of Darkness $\rightarrow$ 黑暗边缘
-* Average Correction $\rightarrow$ 均值修正
-* Cinema Trip $\rightarrow$ 电影之旅
-* rlaehrwk37 $\rightarrow$ rlaehrwk37
-* 7942 / 9158 $\rightarrow$ 7942 / 9158
-* Baekcheong-mun $\rightarrow$ 白青门
-* Big Data System $\rightarrow$ 大数据系统
-* Terrarium Project $\rightarrow$ 温室计划
-* Puppet of the Oldest Dream $\rightarrow$ 最古老的梦的傀儡
-* Echoes of Ferociousness $\rightarrow$ 凶残的回响
-* Liberator of the Apocalypse $\rightarrow$ 默示录的解放者
-* Area Tale Curtain $\rightarrow$ 区域故事幕帘
-* Area Offset Spray $\rightarrow$ 区域抵消喷雾
-* Special Pollution Purification Device $\rightarrow$ 特殊污染净化装置
-* Story Core $\rightarrow$ 故事之核
-* Interplanetization $\rightarrow$ 星域化
-* End Grade $\rightarrow$ 终焉级
-* Probability Appropriate Determination $\rightarrow$ 概然性合理性判定
-* Final Wall $\rightarrow$ 最后的墙
-* snowdrops $\rightarrow$ 雪花
-* Slayer Beyond Records $\rightarrow$ 超越记录的屠杀者
-* Architect of the False Ending $\rightarrow$ 虚假结局的架构师
-* Monarch of the Great Sea $\rightarrow$ 沧海霸王
-* Instigator Killer $\rightarrow$ 煽动杀人
-* King Maker $\rightarrow$ 造王者
-* Liberator of the Recycling Center $\rightarrow$ 回收站的解放者
-* Record Contract $\rightarrow$ 记录契约
-* Twelve Zodiac Ball $\rightarrow$ 十二生肖宴会
-* Prisoner of the Golden Headband $\rightarrow$ 紧箍儿的囚徒
-* Big House $\rightarrow$ 大房子
-* Demon God 'Abaddon' $\rightarrow$ 魔神“阿巴顿”
-* Lar Horn / Larhorn $\rightarrow$ 加拉尔号角
-* Hophud / Hophus / Hofund $\rightarrow$ 霍夫德
-* One Who Swims Beyond the End $\rightarrow$ 游越终焉之存在
-* One Who Swims Beyond the Adversity $\rightarrow$ 游越逆境之存在
-* One Born from the Rift of Records $\rightarrow$ 诞生于记录缝隙之存在
-* One Who Observes the Context of the Stars $\rightarrow$ 观测群星脉络之存在
-* Kim Nakmun $\rightarrow$ 金洛文
-* Bifrost $\rightarrow$ 彩虹桥
-* super-giant story $\rightarrow$ 超巨型故事
-* On ■■ $\rightarrow$ 《关于■■》
-* Guardian of the Great Water Bridge $\rightarrow$ 大水桥的守护者
-* Unchanging One / Unchangeable One $\rightarrow$ 不变者
-* Yangjiokjeongbyeong / Yangjiokjeong bottle $\rightarrow$ 羊脂玉净瓶
-* Missing Thicket $\rightarrow$ 遗失灌木丛
-* Unformed Idea $\rightarrow$ 未成形的构想
-* Incite $\rightarrow$ 煽动
-* Ancient Nagak $\rightarrow$ 远古角笛
-* Advanced Multispecies Sympathy $\rightarrow$ 高级多样同感
-* Death Sword $\rightarrow$ 四寅斩邪剑
-* Way of the Wind $\rightarrow$ 风之路径
-* Hypnotic Incite $\rightarrow$ 催眠煽动
-* Weolgeuk $\rightarrow$ 月戟
-* Amcheonwolgeuk $\rightarrow$ 暗天月戟
-* Recycling Center $\rightarrow$ 回收中心
-* Recycling Center Director $\rightarrow$ 回收站主任
-* Lord of Forgotten Envy $\rightarrow$ 忘却嫉妒的君王
-* Owner of the White Castle $\rightarrow$ 白城之主
-* One Who Overcame the Trials One Step Too Late $\rightarrow$ 迟一步克服试炼的人
-* Memory-biting Snake $\rightarrow$ 噬忆之蛇
-* Plague-carrying Rat $\rightarrow$ 传播瘟疫的老鼠
-* Tiger's Strength $\rightarrow$ 虎之怪力
-* Rabbit's Leaping Power $\rightarrow$ 兔之飞跃
-* Snake's Recovery Power $\rightarrow$ 蛇之自愈
-* Rabbit Without A Liver $\rightarrow$ 无胆之兔
-* Monkey That Fell From The Tree $\rightarrow$ 从树上掉落的猴子
-* Understanding of the Overthroned $\rightarrow$ 被篡位者的理解
-* Understanding of the Unemployed $\rightarrow$ 无业游民的理解
-* Graduation Ceremony $\rightarrow$ 毕业典礼
-* Graduation Exam $\rightarrow$ 毕业考试
-* Tooth Fin $\rightarrow$ 齿鳍
-* Subway on the way home $\rightarrow$ 下班地铁
-* End-level tow truck $\rightarrow$ 终焉的引路人
-* End-level area $\rightarrow$ 终游区域
-* Existence Oath $\rightarrow$ 存在之誓
-* Evil Sophist $\rightarrow$ 诡辩者
-* Demon King of the Cinema $\rightarrow$ 电影院的魔王
-* Dream Eater $\rightarrow$ 食梦者
-* The World After The Fall $\rightarrow$ 灭亡后的世界
-* Baekcheong-mun $\rightarrow$ 白青门
-* Predictive Plagiarism $\rightarrow$ 预测性抄袭
-* Special Preservation $\rightarrow$ 特殊保存
-* Life and Death Ring $\rightarrow$ 生死丹
-* Season of Light and Darkness $\rightarrow$ 光与暗的季节
-* Ashvin Twins $\rightarrow$ 阿湿波双神
-* Kamadeva $\rightarrow$ 迦摩天
-* Holy Sword Ascalon $\rightarrow$ 圣剑阿斯卡隆
-* Thunder Sword Gram $\rightarrow$ 雷之剑格拉姆
-* Dragon Sword Ridill $\rightarrow$ 魔龙之剑里迪尔
-* One Who Rewrites Eternity $\rightarrow$ 重写永恒之人
-* Limited Edition Random Relic Box $\rightarrow$ 限定版随机遗物箱
-* Manu $\rightarrow$ 马努
-* Hou Yi $\rightarrow$ 后羿
-* Ten Fingers of God $\rightarrow$ 神之十指
-* Valhalla Hall $\rightarrow$ 瓦尔哈拉神殿
-* Garuda $\rightarrow$ 迦楼罗
-* Vermilion Divine Treasure $\rightarrow$ 朱雀神宝 / 朱斩天神步
-* Perseus $\rightarrow$ 珀耳修斯
-* Gungnir $\rightarrow$ 冈格尼尔
-* Red Spider Lilies of Death $\rightarrow$ 死亡彼岸花
-* Indescribable Distance $\rightarrow$ 无法言喻的格位
-* Nameless Mist $\rightarrow$ 无名之雾
-* Zijin Honghuo / Zijin Hong Hulu $\rightarrow$ 紫金红葫芦
-* Yangjiokjeongbyeong / Yangzhi Yujing Bottle $\rightarrow$ 羊脂玉净瓶
-* Drinking Demon $\rightarrow$ 饮魔
-* White Flame Dragon $\rightarrow$ 白焰龙
-* Sighing White Flame Dragon $\rightarrow$ 叹息之白焰龙
+* Silla -> 新罗
+* Later Baekje -> 后百济
+* Wansanju -> 完山州
+* Asgard -> 阿斯加德
+* The Dragon King -> 龙王
+* Rewrite -> 重写
+* all-chara -> 全员推
+* Peach Garden Oath -> 桃园结义
+* Absolute Throne -> 绝对王座
+* Pajeon swordsman -> 破天剑圣
+* Time Fault -> 时间夹缝
+* Valkyrie’s Protection / Valkyrie's protection -> 女武神的庇护
+* Valkyrie's remorse -> 女武神的悔恨
+* Valkyrie's relics -> 女武神的遗物
+* Reader comment list -> 读者评论列表
+* Author's Note -> 作者的话
+* Kim Kyungsik -> 金景植
+* Lady Cheolgon -> 铁棍魔女
+* Heartless Mother -> 冷酷母亲
+* Judge of Destruction -> 毁灭审判者
+* Demon Slaying Judge -> 灭魔审判官
+* Edge of Darkness -> 黑暗边缘
+* Average Correction -> 均值修正
+* Cinema Trip -> 电影之旅
+* rlaehrwk37 -> rlaehrwk37
+* 7942 / 9158 -> 7942 / 9158
+* Baekcheong-mun -> 白青门
+* Big Data System -> 大数据系统
+* Terrarium Project -> 温室计划
+* Puppet of the Oldest Dream -> 最古老的梦的傀儡
+* Echoes of Ferociousness -> 凶残的回响
+* Liberator of the Apocalypse -> 默示录的解放者
+* Area Tale Curtain -> 区域故事幕帘
+* Area Offset Spray -> 区域抵消喷雾
+* Special Pollution Purification Device -> 特殊污染净化装置
+* Story Core -> 故事之核
+* Interplanetization -> 星域化
+* End Grade -> 终焉级
+* Probability Appropriate Determination -> 概然性合理性判定
+* Final Wall -> 最后的墙
+* snowdrops -> 雪花
+* Slayer Beyond Records -> 超越记录的屠杀者
+* Architect of the False Ending -> 虚假结局的架构师
+* Monarch of the Great Sea -> 沧海霸王
+* Instigator Killer -> 煽动杀人
+* King Maker -> 造王者
+* Liberator of the Recycling Center -> 回收站的解放者
+* Record Contract -> 记录契约
+* Twelve Zodiac Ball -> 十二生肖宴会
+* Prisoner of the Golden Headband -> 紧箍儿的囚徒
+* Big House -> 大房子
+* Demon God 'Abaddon' -> 魔神“阿巴顿”
+* Lar Horn / Larhorn -> 加拉尔号角
+* Hophud / Hophus / Hofund -> 霍夫德
+* One Who Swims Beyond the End -> 游越终焉之存在
+* One Who Swims Beyond the Adversity -> 游越逆境之存在
+* One Born from the Rift of Records -> 诞生于记录缝隙之存在
+* One Who Observes the Context of the Stars -> 观测群星脉络之存在
+* Kim Nakmun -> 金洛文
+* Bifrost -> 彩虹桥
+* super-giant story -> 超巨型故事
+* On ■■ -> 《关于■■》
+* Guardian of the Great Water Bridge -> 大水桥的守护者
+* Unchanging One / Unchangeable One -> 不变者
+* Yangjiokjeongbyeong / Yangjiokjeong bottle -> 羊脂玉净瓶
+* Missing Thicket -> 遗失灌木丛
+* Unformed Idea -> 未成形的构想
+* Incite -> 煽动
+* Ancient Nagak -> 远古角笛
+* Advanced Multispecies Sympathy -> 高级多样同感
+* Death Sword -> 四寅斩邪剑
+* Way of the Wind -> 风之路径
+* Hypnotic Incite -> 催眠煽动
+* Weolgeuk -> 月戟
+* Amcheonwolgeuk -> 暗天月戟
+* Recycling Center -> 回收中心
+* Recycling Center Director -> 回收站主任
+* Lord of Forgotten Envy -> 忘却嫉妒的君王
+* Owner of the White Castle -> 白城之主
+* One Who Overcame the Trials One Step Too Late -> 迟一步克服试炼的人
+* Memory-biting Snake -> 噬忆之蛇
+* Plague-carrying Rat -> 传播瘟疫的老鼠
+* Tiger's Strength -> 虎之怪力
+* Rabbit's Leaping Power -> 兔之飞跃
+* Snake's Recovery Power -> 蛇之自愈
+* Rabbit Without A Liver -> 无胆之兔
+* Monkey That Fell From The Tree -> 从树上掉落的猴子
+* Understanding of the Overthroned -> 被篡位者的理解
+* Understanding of the Unemployed -> 无业游民的理解
+* Graduation Ceremony -> 毕业典礼
+* Graduation Exam -> 毕业考试
+* Tooth Fin -> 齿鳍
+* Subway on the way home -> 下班地铁
+* End-level tow truck -> 终焉的引路人
+* End-level area -> 终游区域
+* Existence Oath -> 存在之誓
+* Evil Sophist -> 诡辩者
+* Demon King of the Cinema -> 电影院的魔王
+* Dream Eater -> 食梦者
+* The World After The Fall -> 灭亡后的世界
+* Baekcheong-mun -> 白青门
+* Predictive Plagiarism -> 预测性抄袭
+* Special Preservation -> 特殊保存
+* Life and Death Ring -> 生死丹
+* Season of Light and Darkness -> 光与暗的季节
+* Ashvin Twins -> 阿湿波双神
+* Kamadeva -> 迦摩天
+* Holy Sword Ascalon -> 圣剑阿斯卡隆
+* Thunder Sword Gram -> 雷之剑格拉姆
+* Dragon Sword Ridill -> 魔龙之剑里迪尔
+* One Who Rewrites Eternity -> 重写永恒之人
+* Limited Edition Random Relic Box -> 限定版随机遗物箱
+* Manu -> 马努
+* Hou Yi -> 后羿
+* Ten Fingers of God -> 神之十指
+* Valhalla Hall -> 瓦尔哈拉神殿
+* Garuda -> 迦楼罗
+* Vermilion Divine Treasure -> 朱雀神宝 / 朱斩天神步
+* Perseus -> 珀耳修斯
+* Gungnir -> 冈格尼尔
+* Red Spider Lilies of Death -> 死亡彼岸花
+* Indescribable Distance -> 无法言喻的格位
+* Nameless Mist -> 无名之雾
+* Zijin Honghuo / Zijin Hong Hulu -> 紫金红葫芦
+* Yangjiokjeongbyeong / Yangzhi Yujing Bottle -> 羊脂玉净瓶
+* Drinking Demon -> 饮魔
+* White Flame Dragon -> 白焰龙
+* Sighing White Flame Dragon -> 叹息之白焰龙
 </Glossary>
 
 ---
