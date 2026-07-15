@@ -75,7 +75,7 @@
 * Scenario -> 任务
 * Sponsor -> 赞助者
 * Star Stream -> 星星直播
-* Stigma -> 圣痕
+* Stigma -> 星痕
 * Ways of Survival / Three Ways to Survive in a Ruined World -> 在灭亡的世界中存活的三种方法（简称“灭活法”）
 
 #### 星星直播系统、新势力与专属概念
@@ -278,7 +278,7 @@
 * Watcher of Light and Darkness -> 光与暗的守护者
 * Witness to the Truth of the Stars -> 见证群星真相之人
 
-#### 技能 / 属性 / 圣痕
+#### 技能 / 属性 / 星痕
 * Abyssal Understanding -> 深渊级理解
 * Acting Human -> 假装人类
 * Advanced Multi-species Interaction -> 高阶多物种感应
