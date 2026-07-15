@@ -358,7 +358,8 @@
 * Forest of Stars and Humans -> 星辰与人类之林
 * Hour of Judgement -> 审判时间
 * Invincible Castle Tech Tree -> 无敌堡垒加点路线
-* midday secret meeting -> 正午的密谈
+* midday secret meeting -> 白日幽会
+* Midday Tryst -> 白日幽会
 * Oath of Existence -> 存在之誓
 * Orient Express Wagon / Orient Express Carriage -> 东方快车马车
 * Perfect Night -> 完美的夜晚
@@ -454,7 +455,6 @@
 * Wolf Skin of the End -> 终焉之狼皮
 * Yeongmyeon's pocket watch / Pocket Watch of the Immortal Face -> 永眠之怀表
 * Zijin Honghuo / Golden Red Gourd -> 紫金红葫芦
-
 #### 怪物 / 灾难 / 世界观符号
 * Alien Signal Light -> 异界红绿灯
 * Amrita -> 甘露
