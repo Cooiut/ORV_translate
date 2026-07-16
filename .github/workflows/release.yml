@@ -32,6 +32,7 @@ jobs:
           python -m venv venv
           ./venv/bin/pip install --upgrade pip
           ./venv/bin/pip install fonttools zopfli epubcheck
+          echo "$GITHUB_WORKSPACE/venv/bin" >> $GITHUB_PATH
 
       - name: Make build script executable
         run: chmod +x .github/scripts/build_epub_ci.sh
@@ -91,12 +92,13 @@ jobs:
           body: |
             # 全知读者视角 外传 (Omniscient Reader's Viewpoint [Sequel])
             
-            本版本为民间翻译/整理版本，仅供同好交流学习与个人阅读，严禁用于商业用途。
+            本版本为民间翻译版本，仅供同好交流学习与个人阅读，严禁用于商业用途。
             
             ## 本版更新信息
             
             - **章节进度**：第 ${{ env.START_CH }} 章至第 ${{ env.END_CH }} 章 (共计 ${{ env.COUNT }} 个章节)
             - **校对状态**：${{ env.STATUS }}
             - **更新日期**：${{ env.DATE }}
+            - **下载链接**：[点击下载](https://github.com/${{ github.repository }}/releases/download/${{ github.ref_name }}/orv_sequel_chn.epub)
           draft: false
           prerelease: false
