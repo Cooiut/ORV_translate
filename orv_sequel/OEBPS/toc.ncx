@@ -27,49 +27,49 @@
     </navPoint>
     <navPoint id="ncx_3" playOrder="4">
       <navLabel>
-        <text>556 第2话 重写（1）</text>
+        <text>556 第2话 再起笔（1）</text>
       </navLabel>
       <content src="ch_556.xhtml"/>
     </navPoint>
     <navPoint id="ncx_4" playOrder="5">
       <navLabel>
-        <text>557 第2话 重写（2）</text>
+        <text>557 第2话 再起笔（2）</text>
       </navLabel>
       <content src="ch_557.xhtml"/>
     </navPoint>
     <navPoint id="ncx_5" playOrder="6">
       <navLabel>
-        <text>558 第2话 重写（3）</text>
+        <text>558 第2话 再起笔（3）</text>
       </navLabel>
       <content src="ch_558.xhtml"/>
     </navPoint>
     <navPoint id="ncx_6" playOrder="7">
       <navLabel>
-        <text>559 第2话 重写（4）</text>
+        <text>559 第2话 再起笔（4）</text>
       </navLabel>
       <content src="ch_559.xhtml"/>
     </navPoint>
     <navPoint id="ncx_7" playOrder="8">
       <navLabel>
-        <text>560 第2话 重写（5）</text>
+        <text>560 第2话 再起笔（5）</text>
       </navLabel>
       <content src="ch_560.xhtml"/>
     </navPoint>
     <navPoint id="ncx_8" playOrder="9">
       <navLabel>
-        <text>561 第2话 重写（6）</text>
+        <text>561 第2话 再起笔（6）</text>
       </navLabel>
       <content src="ch_561.xhtml"/>
     </navPoint>
     <navPoint id="ncx_9" playOrder="10">
       <navLabel>
-        <text>562 第2话 重写（7）</text>
+        <text>562 第2话 再起笔（7）</text>
       </navLabel>
       <content src="ch_562.xhtml"/>
     </navPoint>
     <navPoint id="ncx_10" playOrder="11">
       <navLabel>
-        <text>563 第2话 重写（8）</text>
+        <text>563 第2话 再起笔（8）</text>
       </navLabel>
       <content src="ch_563.xhtml"/>
     </navPoint>
