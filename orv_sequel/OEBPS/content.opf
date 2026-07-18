@@ -526,6 +526,13 @@
     <item id="ch_484" href="ch_1036.xhtml" media-type="application/xhtml+xml"/>
     <item id="ch_485" href="ch_1037.xhtml" media-type="application/xhtml+xml"/>
     <item id="ch_486" href="ch_1038.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_1039" href="ch_1039.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_1040" href="ch_1040.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_1041" href="ch_1041.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_1042" href="ch_1042.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_1043" href="ch_1043.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_1044" href="ch_1044.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_1045" href="ch_1045.xhtml" media-type="application/xhtml+xml"/>
 </manifest><spine toc="ncx">
 <itemref idref="intro"/><itemref idref="toc"/>
 <itemref idref="ch_1"/>
@@ -1015,6 +1022,13 @@
     <itemref idref="ch_484"/>
     <itemref idref="ch_485"/>
     <itemref idref="ch_486"/>
+    <itemref idref="ch_1039"/>
+    <itemref idref="ch_1040"/>
+    <itemref idref="ch_1041"/>
+    <itemref idref="ch_1042"/>
+    <itemref idref="ch_1043"/>
+    <itemref idref="ch_1044"/>
+    <itemref idref="ch_1045"/>
 </spine>
   
 </package>
