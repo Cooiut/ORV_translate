@@ -1,7 +1,6 @@
 import os
 import re
 import zipfile
-import shutil
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
 root_dir = os.path.dirname(script_dir)
@@ -25,7 +24,7 @@ def process_for_translation(content, title_str):
     # Standardize the head section to match existing files exactly
     standard_head = f'<head>\n    <link rel="stylesheet" href="style.css" type="text/css" /><title>{title_str}</title></head>'
     content = re.sub(r'<head[^>]*>.*?</head>', standard_head, content, flags=re.DOTALL)
-    
+
     # Remove the comment link:
     content = re.sub(r'<hr/>\s*<p[^>]*><a[^>]*>\[CLICK TO READ CHAPTER COMMENTS\]</a></p>', '', content, flags=re.IGNORECASE)
     
@@ -39,10 +38,9 @@ def main():
         print(f"EPUB file not found: {epub_path}")
         return
 
-    # 1. Get highest existing local chapter
+    # 1. Get highest existing local chapter (by reading h2 headers)
     local_oebps = os.path.join(orv_sequel_dir, 'OEBPS')
     highest_local_actual = 0
-    highest_local_ch_num = 0
     
     local_ch_files = [f for f in os.listdir(local_oebps) if f.startswith('ch_') and f.endswith('.xhtml')]
     for f in local_ch_files:
@@ -50,20 +48,10 @@ def main():
         with open(filepath, 'r', encoding='utf-8') as file:
             content = file.read()
             actual, _ = get_chapter_info(content)
-            if actual is not None:
-                if actual > highest_local_actual:
-                    highest_local_actual = actual
-        
-        # Extract X from ch_X.xhtml
-        try:
-            ch_num = int(f.replace('ch_', '').replace('.xhtml', ''))
-            if ch_num > highest_local_ch_num:
-                highest_local_ch_num = ch_num
-        except ValueError:
-            pass
+            if actual is not None and actual > highest_local_actual:
+                highest_local_actual = actual
 
     print(f"Highest local actual chapter: {highest_local_actual}")
-    print(f"Highest local filename index: ch_{highest_local_ch_num}.xhtml")
     
     # 2. Open EPUB and find new chapters & images
     with zipfile.ZipFile(epub_path, 'r') as zf:
@@ -173,6 +161,40 @@ def main():
                     with open(ncx_path, 'w', encoding='utf-8') as f:
                         f.write(ncx_content)
                     print(f"Updated {ncx_path}")
+                
+                # Update toc.html
+                toc_html_path = os.path.join(target_dir, 'OEBPS', 'toc.html')
+                if os.path.exists(toc_html_path):
+                    with open(toc_html_path, 'r', encoding='utf-8') as f:
+                        toc_html_content = f.read()
+                    
+                    toc_entries = []
+                    if target_dir == orv_sequel_dir:
+                        # Chinese version: <li><a href="ch_{actual}.xhtml">{title}</a></li>
+                        for chap in added_chapters:
+                            toc_entries.append(f'      <li><a href="{chap["filename"]}">{chap["title"]}</a></li>')
+                        toc_html_content = re.sub(
+                            r'(\s*)</ol>',
+                            '\n' + '\n'.join(toc_entries) + r'\1</ol>',
+                            toc_html_content
+                        )
+                    else:
+                        # English version: <p>{seq}. <a href="ch_{actual}.xhtml">{title}</a></p>
+                        # Find the highest existing sequence number
+                        seq_matches = re.findall(r'<p>(\d+)\. <a href=', toc_html_content)
+                        max_seq = max([int(x) for x in seq_matches]) if seq_matches else 0
+                        for i, chap in enumerate(added_chapters):
+                            seq = max_seq + 1 + i
+                            toc_entries.append(f'<p>{seq}. <a href="{chap["filename"]}">{chap["title"]}</a></p>')
+                        toc_html_content = re.sub(
+                            r'(\s*)</div>\s*</body>',
+                            '\n' + '\n'.join(toc_entries) + r'\1</div></body>',
+                            toc_html_content
+                        )
+                    
+                    with open(toc_html_path, 'w', encoding='utf-8') as f:
+                        f.write(toc_html_content)
+                    print(f"Updated {toc_html_path}")
 
 if __name__ == '__main__':
     main()
