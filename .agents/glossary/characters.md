@@ -66,7 +66,7 @@
 * Ja Sungwoo -> 贾成宇
 * Ja Yerin -> 贾艺琳
 * Jaehwan -> 宰焕
-* Judge of Destruction -> 毁灭审判者
+* Judge of Destruction -> 灭亡审判者
 * Jung Eunho -> 郑恩浩
 * Jung Moonho -> 郑文浩
 * Kamadeva -> 迦摩天
