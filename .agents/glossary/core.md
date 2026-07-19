@@ -42,7 +42,7 @@
 * Outer God -> 外神
 * Probability -> 概然性
 * Scenario -> 任务
-* Sponsor -> 赞助者
+* Sponsor -> 背后星
 * Star Stream -> 星星直播
 * Stigma -> 星痕
 * Ways of Survival / Three Ways to Survive in a Ruined World -> 在灭亡的世界中存活的三种方法（简称"灭活法"）
