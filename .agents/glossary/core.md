@@ -37,7 +37,7 @@
 * Giant Story -> 巨型故事
 * Incarnation -> 化身
 * Kim Dokja's Company -> 金独子集团
-* Modifier -> 修饰语
+* Modifier -> 名号
 * Nebula -> 星云
 * Outer God -> 外神
 * Probability -> 概然性

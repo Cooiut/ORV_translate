@@ -1,5 +1,5 @@
-# 星座修饰语 / 故事印记词汇表
-> 包含从「历史线/其他」归位的错放修饰语与称号条目。
+# 星座名号 / 故事印记词汇表
+> 包含从「历史线/其他」归位的错放名号与称号条目。
 
 * A Persistent Martial Arts Expert / Tenacious Martial Arts Master / persistent martial arts master -> 不屈的武道大师
 * Architect of the False Ending -> 虚假结局的架构师
@@ -39,7 +39,7 @@
 * Monarch of the Great Sea -> 沧海霸王
 * Monarch of the Small Fries -> 弱小民草的君主
 * Monkey That Fell From The Tree -> 从树上掉落的猴子
-* Nail-Eating Rat -> 吃指甲的老鼠
+* Nail-Eating Rat -> 啃指甲的老鼠
 * Observer of the Indelible Traces -> 不灭足迹的观测者
 * Oldest Liberator -> 最古老的解放者
 * One-eyed Father -> 独眼之父
@@ -63,7 +63,7 @@
 * Slayer Beyond Records -> 超越记录的屠杀者
 * Spear that Draws the Boundary of the Seas -> 画界为海之枪
 * Special Push-up Training -> 俯卧撑特别训练
-* The Dog That Threw Itself into the Flames -> 自投烈火的义犬
+* The Dog That Threw Itself into the Flames -> 投身火海的义犬
 * The Farmer Plowing -> 耕作的农夫
 * The One who Hunted the King of Disasters -> 斩杀灾难之王的人
 * The One Who Won the Rat -> 让老鼠获胜的人
