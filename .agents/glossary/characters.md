@@ -92,7 +92,7 @@
 * Naked Saint -> 赤裸圣者
 * Namgung Myung -> 南宫明
 * Nephthys -> 奈芙蒂斯
-* Nirvana Moebius -> 涅槃·莫比乌斯
+* Nirvana Moebius -> 涅巴纳·莫比乌斯
 * Noh Gyeonghwan -> 卢庆焕
 * Noh Jiyoon -> 卢智允
 * Noksoo -> 绿水

@@ -37,7 +37,7 @@
 * Memories of the Big House -> 大房子的记忆
 * Memory of a Failed Omurice -> 失败的蛋包饭记忆
 * Monarch of the Great Sea -> 沧海霸王
-* Monarch of the Small Fries -> 弱小民草的君主
+* Monarch of the Small Fries -> 鼠辈的君主
 * Monkey That Fell From The Tree -> 从树上掉落的猴子
 * Nail-Eating Rat -> 啃指甲的老鼠
 * Observer of the Indelible Traces -> 不灭足迹的观测者
