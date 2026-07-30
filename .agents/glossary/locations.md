@@ -15,7 +15,7 @@
 * Final Wall -> 最后的墙
 * Geumho Station -> 金湖站
 * Great Hall -> 大礼堂
-* Ground Rat's Treasure Trove -> 地鼠的藏宝库
+* Ground Rat's Treasure Trove -> 蝼蛄的藏宝库
 * Orbital Elevator -> 轨道电梯
 * Peace Land -> 和平之地
 * Philosophy Hall -> 哲学馆
