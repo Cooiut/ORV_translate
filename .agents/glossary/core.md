@@ -63,3 +63,15 @@
 * Successor -> 继承者
 * The 41st Round -> 第41轮线 *(外传核心历史线背景)*
 * View Count -> 点击率 / 阅读量
+
+## 后期战场高频词（外传终章常驻词汇）
+> 连续出现超过3章的词条晋升至此节，跳过分类匹配直接加载。
+
+* Constellation Camp -> 星座阵营
+* Disaster Camp -> 灾难阵营
+* Devourer of Dreams -> 吞噬梦想者 *(即 Dream Eater 的别名)*
+* Eden -> 伊甸 *(星云/组织名)*
+* Final Chief Engineer -> 最终列车长 *(后结局世界苏利亚的身份)*
+* 'Hole' / the Hole -> 深坑 *(外传核心地形设定)*
+* Mass Production Maker -> 量产型制作者
+* Snow White / Snowfield Kim Dokja -> 白雪 / 雪原金独子 *(「被抹除的虚无之主」外号)*

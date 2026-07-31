@@ -8,7 +8,7 @@
 * Dark Keeper / Dark Sentinel -> 暗黑守护者
 * Dark Seeker -> 暗黑求道者
 * Dragon Head Ark -> 龙首舟
-* Dream Eater -> 吞噬梦想者
+* Dream Eater / Devourer of Dreams -> 吞噬梦想者
 * Earth Python -> 地蟒
 * Earth River Lord -> 地河之主
 * Fire Dragon Egg -> 火龙蛋

@@ -63,7 +63,7 @@
 * Indra -> 因陀罗
 * Inhopa -> 仁浩帮
 * Izumi -> 泉
-* Ja Sungwoo -> 贾成宇
+* Cha Sungwoo / Ja Sungwoo -> 贾成宇
 * Ja Yerin -> 贾艺琳
 * Jaehwan -> 宰焕
 * Judge of Destruction -> 灭亡审判者

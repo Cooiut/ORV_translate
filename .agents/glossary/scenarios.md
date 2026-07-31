@@ -31,3 +31,4 @@
 * The Three Little Pigs -> 三只小猪
 * Walls of Troy -> 特洛伊城墙
 * Zodiac Ball -> 十二生肖宴会
+* King's Road -> 国王之路 *(早期任务名，终章中作为对比参照出现)*
