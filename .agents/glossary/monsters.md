@@ -12,7 +12,7 @@
 * Earth Python -> 地蟒
 * Earth River Lord -> 地河之主
 * Fire Dragon Egg -> 火龙蛋
-* Great poisonous rhinoceros -> 大毒犀
+* Great poisonous rhinoceros -> 尸毒犀牛
 * Groll -> 格罗尔
 * Gyo-a-byeong -> 齿牙兵
 * Impossible Agreement / Impossible Chivalry -> 不可能的侠义

@@ -11,7 +11,7 @@
 * Edge of Darkness -> 黑暗边缘
 * Edge of the Other World -> 异界边缘
 * End-level area -> 终游区域
-* Even Bridge -> 双数桥
+* Even Bridge -> 偶数桥
 * Final Wall -> 最后的墙
 * Geumho Station -> 金湖站
 * Great Hall -> 大礼堂
