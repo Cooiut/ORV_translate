@@ -87,7 +87,9 @@ jobs:
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
         with:
-          files: books/orv_sequel_chn.epub
+          files: |
+            books/orv_sequel_chn.epub
+            books/orv_sequel_chn_${{ github.ref_name }}.epub
           name: ${{ env.RELEASE_TITLE }}
           body: |
             # 全知读者视角 外传 (Omniscient Reader's Viewpoint [Sequel])
@@ -99,6 +101,6 @@ jobs:
             - **章节进度**：第 ${{ env.START_CH }} 章至第 ${{ env.END_CH }} 章 (共计 ${{ env.COUNT }} 个章节)
             - **校对状态**：${{ env.STATUS }}
             - **更新日期**：${{ env.DATE }}
-            - **下载链接**：[点击下载](https://github.com/${{ github.repository }}/releases/download/${{ github.ref_name }}/orv_sequel_chn.epub)
+            - **下载链接**：[点击下载 (覆盖更新版)](https://github.com/${{ github.repository }}/releases/download/${{ github.ref_name }}/orv_sequel_chn.epub) | [点击下载 (具名存档版)](https://github.com/${{ github.repository }}/releases/download/${{ github.ref_name }}/orv_sequel_chn_${{ github.ref_name }}.epub)
           draft: false
           prerelease: false

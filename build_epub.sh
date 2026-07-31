@@ -13,6 +13,13 @@ NC='\033[0m' # 重置颜色
 export PATH="$PWD/venv/bin:$PATH"
 export PATH="$PATH:/var/opt/orv_translate/jre17/bin"
 
+GIT_TAG=$(git describe --tags --exact-match 2>/dev/null)
+if [ -n "$GIT_TAG" ]; then
+    echo -e "${GREEN}Building for Git Tag: ${GIT_TAG}${NC}"
+else
+    echo -e "${YELLOW}WARNING: No exact Git tag found. Packaging step will fail unless a clean Git tag or EPUB_TAG env var is set.${NC}"
+fi
+
 # 统一步骤调用函数
 invoke_step() {
     local step_number=$1
