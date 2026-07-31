@@ -2,6 +2,9 @@
 > 包含从「历史线/其他」归位的错放任务条目。
 
 * Ascension Ceremony -> 飞升大典
+* Sub Scenario -> 支线任务
+* Main Scenario -> 主线任务
+* Hidden Scenario -> 隐藏任务
 * Battle Action Mode / combat action mode -> 战斗指令模式
 * Beast Hunting -> 巨兽猎杀
 * Category: Hidden -> 分类：隐藏任务
