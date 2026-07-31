@@ -17,7 +17,7 @@ GIT_TAG=$(git describe --tags --exact-match 2>/dev/null)
 if [ -n "$GIT_TAG" ]; then
     echo -e "${GREEN}Building for Git Tag: ${GIT_TAG}${NC}"
 else
-    echo -e "${YELLOW}WARNING: No exact Git tag found. Packaging step will fail unless a clean Git tag or EPUB_TAG env var is set.${NC}"
+    echo -e "${YELLOW}WARNING: No exact Git tag found. Packaging will use default title.${NC}"
 fi
 
 # 统一步骤调用函数

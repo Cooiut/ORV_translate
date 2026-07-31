@@ -61,18 +61,16 @@ def parse_tag_status(tag):
     return status_raw
 
 
-# Enforce Git Tag requirement
+# Retrieve Git Tag (optional for local builds, warning on missing/invalid)
 tag = get_git_tag()
-if not tag:
-    print("ERROR: Cannot get a valid Git tag!")
-    print("Packaging requires a clean git tag (e.g. 'v553-1029-proof7-20260714') or environment variable GITHUB_REF_NAME / EPUB_TAG.")
-    sys.exit(1)
+status_text = parse_tag_status(tag) if tag else None
 
-status_text = parse_tag_status(tag)
-if not status_text:
-    print(f"ERROR: Invalid tag format '{tag}'.")
-    print("Tag must match format 'v[start]-[end]-[status]-[date]' (e.g. 'v553-1029-proof7-20260714').")
-    sys.exit(1)
+if not tag:
+    print("WARNING: No exact Git tag found. Packaging using default title.")
+elif not status_text:
+    print(f"WARNING: Tag '{tag}' format invalid. Packaging using default title.")
+else:
+    print(f"Detected Git Tag: {tag}")
 
 # File extensions that are already compressed — store without re-compression
 STORED_EXTENSIONS = {'.ttf', '.otf', '.woff2', '.woff', '.jpg', '.jpeg', '.png', '.gif', '.webp', '.mp3', '.mp4'}
@@ -148,13 +146,14 @@ try:
                             content
                         )
 
-                        # Update dc:title with Chinese status: "全知读者视角 [外传]（{status_text}）"
-                        new_title = f'\u5168\u77e5\u8bfb\u8005\u89c6\u89d2 [\u5916\u4f20]\uff08{status_text}\uff09'
-                        content = re.sub(
-                            r'<dc:title\s+id="title">.*?</dc:title>',
-                            f'<dc:title id="title">{new_title}</dc:title>',
-                            content
-                        )
+                        # Update dc:title with Chinese status if available
+                        if status_text:
+                            new_title = f'\u5168\u77e5\u8bfb\u8005\u89c6\u89d2 [\u5916\u4f20]\uff08{status_text}\uff09'
+                            content = re.sub(
+                                r'<dc:title\s+id="title">.*?</dc:title>',
+                                f'<dc:title id="title">{new_title}</dc:title>',
+                                content
+                            )
 
                         zf.writestr(arcname, content.encode('utf-8'), compress_type=zipfile.ZIP_DEFLATED)
                         compressed_count += 1

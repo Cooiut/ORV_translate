@@ -6,11 +6,17 @@ Write-Host "Setting console encoding to UTF-8..." -ForegroundColor Cyan
 # Ensure Java is available for EPUBCheck (Step 5)
 $env:PATH += ";C:\Program Files\Java\jre1.8.0_491\bin"
 
-$gitTag = git describe --tags --exact-match 2>$null
+$gitTag = $null
+try {
+    $gitTag = git describe --tags --exact-match 2>$null
+} catch {
+    $gitTag = $null
+}
+
 if ($gitTag) {
     Write-Host "Building for Git Tag: $gitTag" -ForegroundColor Green
 } else {
-    Write-Host "WARNING: No exact Git tag found. Packaging step will fail unless a clean Git tag or EPUB_TAG env var is set." -ForegroundColor Yellow
+    Write-Host "WARNING: No exact Git tag found. Packaging will use default title." -ForegroundColor Yellow
 }
 
 function Invoke-Step {
