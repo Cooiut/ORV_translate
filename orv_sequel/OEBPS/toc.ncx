@@ -2965,4 +2965,10 @@
       </navLabel>
       <content src="ch_1045.xhtml"/>
     </navPoint>
+    <navPoint id="ncx_493" playOrder="494">
+      <navLabel>
+        <text>1046 Episode 64. Eternal Night (5)</text>
+      </navLabel>
+      <content src="ch_1046.xhtml"/>
+    </navPoint>
   </navMap></ncx>

@@ -533,6 +533,7 @@
     <item id="ch_1043" href="ch_1043.xhtml" media-type="application/xhtml+xml"/>
     <item id="ch_1044" href="ch_1044.xhtml" media-type="application/xhtml+xml"/>
     <item id="ch_1045" href="ch_1045.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch_1046" href="ch_1046.xhtml" media-type="application/xhtml+xml"/>
 </manifest><spine toc="ncx">
 <itemref idref="intro"/><itemref idref="toc"/>
 <itemref idref="ch_1"/>
@@ -1029,6 +1030,7 @@
     <itemref idref="ch_1043"/>
     <itemref idref="ch_1044"/>
     <itemref idref="ch_1045"/>
+    <itemref idref="ch_1046"/>
 </spine>
   
 </package>
