@@ -5,7 +5,7 @@
 * Anubis -> 阿努比斯
 * Apollo -> 阿波罗
 * Arc of the Dragon Head Cheongae / Dragon Head Ark -> 龙头帮主天盖 / 丐帮龙头
-* Archangel Jophiel -> 大天使尤菲尔
+* Archangel Jophiel -> 大天使约菲尔
 * Archangel Uriel -> 大天使乌列尔
 * Ares -> 阿瑞斯
 * Argo Expeditionary Force -> 阿尔戈远征队
