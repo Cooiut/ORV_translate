@@ -16,7 +16,7 @@
 * Dragon Sword Ridill -> 魔龙之剑里迪尔
 * Drinking Demon -> 饮魔
 * Elaine Forest Essence -> 艾拉树林的精气
-* Elaine Monkey's Lungs -> 艾莱恩猴子的肺
+* Elaine Monkey's Lungs -> 艾拉猴的肺脏
 * Everchanging Stealth Suit -> 百变潜行服
 * Excalibur -> 王者之剑
 * Fiery Sword of the Underworld -> 冥府烈火之剑
