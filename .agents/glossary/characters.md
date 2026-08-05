@@ -33,7 +33,7 @@
 * Demeter -> 德墨忒尔
 * Demon God 'Abaddon' -> 魔神"阿巴顿"
 * Demon King of the Cinema -> 电影院的魔王
-* Demon Slaying Judge -> 灭魔审判官
+* Demon Slaying Judge -> 灭魔的审判者
 * Dionysus -> 戴欧尼修斯
 * Dokkaebi Yeonggi -> 鬼怪英基
 * Eight Locapalas / Lokapalas / Lokapala -> 八大守护神
