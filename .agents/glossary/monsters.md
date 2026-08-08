@@ -5,7 +5,7 @@
 * Amrita -> 甘露
 * Beast Lord -> 兽王
 * Chaos Bush -> 混沌草丛
-* Dark Keeper / Dark Sentinel -> 暗黑守护者
+* Dark Keeper / Dark Sentinel -> 黑暗守护者
 * Dark Seeker -> 暗黑求道者
 * Dragon Head Ark -> 龙首舟
 * Dream Eater / Devourer of Dreams -> 吞噬梦想者
