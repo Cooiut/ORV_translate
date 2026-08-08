@@ -8,7 +8,7 @@
 * Breaking the Sky School -> 破天道场
 * Cannery Factory -> 小黑屋 / 罐头工厂
 * Delos -> 提洛岛
-* Edge of Darkness -> 黑暗边缘
+* Edge of Darkness -> 黑幕 
 * Edge of the Other World -> 异界边缘
 * End-level area -> 终游区域
 * Even Bridge -> 偶数桥
