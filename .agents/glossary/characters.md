@@ -11,7 +11,7 @@
 * Argo Expeditionary Force -> 阿尔戈远征队
 * Artemis -> 阿耳忒弥斯
 * Ashvin Twins -> 阿湿波双神
-* Asmodeus -> 阿斯蒙蒂斯
+* Asmodeus -> 阿斯莫德
 * Assassin King -> 暗杀王
 * Athena -> 雅典娜
 * Awakened -> 觉醒者
