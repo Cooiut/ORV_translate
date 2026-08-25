@@ -195,25 +195,25 @@
     </navPoint>
     <navPoint id="ncx_31" playOrder="32">
       <navLabel>
-        <text>584 第6话 星辰遗物（1）</text>
+        <text>584 第6话 星遗物（1）</text>
       </navLabel>
       <content src="ch_584.xhtml"/>
     </navPoint>
     <navPoint id="ncx_32" playOrder="33">
       <navLabel>
-        <text>585 第6话 星辰遗物（2）</text>
+        <text>585 第6话 星遗物（2）</text>
       </navLabel>
       <content src="ch_585.xhtml"/>
     </navPoint>
     <navPoint id="ncx_33" playOrder="34">
       <navLabel>
-        <text>586 第6话 星辰遗物（3）</text>
+        <text>586 第6话 星遗物（3）</text>
       </navLabel>
       <content src="ch_586.xhtml"/>
     </navPoint>
     <navPoint id="ncx_34" playOrder="35">
       <navLabel>
-        <text>587 第6话 星辰遗物（4）</text>
+        <text>587 第6话 星遗物（4）</text>
       </navLabel>
       <content src="ch_587.xhtml"/>
     </navPoint>

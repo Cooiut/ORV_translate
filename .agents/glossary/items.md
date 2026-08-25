@@ -1,4 +1,4 @@
-# 装备 / 道具 / 星辰遗物词汇表
+# 装备 / 道具 / 星遗物词汇表
 > 包含从「历史线/其他」归位的错放装备道具条目。
 
 * Amcheonwolgeuk -> 暗天月戟
@@ -58,7 +58,7 @@
 * Solar energy -> 太阳之气
 * Special Pollution Purification Device -> 特殊污染净化装置
 * Specter's Stone -> 亡灵石
-* star relic -> 星辰遗物
+* star relic -> 星遗物
 * Subway on the way home from work / Subway on the way home -> 下班路上的地铁
 * Sungyu Fruit -> 圣灵果
 * Sylphid's Leaping Boots -> 西尔菲德的跃空靴

@@ -67,7 +67,7 @@ E. 跳过通用知识词：
 | `.agents/glossary/characters.md` | 角色 / 身份 / 阵营 |
 | `.agents/glossary/modifiers.md` | 星座修饰语 / 故事印记 |
 | `.agents/glossary/skills_attrs.md` | 技能 / 属性 / 星痕 |
-| `.agents/glossary/items.md` | 装备 / 道具 / 星辰遗物 |
+| `.agents/glossary/items.md` | 装备 / 道具 / 星遗物 |
 | `.agents/glossary/locations.md` | 地点 / 场景区域 |
 | `.agents/glossary/scenarios.md` | 任务 / 系统分类 |
 | `.agents/glossary/monsters.md` | 怪物 / 灾难 / 世界观符号 |
