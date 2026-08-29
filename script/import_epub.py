@@ -20,6 +20,37 @@ def get_chapter_info(content):
         return actual_num, title_str
     return None, None
 
+def adaptive_clean_br(content):
+    p_count = len(re.findall(r'<p[^>]*>', content, re.I))
+    isolated_br_matches = re.findall(r'</p>\s*<br\s*/?>', content, re.I)
+    isolated_br_count = len(isolated_br_matches)
+    
+    ratio = isolated_br_count / p_count if p_count > 0 else 0
+    
+    # Mode 1: High Density Translator (Ratio >= 0.5) -> Strip mechanical single BRs, keep scene breaks
+    if ratio >= 0.5:
+        # Step A: Keep (len - 1) BRs for consecutive multiple BRs as scene breaks
+        def reduce_consecutive(match):
+            brs = re.findall(r'<br\s*/?>', match.group(0), flags=re.IGNORECASE)
+            kept = max(1, len(brs) - 1)
+            return '\n' + '\n'.join(['<!--KEPT_BR-->'] * kept) + '\n'
+        
+        text = re.sub(r'(?:<br\s*/?>\s*){2,}', reduce_consecutive, content, flags=re.IGNORECASE)
+        # Step B: Remove single isolated BR between block elements
+        text = re.sub(r'(</(?:p|fieldset|h\d|div)>|<hr\s*/?>|<img[^>]*/>)\s*<br\s*/?>\s*(<(?:p|fieldset|h\d|img|div|hr))', r'\1\n\2', text, flags=re.IGNORECASE)
+        text = re.sub(r'^\s*<br\s*/?>\s*$', '', text, flags=re.MULTILINE | re.IGNORECASE)
+        # Step C: Restore kept BRs
+        text = text.replace('<!--KEPT_BR-->', '<br/>')
+    else:
+        # Mode 2: Standard Translator -> Only normalize 2+ consecutive BRs, preserve all legitimate single scene BRs!
+        def reduce_consecutive_std(match):
+            brs = re.findall(r'<br\s*/?>', match.group(0), flags=re.IGNORECASE)
+            kept = max(1, len(brs) - 1)
+            return '\n' + '\n'.join(['<br/>'] * kept) + '\n'
+        text = re.sub(r'(?:<br\s*/?>\s*){2,}', reduce_consecutive_std, content, flags=re.IGNORECASE)
+    
+    return text
+
 def process_for_translation(content, title_str):
     # Standardize the head section to match existing files exactly
     standard_head = f'<head>\n    <link rel="stylesheet" href="style.css" type="text/css" /><title>{title_str}</title></head>'
@@ -27,6 +58,9 @@ def process_for_translation(content, title_str):
 
     # Remove the comment link:
     content = re.sub(r'<hr/>\s*<p[^>]*><a[^>]*>\[CLICK TO READ CHAPTER COMMENTS\]</a></p>', '', content, flags=re.IGNORECASE)
+    
+    # Adaptive BR cleanup based on translator density
+    content = adaptive_clean_br(content)
     
     return remove_empty_lines(content)
 
