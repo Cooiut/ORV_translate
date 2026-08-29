@@ -2971,4 +2971,70 @@
       </navLabel>
       <content src="ch_1046.xhtml"/>
     </navPoint>
+    <navPoint id="ncx_494" playOrder="495">
+      <navLabel>
+        <text>1047 Episode 64. Eternal Night (6)</text>
+      </navLabel>
+      <content src="ch_1047.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx_495" playOrder="496">
+      <navLabel>
+        <text>1048 Episode 64. Eternal Night (7)</text>
+      </navLabel>
+      <content src="ch_1048.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx_496" playOrder="497">
+      <navLabel>
+        <text>1049 Episode 64. Eternal Night (8)</text>
+      </navLabel>
+      <content src="ch_1049.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx_497" playOrder="498">
+      <navLabel>
+        <text>1050 Episode 65. The Last Banquet (1)</text>
+      </navLabel>
+      <content src="ch_1050.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx_498" playOrder="499">
+      <navLabel>
+        <text>1051 Episode 65. The Last Banquet (2)</text>
+      </navLabel>
+      <content src="ch_1051.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx_499" playOrder="500">
+      <navLabel>
+        <text>1052 Episode 65. The Last Banquet (3)</text>
+      </navLabel>
+      <content src="ch_1052.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx_500" playOrder="501">
+      <navLabel>
+        <text>1053 Episode 66. The Wolf That Swallowed a God (1)</text>
+      </navLabel>
+      <content src="ch_1053.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx_501" playOrder="502">
+      <navLabel>
+        <text>1054 Episode 66. The Wolf That Swallowed a God (2)</text>
+      </navLabel>
+      <content src="ch_1054.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx_502" playOrder="503">
+      <navLabel>
+        <text>1055 Episode 66. The Wolf That Swallowed a God (3)</text>
+      </navLabel>
+      <content src="ch_1055.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx_503" playOrder="504">
+      <navLabel>
+        <text>1056 Episode 66. The Wolf That Swallowed a God (4)</text>
+      </navLabel>
+      <content src="ch_1056.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx_504" playOrder="505">
+      <navLabel>
+        <text>1057 Episode 66. The Wolf That Swallowed a God (5)</text>
+      </navLabel>
+      <content src="ch_1057.xhtml"/>
+    </navPoint>
   </navMap></ncx>
