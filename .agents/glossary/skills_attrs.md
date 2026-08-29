@@ -76,3 +76,11 @@
 * Way of the Wind -> 风之路径
 * Weapon Polishing -> 武器淬炼
 * White Blue Energy -> 白青罡气
+* Stage Transformation -> 舞台转化
+* Dark Ocean Slash -> 破天暗海斩
+* Meteor Strike -> 流星斩
+* Soul-Slaying Divine Spear -> 灭魂神枪
+* Soul-Slaying Meteor Halberd -> 灭魂流星戟
+* Star Carving -> 刻星
+* Breaking the Sky Force Punch -> 破天强拳
+* Fall of Ten Thousand Stars -> 万星坠落

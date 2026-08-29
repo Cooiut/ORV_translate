@@ -36,3 +36,7 @@
 * Void Curtain / Void Veil -> 虚无之幕
 * White Flame Dragon -> 白焰龙
 * Yamata no Orochi -> 八岐大蛇
+* World Serpent -> 尘世巨蟒 / 耶梦加得
+* Garm -> 加姆
+* Fenrir -> 芬里尔
+* Wolf That Swallowed a God -> 吞噬神明的狼

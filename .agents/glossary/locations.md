@@ -37,3 +37,6 @@
 * Washington East -> 东华盛顿
 * Water Curtain Cave -> 水帘洞
 * ■■■'s Deep Sea -> ■■■的深海
+* Mímir's Well -> 密米尔之泉
+* Altar of Storms -> 风暴祭坛
+* First Murim -> 第一武林

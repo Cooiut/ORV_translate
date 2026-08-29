@@ -141,3 +141,16 @@
 * Yongcheondo -> 龙天刀
 * Zarathustra -> 查拉图斯特拉 / 扎拉图斯特拉
 * Zeus -> 宙斯
+* Cheok Jungyeong -> 拓俊京
+* Jacob Martinez -> 雅各布·马丁内斯
+* Reinheit von Dserba -> 赖因海特·冯·塞尔巴
+* Fei Hu -> 飞虎
+* Namgung Minyoung -> 南宫敏英
+* Yu Hoseong -> 柳浩盛
+* Hermes -> 赫尔墨斯
+* Persephone -> 珀耳塞福涅
+* Lump-bearing King -> 带瘤老人 / 患瘤老人
+* Heimdall -> 海姆达尔
+* Surtr -> 苏尔特尔
+* Vidar -> 维达尔
+* Loki -> 洛基

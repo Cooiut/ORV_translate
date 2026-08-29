@@ -76,3 +76,4 @@
 * Yangjiokjeongbyeong / Yangzhi Yujing Bottle / Yangjiokjeong bottle -> 羊脂玉净瓶
 * Yeongmyeon's pocket watch / Pocket Watch of the Immortal Face -> 永眠之怀表
 * Zijin Honghuo / Golden Red Gourd / Zijin Hong Hulu -> 紫金红葫芦
+* Lotus Pedestal -> 莲花台
