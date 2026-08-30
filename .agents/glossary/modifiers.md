@@ -67,9 +67,9 @@
 * The Farmer Plowing -> 耕作的农夫
 * The One who Hunted the King of Disasters -> 斩杀灾难之王的人
 * The One Who Won the Rat -> 让老鼠获胜的人
-* the Pig in the Brick House -> 砖屋里的猪
+* the Pig in the Brick House -> 住砖房的小猪
 * The Right Arm of the Sword Master who was Stabbed in the Back by a Colleague -> 被同伴背后捅刀的穷困潦倒的剑术大师的右臂
-* Tiger That Eats Rice Cake / Tiger Who Eats Rice Cake -> 吃年糕的虎
+* Tiger That Eats Rice Cake / Tiger Who Eats Rice Cake -> 爱吃年糕的老虎
 * Time to Brush Teeth -> 刷牙的时间
 * True God Ouijeolgi -> 真神外传绝技
 * Victorious Fighting Buddha -> 斗战胜佛
