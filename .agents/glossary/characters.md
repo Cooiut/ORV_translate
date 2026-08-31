@@ -18,8 +18,8 @@
 * Bang Cheolsoo -> 方铁洙
 * Beast Tamer -> 驯兽师
 * Bicheonhori -> 飞天狐狸
-* Biryu -> 琵流
-* Biyoo -> 比由
+* Biryu -> 比流
+* Biyoo -> 譬喻
 * Black Wolf Cavalry -> 黑狼骑
 * Blood Demon Yeom Baekho -> 血魔廉百虎
 * Bragi -> 布拉基
@@ -29,7 +29,7 @@
 * Chunghuh -> 仲虚
 * Cultivators -> 耕作者
 * Daphne -> 达芙妮
-* Defense Master -> 防御之主
+* Defense Master -> 防御大师
 * Demeter -> 德墨忒尔
 * Demon God 'Abaddon' -> 魔神"阿巴顿"
 * Demon King of the Cinema -> 电影院的魔王
@@ -149,7 +149,7 @@
 * Yu Hoseong -> 柳浩盛
 * Hermes -> 赫尔墨斯
 * Persephone -> 珀耳塞福涅
-* Lump-bearing King -> 带瘤老人 / 患瘤老人
+* Lump-bearing King -> 瘤老头
 * Heimdall -> 海姆达尔
 * Surtr -> 苏尔特尔
 * Vidar -> 维达尔
