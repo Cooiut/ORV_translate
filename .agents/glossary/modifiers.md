@@ -74,5 +74,5 @@
 * True God Ouijeolgi -> 真神外传绝技
 * Victorious Fighting Buddha -> 斗战胜佛
 * Wanderer of the Snowfield -> 雪原的流浪者
-* Watcher of Light and Darkness -> 光与暗的守护者
+* Watcher of Light and Darkness -> 光与暗的守望者
 * Witness to the Truth of the Stars -> 见证群星真相之人
