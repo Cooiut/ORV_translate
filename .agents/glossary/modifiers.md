@@ -6,7 +6,7 @@
 * Bald General of Justice -> 秃头正义将军
 * Bimawen -> 弼马温
 * Caregiver of Light and Compassion -> 光芒与慈悲的铺育者
-* Demon-like Judge of Fire -> 恶魔般的烈火审判者
+* Demon-like Judge of Fire -> 恶魔般的火之审判者
 * Echoes of Ferociousness -> 凶残的回响
 * Encounter with the Wenny King -> 与温尼王的相遇
 * Father of the Rich Night -> 富裕之夜的父亲
